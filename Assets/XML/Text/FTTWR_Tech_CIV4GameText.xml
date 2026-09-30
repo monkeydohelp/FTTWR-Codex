@@ -1,0 +1,4778 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BANDING_TOGETHER</Tag>
+        <English>Banding Together</English>
+        <French>Banding Together</French>
+        <German>Banding Together</German>
+        <Italian>Banding Together</Italian>
+        <Spanish>Banding Together</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BANDING_TOGETHER_PEDIA</Tag>
+        <English>Huddle Huddle</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BANDING_TOGETHER_STRATEGY</Tag>
+        <English>none</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BANDING_TOGETHER_QUOTE</Tag>
+        <English>"Family comes first, and any man that says something different is saying something wrong. You should hit that man. With a stick." 
+		
+		- Bill Wilson </English>
+        <French>"Family comes first, and any man that says something different is saying something wrong. You should hit that man. With a stick." 
+		
+		- Bill Wilson </French>
+        <German>"Family comes first, and any man that says something different is saying something wrong. You should hit that man. With a stick." 
+		
+		- Bill Wilson </German>
+        <Italian>"Family comes first, and any man that says something different is saying something wrong. You should hit that man. With a stick." 
+		
+		- Bill Wilson </Italian>
+        <Spanish>"Family comes first, and any man that says something different is saying something wrong. You should hit that man. With a stick." 
+		
+		- Bill Wilson </Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FORAGING</Tag>
+        <English>Foraging</English>
+        <French>Foraging</French>
+        <German>Foraging</German>
+        <Italian>Foraging</Italian>
+        <Spanish>Foraging</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FORAGING_PEDIA</Tag>
+        <English>Picky Picky</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FORAGING_STRATEGY</Tag>
+        <English>Hit IT!!</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FORAGING_QUOTE</Tag>
+        <English>"What do I WANT? I don't really know. Most of the time I ignore my quest and walk into the homes of others, riffling through people's shelves...oooh, like those over there!" 
+		
+		- Chosen One
+</English>
+        <French>"What do I WANT? I don't really know. Most of the time I ignore my quest and walk into the homes of others, riffling through people's shelves...oooh, like those over there!" 
+		
+		- Chosen One</French>
+        <German>"What do I WANT? I don't really know. Most of the time I ignore my quest and walk into the homes of others, riffling through people's shelves...oooh, like those over there!" 
+		
+		- Chosen One</German>
+        <Italian>"What do I WANT? I don't really know. Most of the time I ignore my quest and walk into the homes of others, riffling through people's shelves...oooh, like those over there!" 
+		
+		- Chosen One</Italian>
+        <Spanish>"What do I WANT? I don't really know. Most of the time I ignore my quest and walk into the homes of others, riffling through people's shelves...oooh, like those over there!" 
+		
+		- Chosen One</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRAPPING</Tag>
+        <English>Trapping</English>
+        <French>Trapping</French>
+        <German>Trapping</German>
+        <Italian>Trapping</Italian>
+        <Spanish>Trapping</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRAPPING_PEDIA</Tag>
+        <English>Trappy trappy</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRAPPING_STRATEGY</Tag>
+        <English>Hit IT!!</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRAPPING_QUOTE</Tag>
+        <English>"Say, your antenna don't pick up all the channels do it? Well, I tell you what. Here's a key to that door behind me. There's all kinds of rats back there - even one big one s'posedly. You go through there and kill all the dang rats you can eat. How's that?" 
+		
+		- Slim</English>
+        <French>"Say, your antenna don't pick up all the channels do it? Well, I tell you what. Here's a key to that door behind me. There's all kinds of rats back there - even one big one s'posedly. You go through there and kill all the dang rats you can eat. How's that?" 
+		
+		- Slim</French>
+        <German>"Say, your antenna don't pick up all the channels do it? Well, I tell you what. Here's a key to that door behind me. There's all kinds of rats back there - even one big one s'posedly. You go through there and kill all the dang rats you can eat. How's that?" 
+		
+		- Slim</German>
+        <Italian>"Say, your antenna don't pick up all the channels do it? Well, I tell you what. Here's a key to that door behind me. There's all kinds of rats back there - even one big one s'posedly. You go through there and kill all the dang rats you can eat. How's that?" 
+		
+		- Slim</Italian>
+        <Spanish>"Say, your antenna don't pick up all the channels do it? Well, I tell you what. Here's a key to that door behind me. There's all kinds of rats back there - even one big one s'posedly. You go through there and kill all the dang rats you can eat. How's that?" 
+		
+		- Slim</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SHELTER</Tag>
+        <English>Shelter</English>
+        <French>Shelter</French>
+        <German>Shelter</German>
+        <Italian>Shelter</Italian>
+        <Spanish>Shelter</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SHELTER_PEDIA</Tag>
+        <English>Hidey Hidey</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SHELTER_STRATEGY</Tag>
+        <English>Hit IT!!</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SHELTER_QUOTE</Tag>
+        <English>"Consider this place your home away from home. If you're ever in the neighborhood again, you're more than welcome to take shelter here." 
+		
+		- Reilly</English>
+        <French>"Consider this place your home away from home. If you're ever in the neighborhood again, you're more than welcome to take shelter here." 
+		
+		- Reilly</French>
+        <German>"Consider this place your home away from home. If you're ever in the neighborhood again, you're more than welcome to take shelter here." 
+		
+		- Reilly</German>
+        <Italian>"Consider this place your home away from home. If you're ever in the neighborhood again, you're more than welcome to take shelter here." 
+		
+		- Reilly</Italian>
+        <Spanish>"Consider this place your home away from home. If you're ever in the neighborhood again, you're more than welcome to take shelter here." 
+		
+		- Reilly</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GATHERING</Tag>
+        <English>Gathering</English>
+        <French>Gathering</French>
+        <German>Gathering</German>
+        <Italian>Gathering</Italian>
+        <Spanish>Gathering</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GATHERING_PEDIA</Tag>
+        <English>Grabby grabby</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GATHERING_STRATEGY</Tag>
+        <English>Hit IT!!</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GATHERING_QUOTE</Tag>
+        <English>"you carefully examine the rocks, but they don't look any more dangerous." 
+		
+		- Text Box</English>
+        <French>"you carefully examine the rocks, but they don't look any more dangerous." 
+		
+		- Text Box</French>
+        <German>"you carefully examine the rocks, but they don't look any more dangerous." 
+		
+		- Text Box</German>
+        <Italian>"you carefully examine the rocks, but they don't look any more dangerous." 
+		
+		- Text Box</Italian>
+        <Spanish>"you carefully examine the rocks, but they don't look any more dangerous." 
+		
+		- Text Box</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ASSIGNED_TASKS</Tag>
+        <English>Assigned Tasks</English>
+        <French>Assigned Tasks</French>
+        <German>Assigned Tasks</German>
+        <Italian>Assigned Tasks</Italian>
+        <Spanish>Assigned Tasks</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ASSIGNED_TASKS_PEDIA</Tag>
+        <English>You do this</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ASSIGNED_TASKS_STRATEGY</Tag>
+        <English>Hit IT!!</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ASSIGNED_TASKS_QUOTE</Tag>
+        <English>"No problemooo." 
+		
+		- B1000</English>
+        <French>"No problemooo." 
+		
+		- B1000</French>
+        <German>"No problemooo." 
+		
+		- B1000</German>
+        <Italian>"No problemooo." 
+		
+		- B1000</Italian>
+        <Spanish>"No problemooo." 
+		
+		- B1000</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DOMESTICATED_ANIMALS</Tag>
+        <English>Domesticated Animals</English>
+        <French>Domesticated Animals</French>
+        <German>Domesticated Animals</German>
+        <Italian>Domesticated Animals</Italian>
+        <Spanish>Domesticated Animals</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DOMESTICATED_ANIMALS_PEDIA</Tag>
+        <English>MOOOO</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DOMESTICATED_ANIMALS_STRATEGY</Tag>
+        <English>Hit IT!!</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DOMESTICATED_ANIMALS_QUOTE</Tag>
+        <English>"Brahmin sure do shi... uh, poop a lot." 
+		
+		- Billy</English>
+        <French>"Brahmin sure do shi... uh, poop a lot." 
+		
+		- Billy</French>
+        <German>"Brahmin sure do shi... uh, poop a lot." 
+		
+		- Billy</German>
+        <Italian>"Brahmin sure do shi... uh, poop a lot." 
+		
+		- Billy</Italian>
+        <Spanish>"Brahmin sure do shi... uh, poop a lot." 
+		
+		- Billy</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_EDIBLE_YUM_YUMS</Tag>
+        <English>Edible Yum Yums</English>
+        <French>Edible Yum Yums</French>
+        <German>Edible Yum Yums</German>
+        <Italian>Edible Yum Yums</Italian>
+        <Spanish>Edible Yum Yums</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_EDIBLE_YUM_YUMS_PEDIA</Tag>
+        <English>Yum Yum</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_EDIBLE_YUM_YUMS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_EDIBLE_YUM_YUMS_QUOTE</Tag>
+        <English>"Well butter mah butt and call me a biscuit, if it ain't my friend from GoodSprings!" 
+		
+		- Victor</English>
+        <French>"Well butter mah butt and call me a biscuit, if it ain't my friend from GoodSprings!" 
+		
+		- Victo</French>
+        <German>"Well butter mah butt and call me a biscuit, if it ain't my friend from GoodSprings!" 
+		
+		- Victo</German>
+        <Italian>"Well butter mah butt and call me a biscuit, if it ain't my friend from GoodSprings!" 
+		
+		- Victo</Italian>
+        <Spanish>"Well butter mah butt and call me a biscuit, if it ain't my friend from GoodSprings!" 
+		
+		- Victo</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BUILDING</Tag>
+        <English>Building</English>
+        <French>Building</French>
+        <German>Building</German>
+        <Italian>Building</Italian>
+        <Spanish>Building</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BUILDING_PEDIA</Tag>
+        <English>Building Stuff</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BUILDING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BUILDING_QUOTE</Tag>
+        <English>"Everything is falling apart and I'm the only one willing to fix it." 
+		
+		- Henry Young</English>
+        <French>"Everything is falling apart and I'm the only one willing to fix it." 
+		
+		- Henry Young</French>
+        <German>"Everything is falling apart and I'm the only one willing to fix it." 
+		
+		- Henry Young</German>
+        <Italian>"Everything is falling apart and I'm the only one willing to fix it." 
+		
+		- Henry Young</Italian>
+        <Spanish>"Everything is falling apart and I'm the only one willing to fix it." 
+		
+		- Henry Young</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BASIC_TOOLS</Tag>
+        <English>Basic Tools</English>
+        <French>Basic Tools</French>
+        <German>Basic Tools</German>
+        <Italian>Basic Tools</Italian>
+        <Spanish>Basic Tools</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BASIC_TOOLS_PEDIA</Tag>
+        <English>Fixing Stuff</English>
+        <French>Fixing Stuff</French>
+        <German>Fixing Stuff</German>
+        <Italian>Fixing Stuff</Italian>
+        <Spanish>Fixing Stuff</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BASIC_TOOLS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BASIC_TOOLS_QUOTE</Tag>
+        <English>"Hey, local, shouldn't you be banging rocks together or something?" 
+		
+		- Brotherhood Outcast</English>
+        <French>"Hey, local, shouldn't you be banging rocks together or something?" 
+		
+		- Brotherhood Outcast</French>
+        <German>"Hey, local, shouldn't you be banging rocks together or something?" 
+		
+		- Brotherhood Outcast</German>
+        <Italian>"Hey, local, shouldn't you be banging rocks together or something?" 
+		
+		- Brotherhood Outcast</Italian>
+        <Spanish>"Hey, local, shouldn't you be banging rocks together or something?" 
+		
+		- Brotherhood Outcast</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LEADERSHIP</Tag>
+        <English>Leadership</English>
+        <French>Leadership</French>
+        <German>Leadership</German>
+        <Italian>Leadership</Italian>
+        <Spanish>Leadership</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LEADERSHIP_PEDIA</Tag>
+        <English>Leadership</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LEADERSHIP_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LEADERSHIP_QUOTE</Tag>
+        <English>"You know, I tried to test my charisma on a Vit-o-matic Vigor Tester once. The machine burst into flames...." 
+		
+		- Mr. New Vegas</English>
+        <French>"You know, I tried to test my charisma on a Vit-o-matic Vigor Tester once. The machine burst into flames...." 
+		
+		- Mr. New Vegas</French>
+        <German>"You know, I tried to test my charisma on a Vit-o-matic Vigor Tester once. The machine burst into flames...." 
+		
+		- Mr. New Vegas</German>
+        <Italian>"You know, I tried to test my charisma on a Vit-o-matic Vigor Tester once. The machine burst into flames...." 
+		
+		- Mr. New Vegas</Italian>
+        <Spanish>"You know, I tried to test my charisma on a Vit-o-matic Vigor Tester once. The machine burst into flames...." 
+		
+		- Mr. New Vegas</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_IMPROVISED_ARMOUR</Tag>
+        <English>Improvised Armour</English>
+        <French>Improvised Armour</French>
+        <German>Improvised Armour</German>
+        <Italian>Improvised Armour</Italian>
+        <Spanish>Improvised Armour</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_IMPROVISED_ARMOUR_PEDIA</Tag>
+        <English>Improvised Armour</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_IMPROVISED_ARMOUR_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_IMPROVISED_ARMOUR_QUOTE</Tag>
+        <English>"Golly, but these pants are tight" 
+		
+		- Vault Boy</English>
+        <French>"Golly, but these pants are tight" 
+		
+		- Vault Boy</French>
+        <German>"Golly, but these pants are tight" 
+		
+		- Vault Boy</German>
+        <Italian>"Golly, but these pants are tight" 
+		
+		- Vault Boy</Italian>
+        <Spanish>"Golly, but these pants are tight" 
+		
+		- Vault Boy</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FOOD_STORAGE</Tag>
+        <English>Food Storage</English>
+        <French>Food Storage</French>
+        <German>Food Storage</German>
+        <Italian>Food Storage</Italian>
+        <Spanish>Food Storage</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FOOD_STORAGE_PEDIA</Tag>
+        <English>Food Storage</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FOOD_STORAGE_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FOOD_STORAGE_QUOTE</Tag>
+        <English>"I am a cybernetic organism. Living tissue over a metal T-bone." 
+		
+- B1000</English>
+        <French>"I am a cybernetic organism. Living tissue over a metal T-bone." 
+		
+- B1000</French>
+        <German>"I am a cybernetic organism. Living tissue over a metal T-bone." 
+		
+- B1000</German>
+        <Italian>"I am a cybernetic organism. Living tissue over a metal T-bone." 
+		
+- B1000</Italian>
+        <Spanish>"I am a cybernetic organism. Living tissue over a metal T-bone." 
+		
+- B1000</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ANIMAL_LABOUR</Tag>
+        <English>Animal Labour</English>
+        <French>Animal Labour</French>
+        <German>Animal Labour</German>
+        <Italian>Animal Labour</Italian>
+        <Spanish>Animal Labour</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ANIMAL_LABOUR_PEDIA</Tag>
+        <English>Animal Labour</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ANIMAL_LABOUR_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ANIMAL_LABOUR_QUOTE</Tag>
+        <English>"I'm not that kind of girl, mister. Go find a Brahma or something." 
+		
+- Tandi</English>
+        <French>"I'm not that kind of girl, mister. Go find a Brahma or something." 
+		
+- Tandi</French>
+        <German>"I'm not that kind of girl, mister. Go find a Brahma or something." 
+		
+- Tandi</German>
+        <Italian>"I'm not that kind of girl, mister. Go find a Brahma or something." 
+		
+- Tandi</Italian>
+        <Spanish>"I'm not that kind of girl, mister. Go find a Brahma or something." 
+		
+- Tandi</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WORKSHOP</Tag>
+        <English>Workshop</English>
+        <French>Workshop</French>
+        <German>Workshop</German>
+        <Italian>Workshop</Italian>
+        <Spanish>Workshop</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WORKSHOP_PEDIA</Tag>
+        <English>Workshop</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WORKSHOP_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WORKSHOP_QUOTE</Tag>
+        <English>"Dad, you can barely tie your shoelaces, much less repair anything with moving parts." 
+		
+- Valerie</English>
+        <French>"Dad, you can barely tie your shoelaces, much less repair anything with moving parts." 
+		
+- Valerie</French>
+        <German>"Dad, you can barely tie your shoelaces, much less repair anything with moving parts." 
+		
+- Valerie</German>
+        <Italian>"Dad, you can barely tie your shoelaces, much less repair anything with moving parts." 
+		
+- Valerie</Italian>
+        <Spanish>"Dad, you can barely tie your shoelaces, much less repair anything with moving parts." 
+		
+- Valerie</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SCAVENGING</Tag>
+        <English>Scavenging</English>
+        <French>Scavenging</French>
+        <German>Scavenging</German>
+        <Italian>Scavenging</Italian>
+        <Spanish>Scavenging</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SCAVENGING_PEDIA</Tag>
+        <English>Scavenging</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SCAVENGING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SCAVENGING_QUOTE</Tag>
+        <English>"We've still got the damn Frankensteins crawling all over D.C. and Rothchild's got us picking up every blinking gizmo from here to Virginia." 
+		
+- Sentinel Lyons</English>
+        <French>"We've still got the damn Frankensteins crawling all over D.C. and Rothchild's got us picking up every blinking gizmo from here to Virginia." 
+		
+- Sentinel Lyons</French>
+        <German>"We've still got the damn Frankensteins crawling all over D.C. and Rothchild's got us picking up every blinking gizmo from here to Virginia." 
+		
+- Sentinel Lyons</German>
+        <Italian>"We've still got the damn Frankensteins crawling all over D.C. and Rothchild's got us picking up every blinking gizmo from here to Virginia." 
+		
+- Sentinel Lyons</Italian>
+        <Spanish>"We've still got the damn Frankensteins crawling all over D.C. and Rothchild's got us picking up every blinking gizmo from here to Virginia." 
+		
+- Sentinel Lyons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ORGANISATION</Tag>
+        <English>Organisation</English>
+        <French>Organisation</French>
+        <German>Organisation</German>
+        <Italian>Organisation</Italian>
+        <Spanish>Organisation</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ORGANISATION_PEDIA</Tag>
+        <English>Organisation</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ORGANISATION_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ORGANISATION_QUOTE</Tag>
+        <English>"There are three simple rules to follow with Brotherhood equipment! If you damage your weapon, you will spend a week in the box! If you damage your armor, you will spend a week in the box! If you lose either, I'll kill you myself!" 
+		
+- Paladin Ryczek</English>
+        <French>"There are three simple rules to follow with Brotherhood equipment! If you damage your weapon, you will spend a week in the box! If you damage your armor, you will spend a week in the box! If you lose either, I'll kill you myself!" 
+		
+- Paladin Ryczek</French>
+        <German>"There are three simple rules to follow with Brotherhood equipment! If you damage your weapon, you will spend a week in the box! If you damage your armor, you will spend a week in the box! If you lose either, I'll kill you myself!" 
+		
+- Paladin Ryczek</German>
+        <Italian>"There are three simple rules to follow with Brotherhood equipment! If you damage your weapon, you will spend a week in the box! If you damage your armor, you will spend a week in the box! If you lose either, I'll kill you myself!" 
+		
+- Paladin Ryczek</Italian>
+        <Spanish>"There are three simple rules to follow with Brotherhood equipment! If you damage your weapon, you will spend a week in the box! If you damage your armor, you will spend a week in the box! If you lose either, I'll kill you myself!" 
+		
+- Paladin Ryczek</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SMALL_ARMS</Tag>
+        <English>Small Arms</English>
+        <French>Small Arms</French>
+        <German>Small Arms</German>
+        <Italian>Small Arms</Italian>
+        <Spanish>Small Arms</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SMALL_ARMS_PEDIA</Tag>
+        <English>Small Arms</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SMALL_ARMS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SMALL_ARMS_QUOTE</Tag>
+        <English>"Now get your weak-kneed, superstitious, soft-skinned, uneducated butts to the armory!" 
+		
+- Paladin Ryczek</English>
+        <French>"Now get your weak-kneed, superstitious, soft-skinned, uneducated butts to the armory!" 
+		
+- Paladin Ryczek</French>
+        <German>"Now get your weak-kneed, superstitious, soft-skinned, uneducated butts to the armory!" 
+		
+- Paladin Ryczek</German>
+        <Italian>"Now get your weak-kneed, superstitious, soft-skinned, uneducated butts to the armory!" 
+		
+- Paladin Ryczek</Italian>
+        <Spanish>"Now get your weak-kneed, superstitious, soft-skinned, uneducated butts to the armory!" 
+		
+- Paladin Ryczek</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CULTIVATION</Tag>
+        <English>Cultivation</English>
+        <French>Cultivation</French>
+        <German>Cultivation</German>
+        <Italian>Cultivation</Italian>
+        <Spanish>Cultivation</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CULTIVATION_PEDIA</Tag>
+        <English>Cultivation</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CULTIVATION_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CULTIVATION_QUOTE</Tag>
+        <English>"If you don't get the fuq moving, you're gonna have to stand the fuq by for me to stick my foot so far up your ass, that you'll be TASTING THE CRAP THAT GROWS BETWEEN MY TOES!!!" 
+		
+		- Auditor General</English>
+        <French>"If you don't get the fuq moving, you're gonna have to stand the fuq by for me to stick my foot so far up your ass, that you'll be TASTING THE CRAP THAT GROWS BETWEEN MY TOES!!!" 
+		
+		- Auditor General</French>
+        <German>"If you don't get the fuq moving, you're gonna have to stand the fuq by for me to stick my foot so far up your ass, that you'll be TASTING THE CRAP THAT GROWS BETWEEN MY TOES!!!" 
+		
+		- Auditor General</German>
+        <Italian>"If you don't get the fuq moving, you're gonna have to stand the fuq by for me to stick my foot so far up your ass, that you'll be TASTING THE CRAP THAT GROWS BETWEEN MY TOES!!!" 
+		
+		- Auditor General</Italian>
+        <Spanish>"If you don't get the fuq moving, you're gonna have to stand the fuq by for me to stick my foot so far up your ass, that you'll be TASTING THE CRAP THAT GROWS BETWEEN MY TOES!!!" 
+		
+		- Auditor General</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HUNTING</Tag>
+        <English>Hunting</English>
+        <French>Hunting</French>
+        <German>Hunting</German>
+        <Italian>Hunting</Italian>
+        <Spanish>Hunting</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HUNTING_PEDIA</Tag>
+        <English>Hunting</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HUNTING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_FTTWR_TECH_HUNTING_QUOTE</Tag>
+        <English>"Hasta la vista, calfy." 
+		
+		- B1000</English>
+        <French>"Hasta la vista, calfy." 
+		
+		- B1000</French>
+        <German>"Hasta la vista, calfy." 
+		
+		- B1000</German>
+        <Italian>"Hasta la vista, calfy." 
+		
+		- B1000</Italian>
+        <Spanish>"Hasta la vista, calfy." 
+		
+		- B1000</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_INITIAL_INFRASTRUCTURE</Tag>
+        <English>Initial Infrastructure</English>
+        <French>Initial Infrastructure</French>
+        <German>Initial Infrastructure</German>
+        <Italian>Initial Infrastructure</Italian>
+        <Spanish>Initial Infrastructure</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_INITIAL_INFRASTRUCTURE_PEDIA</Tag>
+        <English>Initial Infrastructure</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_INITIAL_INFRASTRUCTURE_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_INITIAL_INFRASTRUCTURE_QUOTE</Tag>
+        <English>"Have you ever tried to indulge an all-consuming urge to kill when you don't have opposable thumbs? Or hands? Or anything other than a bread slot? You'd have a lot of pent-up anger too!"
+
+		- Toaster</English>
+        <French>"Have you ever tried to indulge an all-consuming urge to kill when you don't have opposable thumbs? Or hands? Or anything other than a bread slot? You'd have a lot of pent-up anger too!"
+
+		- Toaster</French>
+        <German>"Have you ever tried to indulge an all-consuming urge to kill when you don't have opposable thumbs? Or hands? Or anything other than a bread slot? You'd have a lot of pent-up anger too!"
+
+		- Toaster</German>
+        <Italian>"Have you ever tried to indulge an all-consuming urge to kill when you don't have opposable thumbs? Or hands? Or anything other than a bread slot? You'd have a lot of pent-up anger too!"
+
+		- Toaster</Italian>
+        <Spanish>"Have you ever tried to indulge an all-consuming urge to kill when you don't have opposable thumbs? Or hands? Or anything other than a bread slot? You'd have a lot of pent-up anger too!"
+
+		- Toaster</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FIDDLING</Tag>
+        <English>Fiddling</English>
+        <French>Fiddling</French>
+        <German>Fiddling</German>
+        <Italian>Fiddling</Italian>
+        <Spanish>Fiddling</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FIDDLING_PEDIA</Tag>
+        <English>Fiddling</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FIDDLING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FIDDLING_QUOTE</Tag>
+        <English>"They asked me how well I understood theoretical physics. I told them I had a theoretical degree in physics. They said welcome aboard." 
+		
+		- Fantastic</English>
+        <French>"They asked me how well I understood theoretical physics. I told them I had a theoretical degree in physics. They said welcome aboard." 
+		
+		- Fantastic</French>
+        <German>"They asked me how well I understood theoretical physics. I told them I had a theoretical degree in physics. They said welcome aboard." 
+		
+		- Fantastic</German>
+        <Italian>"They asked me how well I understood theoretical physics. I told them I had a theoretical degree in physics. They said welcome aboard." 
+		
+		- Fantastic</Italian>
+        <Spanish>"They asked me how well I understood theoretical physics. I told them I had a theoretical degree in physics. They said welcome aboard." 
+		
+		- Fantastic</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WRITING</Tag>
+        <English>Writing</English>
+        <French>Writing</French>
+        <German>Writing</German>
+        <Italian>Writing</Italian>
+        <Spanish>Writing</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WRITING_PEDIA</Tag>
+        <English>Writing</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WRITING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WRITING_QUOTE</Tag>
+        <English>"I see you fight with words, like all beneath the flag of the Bear. Let us hope your skill with weapons proves greater." 
+		
+		- Legate Lanius</English>
+        <French>"I see you fight with words, like all beneath the flag of the Bear. Let us hope your skill with weapons proves greater." 
+		
+		- Legate Lanius</French>
+        <German>"I see you fight with words, like all beneath the flag of the Bear. Let us hope your skill with weapons proves greater." 
+		
+		- Legate Lanius</German>
+        <Italian>"I see you fight with words, like all beneath the flag of the Bear. Let us hope your skill with weapons proves greater." 
+		
+		- Legate Lanius</Italian>
+        <Spanish>"I see you fight with words, like all beneath the flag of the Bear. Let us hope your skill with weapons proves greater." 
+		
+		- Legate Lanius</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LAW_OF_THE_GUN</Tag>
+        <English>Law Of The Gun</English>
+        <French>Law Of The Gun</French>
+        <German>Law Of The Gun</German>
+        <Italian>Law Of The Gun</Italian>
+        <Spanish>Law Of The Gun</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LAW_OF_THE_GUN_PEDIA</Tag>
+        <English>Law Of The Gun</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LAW_OF_THE_GUN_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LAW_OF_THE_GUN_QUOTE</Tag>
+        <English>"You see, in this world there are two kinds of people, my friend, those with loaded guns, and those who dig. You dig." 
+		
+		- The Chosen One</English>
+        <French>"You see, in this world there are two kinds of people, my friend, those with loaded guns, and those who dig. You dig." 
+		
+		- The Chosen One</French>
+        <German>"You see, in this world there are two kinds of people, my friend, those with loaded guns, and those who dig. You dig." 
+		
+		- The Chosen One</German>
+        <Italian>"You see, in this world there are two kinds of people, my friend, those with loaded guns, and those who dig. You dig." 
+		
+		- The Chosen One</Italian>
+        <Spanish>"You see, in this world there are two kinds of people, my friend, those with loaded guns, and those who dig. You dig." 
+		
+		- The Chosen One</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GARDENING</Tag>
+        <English>Gardening</English>
+        <French>Gardening</French>
+        <German>Gardening</German>
+        <Italian>Gardening</Italian>
+        <Spanish>Gardening</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GARDENING_PEDIA</Tag>
+        <English>Gardening</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GARDENING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GARDENING_QUOTE</Tag>
+        <English>"Did you just asked me to weed your garden?" 
+		
+		- The Chosen One</English>
+        <French>"Did you just asked me to weed your garden?" 
+		
+		- The Chosen One</French>
+        <German>"Did you just asked me to weed your garden?" 
+		
+		- The Chosen One</German>
+        <Italian>"Did you just asked me to weed your garden?" 
+		
+		- The Chosen One</Italian>
+        <Spanish>"Did you just asked me to weed your garden?" 
+		
+		- The Chosen One</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WAR_ANIMALS</Tag>
+        <English>War Animals</English>
+        <French>War Animals</French>
+        <German>War Animals</German>
+        <Italian>War Animals</Italian>
+        <Spanish>War Animals</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WAR_ANIMALS_PEDIA</Tag>
+        <English>War Animals</English>
+        <French>War Animals</French>
+        <German>War Animals</German>
+        <Italian>War Animals</Italian>
+        <Spanish>War Animals</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WAR_ANIMALS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WAR_ANIMALS_QUOTE</Tag>
+        <English>"When I was a child, growing up in rural Kentucky, I had the best friend a boy could hope for, my dear old dog, Honey." 
+		
+		- President John Henry Eden</English>
+        <French>"When I was a child, growing up in rural Kentucky, I had the best friend a boy could hope for, my dear old dog, Honey." 
+		
+		- President John Henry Eden</French>
+        <German>"When I was a child, growing up in rural Kentucky, I had the best friend a boy could hope for, my dear old dog, Honey." 
+		
+		- President John Henry Eden</German>
+        <Italian>"When I was a child, growing up in rural Kentucky, I had the best friend a boy could hope for, my dear old dog, Honey." 
+		
+		- President John Henry Eden</Italian>
+        <Spanish>"When I was a child, growing up in rural Kentucky, I had the best friend a boy could hope for, my dear old dog, Honey." 
+		
+		- President John Henry Eden</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BARTERING</Tag>
+        <English>Bartering</English>
+        <French>Bartering</French>
+        <German>Bartering</German>
+        <Italian>Bartering</Italian>
+        <Spanish>Bartering</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BARTERING_PEDIA</Tag>
+        <English>Bartering</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BARTERING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BARTERING_QUOTE</Tag>
+        <English>"How about I take a blowtorch to this whole place instead! Huh lady?" 
+		
+		- Vault Dweller</English>
+        <French>"How about I take a blowtorch to this whole place instead! Huh lady?" 
+		
+		- Vault Dweller</French>
+        <German>"How about I take a blowtorch to this whole place instead! Huh lady?" 
+		
+		- Vault Dweller</German>
+        <Italian>"How about I take a blowtorch to this whole place instead! Huh lady?" 
+		
+		- Vault Dweller</Italian>
+        <Spanish>"How about I take a blowtorch to this whole place instead! Huh lady?" 
+		
+		- Vault Dweller</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DEFENSE</Tag>
+        <English>Defense</English>
+        <French>Defense</French>
+        <German>Defense</German>
+        <Italian>Defense</Italian>
+        <Spanish>Defense</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DEFENSE_PEDIA</Tag>
+        <English>Defense</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DEFENSE_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DEFENSE_QUOTE</Tag>
+        <English>"My spidey sense is definitely tingling." 
+		
+		- Civillian</English>
+        <French>"My spidey sense is definitely tingling." 
+		
+		- Civillian</French>
+        <German>"My spidey sense is definitely tingling." 
+		
+		- Civillian</German>
+        <Italian>"My spidey sense is definitely tingling." 
+		
+		- Civillian</Italian>
+        <Spanish>"My spidey sense is definitely tingling." 
+		
+		- Civillian</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_NEW_FRONTIERS</Tag>
+        <English>New Frontiers</English>
+        <French>New Frontiers</French>
+        <German>New Frontiers</German>
+        <Italian>New Frontiers</Italian>
+        <Spanish>New Frontiers</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_NEW_FRONTIERS_PEDIA</Tag>
+        <English>New Frontiers</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_NEW_FRONTIERS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_NEW_FRONTIERS_QUOTE</Tag>
+        <English>"To see a valley filled with my enemies' heads mounted on spears. A silent valley, except for the wind whistling through their ears." 
+		
+		- Vault Dweller</English>
+        <French>"To see a valley filled with my enemies' heads mounted on spears. A silent valley, except for the wind whistling through their ears." 
+		
+		- Vault Dweller</French>
+        <German>"To see a valley filled with my enemies' heads mounted on spears. A silent valley, except for the wind whistling through their ears." 
+		
+		- Vault Dweller</German>
+        <Italian>"To see a valley filled with my enemies' heads mounted on spears. A silent valley, except for the wind whistling through their ears." 
+		
+		- Vault Dweller</Italian>
+        <Spanish>"To see a valley filled with my enemies' heads mounted on spears. A silent valley, except for the wind whistling through their ears." 
+		
+		- Vault Dweller</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PROTECTORS</Tag>
+        <English>Protectors</English>
+        <French>Protectors</French>
+        <German>Protectors</German>
+        <Italian>Protectors</Italian>
+        <Spanish>Protectors</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PROTECTORS_PEDIA</Tag>
+        <English>Protectors</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PROTECTORS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PROTECTORS_QUOTE</Tag>
+        <English>"Oh, listen, I'm gonna take the guards and run Gizmo and his cronies out of town. I could use another gun. You up for it? Might be good for a laugh."
+		
+		- Mayor Killian Darkwater</English>
+        <French>"Oh, listen, I'm gonna take the guards and run Gizmo and his cronies out of town. I could use another gun. You up for it? Might be good for a laugh."
+		
+		- Mayor Killian Darkwater</French>
+        <German>"Oh, listen, I'm gonna take the guards and run Gizmo and his cronies out of town. I could use another gun. You up for it? Might be good for a laugh."
+		
+		- Mayor Killian Darkwater</German>
+        <Italian>"Oh, listen, I'm gonna take the guards and run Gizmo and his cronies out of town. I could use another gun. You up for it? Might be good for a laugh."
+		
+		- Mayor Killian Darkwater</Italian>
+        <Spanish>"Oh, listen, I'm gonna take the guards and run Gizmo and his cronies out of town. I could use another gun. You up for it? Might be good for a laugh."
+		
+		- Mayor Killian Darkwater</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SLAVERY</Tag>
+        <English>Slavery</English>
+        <French>Slavery</French>
+        <German>Slavery</German>
+        <Italian>Slavery</Italian>
+        <Spanish>Slavery</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SLAVERY_PEDIA</Tag>
+        <English>Enslavement</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SLAVERY_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SLAVERY_QUOTE</Tag>
+        <English>"If you fit it just right, their body never gets used to the feeling of wearing it. It cuts in just enough when they swallow or turn their head to remind them who they belong to and it's that constant reminder that keeps them docile." 
+		
+		- Silus</English>
+        <French>"If you fit it just right, their body never gets used to the feeling of wearing it. It cuts in just enough when they swallow or turn their head to remind them who they belong to and it's that constant reminder that keeps them docile." 
+		
+		- Silus</French>
+        <German>"If you fit it just right, their body never gets used to the feeling of wearing it. It cuts in just enough when they swallow or turn their head to remind them who they belong to and it's that constant reminder that keeps them docile." 
+		
+		- Silus</German>
+        <Italian>"If you fit it just right, their body never gets used to the feeling of wearing it. It cuts in just enough when they swallow or turn their head to remind them who they belong to and it's that constant reminder that keeps them docile." 
+		
+		- Silus</Italian>
+        <Spanish>"If you fit it just right, their body never gets used to the feeling of wearing it. It cuts in just enough when they swallow or turn their head to remind them who they belong to and it's that constant reminder that keeps them docile." 
+		
+		- Silus</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BRAWLING</Tag>
+        <English>Brawling</English>
+        <French>Brawling</French>
+        <German>Brawling</German>
+        <Italian>Brawling</Italian>
+        <Spanish>Brawling</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BRAWLING_PEDIA</Tag>
+        <English>Brawling</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BRAWLING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BRAWLING_QUOTE</Tag>
+        <English>"Who's going to do that? You? You couldn't get off your fat butt to get a sandwich, much less kill me." 
+		
+		- Vault Dweller</English>
+        <French>"Who's going to do that? You? You couldn't get off your fat butt to get a sandwich, much less kill me." 
+		
+		- Vault Dweller</French>
+        <German>"Who's going to do that? You? You couldn't get off your fat butt to get a sandwich, much less kill me." 
+		
+		- Vault Dweller</German>
+        <Italian>"Who's going to do that? You? You couldn't get off your fat butt to get a sandwich, much less kill me." 
+		
+		- Vault Dweller</Italian>
+        <Spanish>"Who's going to do that? You? You couldn't get off your fat butt to get a sandwich, much less kill me." 
+		
+		- Vault Dweller</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LOCAL_BUSINESS</Tag>
+        <English>Local Business</English>
+        <French>Local Business</French>
+        <German>Local Business</German>
+        <Italian>Local Business</Italian>
+        <Spanish>Local Business</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LOCAL_BUSINESS_PEDIA</Tag>
+        <English>Local Business</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LOCAL_BUSINESS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LOCAL_BUSINESS_QUOTE</Tag>
+        <English>"Welcome Sir or Madam to Crazy Wolfgang's.-The depot of detritus, the shop of slop and the caravan of crap..." 
+		
+		- Crazy Wolfgang</English>
+        <French>"Welcome Sir or Madam to Crazy Wolfgang's.-The depot of detritus, the shop of slop and the caravan of crap..." 
+		
+		- Crazy Wolfgang</French>
+        <German>"Welcome Sir or Madam to Crazy Wolfgang's.-The depot of detritus, the shop of slop and the caravan of crap..." 
+		
+		- Crazy Wolfgang</German>
+        <Italian>"Welcome Sir or Madam to Crazy Wolfgang's.-The depot of detritus, the shop of slop and the caravan of crap..." 
+		
+		- Crazy Wolfgang</Italian>
+        <Spanish>"Welcome Sir or Madam to Crazy Wolfgang's.-The depot of detritus, the shop of slop and the caravan of crap..." 
+		
+		- Crazy Wolfgang</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HERBAL_LORE</Tag>
+        <English>Herbal Lore</English>
+        <French>Herbal Lore</French>
+        <German>Herbal Lore</German>
+        <Italian>Herbal Lore</Italian>
+        <Spanish>Herbal Lore</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HERBAL_LORE_PEDIA</Tag>
+        <English>Herbal Lore</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HERBAL_LORE_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HERBAL_LORE_QUOTE</Tag>
+        <English>"Most people have evil spirits. You? You have stupid spirits. Go see shaman, get hole in head... Big hole... Very big... Huge." 
+		
+		- Sulik</English>
+        <French>"Most people have evil spirits. You? You have stupid spirits. Go see shaman, get hole in head... Big hole... Very big... Huge." 
+		
+		- Sulik</French>
+        <German>"Most people have evil spirits. You? You have stupid spirits. Go see shaman, get hole in head... Big hole... Very big... Huge." 
+		
+		- Sulik</German>
+        <Italian>"Most people have evil spirits. You? You have stupid spirits. Go see shaman, get hole in head... Big hole... Very big... Huge." 
+		
+		- Sulik</Italian>
+        <Spanish>"Most people have evil spirits. You? You have stupid spirits. Go see shaman, get hole in head... Big hole... Very big... Huge." 
+		
+		- Sulik</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_AUTHORITY</Tag>
+        <English>Authority</English>
+        <French>Authority</French>
+        <German>Authority</German>
+        <Italian>Authority</Italian>
+        <Spanish>Authority</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_AUTHORITY_PEDIA</Tag>
+        <English>Authority</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_AUTHORITY_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_AUTHORITY_QUOTE</Tag>
+        <English>"The mind simply boggles at your intellect. Why the legions haven't bowed down at your feet by now, I'll never understand. Guards, take this idiot away!" 
+		
+		- The Lieutenant</English>
+        <French>"The mind simply boggles at your intellect. Why the legions haven't bowed down at your feet by now, I'll never understand. Guards, take this idiot away!" 
+		
+		- The Lieutenant</French>
+        <German>"The mind simply boggles at your intellect. Why the legions haven't bowed down at your feet by now, I'll never understand. Guards, take this idiot away!" 
+		
+		- The Lieutenant</German>
+        <Italian>"The mind simply boggles at your intellect. Why the legions haven't bowed down at your feet by now, I'll never understand. Guards, take this idiot away!" 
+		
+		- The Lieutenant</Italian>
+        <Spanish>"The mind simply boggles at your intellect. Why the legions haven't bowed down at your feet by now, I'll never understand. Guards, take this idiot away!" 
+		
+		- The Lieutenant</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HUNTING_RIFLES</Tag>
+        <English>Hunting Rifles</English>
+        <French>Hunting Rifles</French>
+        <German>Hunting Rifles</German>
+        <Italian>Hunting Rifles</Italian>
+        <Spanish>Hunting Rifles</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HUNTING_RIFLES_PEDIA</Tag>
+        <English>Hunting Rifles</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HUNTING_RIFLES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HUNTING_RIFLES_QUOTE</Tag>
+        <English>"Enemy, meet gun. Gun, meet enemy." 
+		
+		- Marcus</English>
+        <French>"Enemy, meet gun. Gun, meet enemy." 
+		
+		- Marcus</French>
+        <German>"Enemy, meet gun. Gun, meet enemy." 
+		
+		- Marcus</German>
+        <Italian>"Enemy, meet gun. Gun, meet enemy." 
+		
+		- Marcus</Italian>
+        <Spanish>"Enemy, meet gun. Gun, meet enemy." 
+		
+		- Marcus</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BOOK_GATHERING</Tag>
+        <English>Book Gathering</English>
+        <French>Book Gathering</French>
+        <German>Book Gathering</German>
+        <Italian>Book Gathering</Italian>
+        <Spanish>Book Gathering</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BOOK_GATHERING_PEDIA</Tag>
+        <English>Book Gathering</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BOOK_GATHERING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BOOK_GATHERING_QUOTE</Tag>
+        <English>"I showed them total warfare. Like I said, there's a lot you can learn from old books." 
+		
+		- Caesar</English>
+        <French>"I showed them total warfare. Like I said, there's a lot you can learn from old books." 
+		
+		- Caesar</French>
+        <German>"I showed them total warfare. Like I said, there's a lot you can learn from old books." 
+		
+		- Caesar</German>
+        <Italian>"I showed them total warfare. Like I said, there's a lot you can learn from old books." 
+		
+		- Caesar</Italian>
+        <Spanish>"I showed them total warfare. Like I said, there's a lot you can learn from old books." 
+		
+		- Caesar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MELEE_WEAPONS</Tag>
+        <English>Melee Weapons</English>
+        <French>Melee Weapons</French>
+        <German>Melee Weapons</German>
+        <Italian>Melee Weapons</Italian>
+        <Spanish>Melee Weapons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MELEE_WEAPONS_PEDIA</Tag>
+        <English>Melee Weapons</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MELEE_WEAPONS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MELEE_WEAPONS_QUOTE</Tag>
+        <English>"Over-reliance on firearms can only weaken us in the long run. It's why we train heavily with our blades and our fists. Unlike an NCR trooper, a Legionary is always ready to fight regardless of the circumstance he finds himself in." 
+		
+		- Lucius</English>
+        <French>"Over-reliance on firearms can only weaken us in the long run. It's why we train heavily with our blades and our fists. Unlike an NCR trooper, a Legionary is always ready to fight regardless of the circumstance he finds himself in." 
+		
+		- Lucius</French>
+        <German>"Over-reliance on firearms can only weaken us in the long run. It's why we train heavily with our blades and our fists. Unlike an NCR trooper, a Legionary is always ready to fight regardless of the circumstance he finds himself in." 
+		
+		- Lucius</German>
+        <Italian>"Over-reliance on firearms can only weaken us in the long run. It's why we train heavily with our blades and our fists. Unlike an NCR trooper, a Legionary is always ready to fight regardless of the circumstance he finds himself in." 
+		
+		- Lucius</Italian>
+        <Spanish>"Over-reliance on firearms can only weaken us in the long run. It's why we train heavily with our blades and our fists. Unlike an NCR trooper, a Legionary is always ready to fight regardless of the circumstance he finds himself in." 
+		
+		- Lucius</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SEARCH_PARTIES</Tag>
+        <English>Search Parties</English>
+        <French>Search Parties</French>
+        <German>Search Parties</German>
+        <Italian>Search Parties</Italian>
+        <Spanish>Search Parties</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SEARCH_PARTIES_PEDIA</Tag>
+        <English>Search Parties</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SEARCH_PARTIES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SEARCH_PARTIES_QUOTE</Tag>
+        <English>"Gosh, I sure would like some friends." 
+		
+		- Vault Boy</English>
+        <French>"Gosh, I sure would like some friends." 
+		
+		- Vault Boy</French>
+        <German>"Gosh, I sure would like some friends." 
+		
+		- Vault Boy</German>
+        <Italian>"Gosh, I sure would like some friends." 
+		
+		- Vault Boy</Italian>
+        <Spanish>"Gosh, I sure would like some friends." 
+		
+		- Vault Boy</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BASIC_MEDICINE</Tag>
+        <English>Basic Medicine</English>
+        <French>Basic Medicine</French>
+        <German>Basic Medicine</German>
+        <Italian>Basic Medicine</Italian>
+        <Spanish>Basic Medicine</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BASIC_MEDICINE_PEDIA</Tag>
+        <English>Basic Medicine</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BASIC_MEDICINE_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BASIC_MEDICINE_QUOTE</Tag>
+        <English>"Come to lend me a 'hand' I hope, I could always use fresh human samples..." 
+		
+		- Dr Barrows</English>
+        <French>"Come to lend me a 'hand' I hope, I could always use fresh human samples..." 
+		
+		- Dr Barrows</French>
+        <German>"Come to lend me a 'hand' I hope, I could always use fresh human samples..." 
+		
+		- Dr Barrows</German>
+        <Italian>"Come to lend me a 'hand' I hope, I could always use fresh human samples..." 
+		
+		- Dr Barrows</Italian>
+        <Spanish>"Come to lend me a 'hand' I hope, I could always use fresh human samples..." 
+		
+		- Dr Barrows</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SAFE_HAVEN</Tag>
+        <English>Safe Haven</English>
+        <French>Safe Haven</French>
+        <German>Safe Haven</German>
+        <Italian>Safe Haven</Italian>
+        <Spanish>Safe Haven</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SAFE_HAVEN_PEDIA</Tag>
+        <English>Safe Haven</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SAFE_HAVEN_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SAFE_HAVEN_QUOTE</Tag>
+        <English>"It is I, Doctor Mobius! Transmitting from my DOME-SHAPED.....DOME in the forbidden zone! A zone that is, Yes forbidden to you!" 
+		
+		- Dr. Mobius</English>
+        <French>"It is I, Doctor Mobius! Transmitting from my DOME-SHAPED.....DOME in the forbidden zone! A zone that is, Yes forbidden to you!" 
+		
+		- Dr. Mobius</French>
+        <German>"It is I, Doctor Mobius! Transmitting from my DOME-SHAPED.....DOME in the forbidden zone! A zone that is, Yes forbidden to you!" 
+		
+		- Dr. Mobius</German>
+        <Italian>"It is I, Doctor Mobius! Transmitting from my DOME-SHAPED.....DOME in the forbidden zone! A zone that is, Yes forbidden to you!" 
+		
+		- Dr. Mobius</Italian>
+        <Spanish>"It is I, Doctor Mobius! Transmitting from my DOME-SHAPED.....DOME in the forbidden zone! A zone that is, Yes forbidden to you!" 
+		
+		- Dr. Mobius</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ASSAULT_RIFLES</Tag>
+        <English>Assault Rifles</English>
+        <French>Assault Rifles</French>
+        <German>Assault Rifles</German>
+        <Italian>Assault Rifles</Italian>
+        <Spanish>Assault Rifles</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ASSAULT_RIFLES_PEDIA</Tag>
+        <English>Assault Rifles</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ASSAULT_RIFLES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ASSAULT_RIFLES_QUOTE</Tag>
+        <English>"I want them deader than a meat-sauce covered ghoul, with a chainsaw up his ass, tossed into a pit full of GODDAMN HUNGRY DEATHCLAWS!!IS THAT CLEAR?!?!" 
+		
+		- Auditor General</English>
+        <French>"I want them deader than a meat-sauce covered ghoul, with a chainsaw up his ass, tossed into a pit full of GODDAMN HUNGRY DEATHCLAWS!!IS THAT CLEAR?!?!" 
+		
+		- Auditor General</French>
+        <German>"I want them deader than a meat-sauce covered ghoul, with a chainsaw up his ass, tossed into a pit full of GODDAMN HUNGRY DEATHCLAWS!!IS THAT CLEAR?!?!" 
+		
+		- Auditor General</German>
+        <Italian>"I want them deader than a meat-sauce covered ghoul, with a chainsaw up his ass, tossed into a pit full of GODDAMN HUNGRY DEATHCLAWS!!IS THAT CLEAR?!?!" 
+		
+		- Auditor General</Italian>
+        <Spanish>"I want them deader than a meat-sauce covered ghoul, with a chainsaw up his ass, tossed into a pit full of GODDAMN HUNGRY DEATHCLAWS!!IS THAT CLEAR?!?!" 
+		
+		- Auditor General</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HOUSING</Tag>
+        <English>Housing</English>
+        <French>Housing</French>
+        <German>Housing</German>
+        <Italian>Housing</Italian>
+        <Spanish>Housing</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HOUSING_PEDIA</Tag>
+        <English>Housing</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HOUSING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HOUSING_QUOTE</Tag>
+        <English>"Procreation is your civic duty" 
+		
+		- Vault 101 Message Board</English>
+        <French>"Procreation is your civic duty" 
+		
+		- Vault 101 Message Board</French>
+        <German>"Procreation is your civic duty" 
+		
+		- Vault 101 Message Board</German>
+        <Italian>"Procreation is your civic duty" 
+		
+		- Vault 101 Message Board</Italian>
+        <Spanish>"Procreation is your civic duty" 
+		
+		- Vault 101 Message Board</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HOSPITALITY</Tag>
+        <English>Hospitality</English>
+        <French>Hospitality</French>
+        <German>Hospitality</German>
+        <Italian>Hospitality</Italian>
+        <Spanish>Hospitality</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HOSPITALITY_PEDIA</Tag>
+        <English>Hospitality</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HOSPITALITY_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HOSPITALITY_QUOTE</Tag>
+        <English>"I am the bringer of death. Fall to your knees and beg for mercy... Or give me a sandwich, I'm pretty hungry." 
+		
+		- Vault Dweller</English>
+        <French>"I am the bringer of death. Fall to your knees and beg for mercy... Or give me a sandwich, I'm pretty hungry." 
+		
+		- Vault Dweller</French>
+        <German>"I am the bringer of death. Fall to your knees and beg for mercy... Or give me a sandwich, I'm pretty hungry." 
+		
+		- Vault Dweller</German>
+        <Italian>"I am the bringer of death. Fall to your knees and beg for mercy... Or give me a sandwich, I'm pretty hungry." 
+		
+		- Vault Dweller</Italian>
+        <Spanish>"I am the bringer of death. Fall to your knees and beg for mercy... Or give me a sandwich, I'm pretty hungry." 
+		
+		- Vault Dweller</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GAMBLING</Tag>
+        <English>Gambling</English>
+        <French>Gambling</French>
+        <German>Gambling</German>
+        <Italian>Gambling</Italian>
+        <Spanish>Gambling</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GAMBLING_PEDIA</Tag>
+        <English>Gambling</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GAMBLING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GAMBLING_QUOTE</Tag>
+        <English>"I haven't shown my hand - I've shown one card. I've given my enemies a single, provocative datum upon which to fixate. They have no idea what other cards I'm holding. It's a strong hand, believe me - I dealt it to myself." 
+		
+		- Mr. House </English>
+        <French>"I haven't shown my hand - I've shown one card. I've given my enemies a single, provocative datum upon which to fixate. They have no idea what other cards I'm holding. It's a strong hand, believe me - I dealt it to myself." 
+		
+		- Mr. House</French>
+        <German>"I haven't shown my hand - I've shown one card. I've given my enemies a single, provocative datum upon which to fixate. They have no idea what other cards I'm holding. It's a strong hand, believe me - I dealt it to myself." 
+		
+		- Mr. House</German>
+        <Italian>"I haven't shown my hand - I've shown one card. I've given my enemies a single, provocative datum upon which to fixate. They have no idea what other cards I'm holding. It's a strong hand, believe me - I dealt it to myself." 
+		
+		- Mr. House</Italian>
+        <Spanish>"I haven't shown my hand - I've shown one card. I've given my enemies a single, provocative datum upon which to fixate. They have no idea what other cards I'm holding. It's a strong hand, believe me - I dealt it to myself." 
+		
+		- Mr. House</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_VAULT_DISCOVERY</Tag>
+        <English>Vault Discovery</English>
+        <French>Vault Discovery</French>
+        <German>Vault Discovery</German>
+        <Italian>Vault Discovery</Italian>
+        <Spanish>Vault Discovery</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_VAULT_DISCOVERY_PEDIA</Tag>
+        <English>Vault Discovery</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_VAULT_DISCOVERY_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_VAULT_DISCOVERY_QUOTE</Tag>
+        <English>"Life in the vault is about to change." 
+		
+		- Narrator </English>
+        <French>"Life in the vault is about to change." 
+		
+		- Narrator </French>
+        <German>"Life in the vault is about to change." 
+		
+		- Narrator </German>
+        <Italian>"Life in the vault is about to change." 
+		
+		- Narrator </Italian>
+        <Spanish>"Life in the vault is about to change." 
+		
+		- Narrator </Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LASER_WEAPONS</Tag>
+        <English>Laser Weapons</English>
+        <French>Laser Weapons</French>
+        <German>Laser Weapons</German>
+        <Italian>Laser Weapons</Italian>
+        <Spanish>Laser Weapons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LASER_WEAPONS_PEDIA</Tag>
+        <English>Laser Weapons</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LASER_WEAPONS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LASER_WEAPONS_QUOTE</Tag>
+        <English>"Maybe you've seen some of those big, imposing Securitrons with their lovely laser guns and rocket launchers - SCARY faces? I'm not one of those." 
+		
+		- Muggy </English>
+        <French>"Maybe you've seen some of those big, imposing Securitrons with their lovely laser guns and rocket launchers - SCARY faces? I'm not one of those." 
+		
+		- Muggy </French>
+        <German>"Maybe you've seen some of those big, imposing Securitrons with their lovely laser guns and rocket launchers - SCARY faces? I'm not one of those." 
+		
+		- Muggy </German>
+        <Italian>"Maybe you've seen some of those big, imposing Securitrons with their lovely laser guns and rocket launchers - SCARY faces? I'm not one of those." 
+		
+		- Muggy </Italian>
+        <Spanish>"Maybe you've seen some of those big, imposing Securitrons with their lovely laser guns and rocket launchers - SCARY faces? I'm not one of those." 
+		
+		- Muggy </Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_AUTOMATIC_WEAPONS</Tag>
+        <English>Automatic Weapons</English>
+        <French>Automatic Weapons</French>
+        <German>Automatic Weapons</German>
+        <Italian>Automatic Weapons</Italian>
+        <Spanish>Automatic Weapons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_AUTOMATIC_WEAPONS_PEDIA</Tag>
+        <English>Automatic Weapons</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_AUTOMATIC_WEAPONS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_AUTOMATIC_WEAPONS_QUOTE</Tag>
+        <English>"Up yours and have a bullet breakfast, a**hole!"</English>
+        <French>"Up yours and have a bullet breakfast, a**hole!"</French>
+        <German>"Up yours and have a bullet breakfast, a**hole!"</German>
+        <Italian>"Up yours and have a bullet breakfast, a**hole!"</Italian>
+        <Spanish>"Up yours and have a bullet breakfast, a**hole!"</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRADE_CARAVANS</Tag>
+        <English>Trade Caravans</English>
+        <French>Trade Caravans</French>
+        <German>Trade Caravans</German>
+        <Italian>Trade Caravans</Italian>
+        <Spanish>Trade Caravans</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRADE_CARAVANS_PEDIA</Tag>
+        <English>Trade Caravans</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRADE_CARAVANS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRADE_CARAVANS_QUOTE</Tag>
+        <English>"You're a smart little ass, are you? Well, it dosent matter to me! Just as long as you defend the caravans I'll be satisfied." 
+		
+		- Demetre
+</English>
+        <French>"You're a smart little ass, are you? Well, it dosent matter to me! Just as long as you defend the caravans I'll be satisfied." 
+		
+		- Demetre</French>
+        <German>"You're a smart little ass, are you? Well, it dosent matter to me! Just as long as you defend the caravans I'll be satisfied." 
+		
+		- Demetre</German>
+        <Italian>"You're a smart little ass, are you? Well, it dosent matter to me! Just as long as you defend the caravans I'll be satisfied." 
+		
+		- Demetre</Italian>
+        <Spanish>"You're a smart little ass, are you? Well, it dosent matter to me! Just as long as you defend the caravans I'll be satisfied." 
+		
+		- Demetre</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GUERILLA_WARFARE</Tag>
+        <English>Guerilla Warfare</English>
+        <French>Guerilla Warfare</French>
+        <German>Guerilla Warfare</German>
+        <Italian>Guerilla Warfare</Italian>
+        <Spanish>Guerilla Warfare</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GUERILLA_WARFARE_PEDIA</Tag>
+        <English>Guerilla Warfare</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GUERILLA_WARFARE_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GUERILLA_WARFARE_QUOTE</Tag>
+        <English>"I cannot wait to find you, so I can kill you as a personal favor to Uncle Sam." 
+		
+		- Sergeant RL-3</English>
+        <French>"I cannot wait to find you, so I can kill you as a personal favor to Uncle Sam." 
+		
+		- Sergeant RL-3</French>
+        <German>"I cannot wait to find you, so I can kill you as a personal favor to Uncle Sam." 
+		
+		- Sergeant RL-3</German>
+        <Italian>"I cannot wait to find you, so I can kill you as a personal favor to Uncle Sam." 
+		
+		- Sergeant RL-3</Italian>
+        <Spanish>"I cannot wait to find you, so I can kill you as a personal favor to Uncle Sam." 
+		
+		- Sergeant RL-3</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ARTEFACT_STUDYING</Tag>
+        <English>Artefact Studying</English>
+        <French>Artefact Studying</French>
+        <German>Artefact Studying</German>
+        <Italian>Artefact Studying</Italian>
+        <Spanish>Artefact Studying</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ARTEFACT_STUDYING_PEDIA</Tag>
+        <English>Artefact Studying</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ARTEFACT_STUDYING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ARTEFACT_STUDYING_QUOTE</Tag>
+        <English>"If mankind is going to survive this chapter of its history, it needs warriors, not gadgets." 
+		
+		- Caesar</English>
+        <French>"If mankind is going to survive this chapter of its history, it needs warriors, not gadgets." 
+		
+		- Caesar</French>
+        <German>"If mankind is going to survive this chapter of its history, it needs warriors, not gadgets." 
+		
+		- Caesar</German>
+        <Italian>"If mankind is going to survive this chapter of its history, it needs warriors, not gadgets." 
+		
+		- Caesar</Italian>
+        <Spanish>"If mankind is going to survive this chapter of its history, it needs warriors, not gadgets." 
+		
+		- Caesar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_METAL_ARMOUR</Tag>
+        <English>Metal Armour</English>
+        <French>Metal Armour</French>
+        <German>Metal Armour</German>
+        <Italian>Metal Armour</Italian>
+        <Spanish>Metal Armour</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_METAL_ARMOUR_PEDIA</Tag>
+        <English>Metal Armour</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_METAL_ARMOUR_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_METAL_ARMOUR_QUOTE</Tag>
+        <English>"I'll just stay here and tighten the vices on my shoulders." 
+		
+		- Marcus</English>
+        <French>"I'll just stay here and tighten the vices on my shoulders." 
+		
+		- Marcus</French>
+        <German>"I'll just stay here and tighten the vices on my shoulders." 
+		
+		- Marcus</German>
+        <Italian>"I'll just stay here and tighten the vices on my shoulders." 
+		
+		- Marcus</Italian>
+        <Spanish>"I'll just stay here and tighten the vices on my shoulders." 
+		
+		- Marcus</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PLASMA_WEAPONS</Tag>
+        <English>Plasma Weapons</English>
+        <French>Plasma Weapons</French>
+        <German>Plasma Weapons</German>
+        <Italian>Plasma Weapons</Italian>
+        <Spanish>Plasma Weapons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PLASMA_WEAPONS_PEDIA</Tag>
+        <English>Plasma Weapons</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PLASMA_WEAPONS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PLASMA_WEAPONS_QUOTE</Tag>
+        <English>"There's nothing like the smell of plasma in the morning." - Sergeant RL-3</English>
+        <French>"There's nothing like the smell of plasma in the morning." - Sergeant RL-3</French>
+        <German>"There's nothing like the smell of plasma in the morning." - Sergeant RL-3</German>
+        <Italian>"There's nothing like the smell of plasma in the morning." - Sergeant RL-3</Italian>
+        <Spanish>"There's nothing like the smell of plasma in the morning." - Sergeant RL-3</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PRE_WAR_ARMOUR</Tag>
+        <English>Pre-War Armour</English>
+        <French>Pre-War Armour</French>
+        <German>Pre-War Armour</German>
+        <Italian>Pre-War Armour</Italian>
+        <Spanish>Pre-War Armour</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PRE_WAR_ARMOUR_PEDIA</Tag>
+        <English>Pre-War Armour</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PRE_WAR_ARMOUR_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PRE_WAR_ARMOUR_QUOTE</Tag>
+        <English>"Listen up you God-damned puke! You are now wearing prototype medic power armor. You take care of me, and I'll take care of you!" 
+		
+		- Prototype Medic Power Armour</English>
+        <French>"Listen up you God-damned puke! You are now wearing prototype medic power armor. You take care of me, and I'll take care of you!" 
+		
+		- Prototype Medic Power Armour</French>
+        <German>"Listen up you God-damned puke! You are now wearing prototype medic power armor. You take care of me, and I'll take care of you!" 
+		
+		- Prototype Medic Power Armour</German>
+        <Italian>"Listen up you God-damned puke! You are now wearing prototype medic power armor. You take care of me, and I'll take care of you!" 
+		
+		- Prototype Medic Power Armour</Italian>
+        <Spanish>"Listen up you God-damned puke! You are now wearing prototype medic power armor. You take care of me, and I'll take care of you!" 
+		
+		- Prototype Medic Power Armour</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CROP_ROTATION</Tag>
+        <English>Crop Rotation</English>
+        <French>Crop Rotation</French>
+        <German>Crop Rotation</German>
+        <Italian>Crop Rotation</Italian>
+        <Spanish>Crop Rotation</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CROP_ROTATION_PEDIA</Tag>
+        <English>Crop Rotation</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CROP_ROTATION_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CROP_ROTATION_QUOTE</Tag>
+        <English>"I wonder how my cousins in Arroyo are doing? I hope they're flourishing." 
+		
+		- Seymour
+		
+"Of course they are! Unless some rat-bastard slaughters them all." 
+
+		- Typhon</English>
+        <French>"I wonder how my cousins in Arroyo are doing? I hope they're flourishing." 
+		
+		- Seymour
+		
+"Of course they are! Unless some rat-bastard slaughters them all." 
+
+		- Typhon</French>
+        <German>"I wonder how my cousins in Arroyo are doing? I hope they're flourishing." 
+		
+		- Seymour
+		
+"Of course they are! Unless some rat-bastard slaughters them all." 
+
+		- Typhon</German>
+        <Italian>"I wonder how my cousins in Arroyo are doing? I hope they're flourishing." 
+		
+		- Seymour
+		
+"Of course they are! Unless some rat-bastard slaughters them all." 
+
+		- Typhon</Italian>
+        <Spanish>"I wonder how my cousins in Arroyo are doing? I hope they're flourishing." 
+		
+		- Seymour
+		
+"Of course they are! Unless some rat-bastard slaughters them all." 
+
+		- Typhon</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_COMBAT_OPTICS</Tag>
+        <English>Combat Optics</English>
+        <French>Combat Optics</French>
+        <German>Combat Optics</German>
+        <Italian>Combat Optics</Italian>
+        <Spanish>Combat Optics</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_COMBAT_OPTICS_PEDIA</Tag>
+        <English>Combat Optics</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_COMBAT_OPTICS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_COMBAT_OPTICS_QUOTE</Tag>
+        <English>"Put any mutie bastard within one mile of me and my rifle and, well... pack it up troops. Fight's over." 
+		
+		- Knight Captain Dusk</English>
+        <French>"Put any mutie bastard within one mile of me and my rifle and, well... pack it up troops. Fight's over." 
+		
+		- Knight Captain Dusk</French>
+        <German>"Put any mutie bastard within one mile of me and my rifle and, well... pack it up troops. Fight's over." 
+		
+		- Knight Captain Dusk</German>
+        <Italian>"Put any mutie bastard within one mile of me and my rifle and, well... pack it up troops. Fight's over." 
+		
+		- Knight Captain Dusk</Italian>
+        <Spanish>"Put any mutie bastard within one mile of me and my rifle and, well... pack it up troops. Fight's over." 
+		
+		- Knight Captain Dusk</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HEAVY_WEAPONS</Tag>
+        <English>Heavy Weapons</English>
+        <French>Heavy Weapons</French>
+        <German>Heavy Weapons</German>
+        <Italian>Heavy Weapons</Italian>
+        <Spanish>Heavy Weapons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HEAVY_WEAPONS_PEDIA</Tag>
+        <English>Heavy Weapons</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HEAVY_WEAPONS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HEAVY_WEAPONS_QUOTE</Tag>
+        <English>"If it's bigger than a human and goes boom, I'm all over it." 
+		
+		- Paladin Glade</English>
+        <French>"If it's bigger than a human and goes boom, I'm all over it." 
+		
+		- Paladin Glade</French>
+        <German>"If it's bigger than a human and goes boom, I'm all over it." 
+		
+		- Paladin Glade</German>
+        <Italian>"If it's bigger than a human and goes boom, I'm all over it." 
+		
+		- Paladin Glade</Italian>
+        <Spanish>"If it's bigger than a human and goes boom, I'm all over it." 
+		
+		- Paladin Glade</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_COMBAT_MEDICINE</Tag>
+        <English>Combat Medicine</English>
+        <French>Combat Medicine</French>
+        <German>Combat Medicine</German>
+        <Italian>Combat Medicine</Italian>
+        <Spanish>Combat Medicine</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_COMBAT_MEDICINE_PEDIA</Tag>
+        <English>Combat Medicine</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_COMBAT_MEDICINE_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_COMBAT_MEDICINE_QUOTE</Tag>
+        <English>"Been there. Seen that. Got the scars." 
+		
+		- Marcus</English>
+        <French>"Been there. Seen that. Got the scars." 
+		
+		- Marcus</French>
+        <German>"Been there. Seen that. Got the scars." 
+		
+		- Marcus</German>
+        <Italian>"Been there. Seen that. Got the scars." 
+		
+		- Marcus</Italian>
+        <Spanish>"Been there. Seen that. Got the scars." 
+		
+		- Marcus</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CAPITAL_CITY</Tag>
+        <English>Capital City</English>
+        <French>Capital City</French>
+        <German>Capital City</German>
+        <Italian>Capital City</Italian>
+        <Spanish>Capital City</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CAPITAL_CITY_PEDIA</Tag>
+        <English>Capital City</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CAPITAL_CITY_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CAPITAL_CITY_QUOTE</Tag>
+        <English>"You're not pissing on me right now, you're pissing on the Bear. I think you've been far enough west to know how far that claw stretches." 
+		
+		- NCR Ranger</English>
+        <French>"You're not pissing on me right now, you're pissing on the Bear. I think you've been far enough west to know how far that claw stretches." 
+		
+		- NCR Ranger</French>
+        <German>"You're not pissing on me right now, you're pissing on the Bear. I think you've been far enough west to know how far that claw stretches." 
+		
+		- NCR Ranger</German>
+        <Italian>"You're not pissing on me right now, you're pissing on the Bear. I think you've been far enough west to know how far that claw stretches." 
+		
+		- NCR Ranger</Italian>
+        <Spanish>"You're not pissing on me right now, you're pissing on the Bear. I think you've been far enough west to know how far that claw stretches." 
+		
+		- NCR Ranger</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CONQUEST</Tag>
+        <English>Conquest</English>
+        <French>Conquest</French>
+        <German>Conquest</German>
+        <Italian>Conquest</Italian>
+        <Spanish>Conquest</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CONQUEST_PEDIA</Tag>
+        <English>Conquest</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CONQUEST_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_CONQUEST_QUOTE</Tag>
+        <English>"War....War Never Changes...." 
+		
+		- Narrator</English>
+        <French>"War....War Never Changes...." 
+		
+		- Narrator</French>
+        <German>"War....War Never Changes...." 
+		
+		- Narrator</German>
+        <Italian>"War....War Never Changes...." 
+		
+		- Narrator</Italian>
+        <Spanish>"War....War Never Changes...." 
+		
+		- Narrator</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MEGA_COMBAT_ROBOT_BATTERIES</Tag>
+        <English>Fusion Batteries</English>
+        <French>Fusion Batteries</French>
+        <German>Fusion Batteries</German>
+        <Italian>Fusion Batteries</Italian>
+        <Spanish>Fusion Batteries</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MEGA_COMBAT_ROBOT_BATTERIES_PEDIA</Tag>
+        <English>Fusion Batteries</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MEGA_COMBAT_ROBOT_BATTERIES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MEGA_COMBAT_ROBOT_BATTERIES_QUOTE</Tag>
+        <English>"I'm going to put my quantum harmonizer in your photonic resonation chamber!" 
+		
+		- G.O.A.T. Exam</English>
+        <French>"I'm going to put my quantum harmonizer in your photonic resonation chamber!" 
+		
+		- G.O.A.T. Exam</French>
+        <German>"I'm going to put my quantum harmonizer in your photonic resonation chamber!" 
+		
+		- G.O.A.T. Exam</German>
+        <Italian>"I'm going to put my quantum harmonizer in your photonic resonation chamber!" 
+		
+		- G.O.A.T. Exam</Italian>
+        <Spanish>"I'm going to put my quantum harmonizer in your photonic resonation chamber!" 
+		
+		- G.O.A.T. Exam</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MASS_RELIGION</Tag>
+        <English>Mass Religion</English>
+        <French>Mass Religion</French>
+        <German>Mass Religion</German>
+        <Italian>Mass Religion</Italian>
+        <Spanish>Mass Religion</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MASS_RELIGION_PEDIA</Tag>
+        <English>Mass Religion</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MASS_RELIGION_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MASS_RELIGION_QUOTE</Tag>
+        <English>"I know who you are. You are walking death, a plague in human form. Where you step, blood flows like a river. But such iniquities can be ended by a righteous soul!" 
+		
+		- Father Lasher</English>
+        <French>"I know who you are. You are walking death, a plague in human form. Where you step, blood flows like a river. But such iniquities can be ended by a righteous soul!" 
+		
+		- Father Lasher</French>
+        <German>"I know who you are. You are walking death, a plague in human form. Where you step, blood flows like a river. But such iniquities can be ended by a righteous soul!" 
+		
+		- Father Lasher</German>
+        <Italian>"I know who you are. You are walking death, a plague in human form. Where you step, blood flows like a river. But such iniquities can be ended by a righteous soul!" 
+		
+		- Father Lasher</Italian>
+        <Spanish>"I know who you are. You are walking death, a plague in human form. Where you step, blood flows like a river. But such iniquities can be ended by a righteous soul!" 
+		
+		- Father Lasher</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ENTERTAINMENT</Tag>
+        <English>Entertainment</English>
+        <French>Entertainment</French>
+        <German>Entertainment</German>
+        <Italian>Entertainment</Italian>
+        <Spanish>Entertainment</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ENTERTAINMENT_PEDIA</Tag>
+        <English>Entertainment</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ENTERTAINMENT_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ENTERTAINMENT_QUOTE</Tag>
+        <English>"We give them the most important thing possible. We give their dreary lives excitement." 
+		
+		- Alya</English>
+        <French>"We give them the most important thing possible. We give their dreary lives excitement." 
+		
+		- Alya</French>
+        <German>"We give them the most important thing possible. We give their dreary lives excitement." 
+		
+		- Alya</German>
+        <Italian>"We give them the most important thing possible. We give their dreary lives excitement." 
+		
+		- Alya</Italian>
+        <Spanish>"We give them the most important thing possible. We give their dreary lives excitement." 
+		
+		- Alya</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DRUGS</Tag>
+        <English>Drugs</English>
+        <French>Drugs</French>
+        <German>Drugs</German>
+        <Italian>Drugs</Italian>
+        <Spanish>Drugs</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DRUGS_PEDIA</Tag>
+        <English>Drugs</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DRUGS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DRUGS_QUOTE</Tag>
+        <English>"Hey stupid! Jet, mother f****r, Jet! Yer talkin' to its maker. Its creator. Its... god." 
+		
+		- Myron</English>
+        <French>"Hey stupid! Jet, mother f****r, Jet! Yer talkin' to its maker. Its creator. Its... god." 
+		
+		- Myron</French>
+        <German>"Hey stupid! Jet, mother f****r, Jet! Yer talkin' to its maker. Its creator. Its... god." 
+		
+		- Myron</German>
+        <Italian>"Hey stupid! Jet, mother f****r, Jet! Yer talkin' to its maker. Its creator. Its... god." 
+		
+		- Myron</Italian>
+        <Spanish>"Hey stupid! Jet, mother f****r, Jet! Yer talkin' to its maker. Its creator. Its... god." 
+		
+		- Myron</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DEMOCRATIC_LEADERSHIP</Tag>
+        <English>Democratic Leadership</English>
+        <French>Democratic Leadership</French>
+        <German>Democratic Leadership</German>
+        <Italian>Democratic Leadership</Italian>
+        <Spanish>Democratic Leadership</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DEMOCRATIC_LEADERSHIP_PEDIA</Tag>
+        <English>Democratic Leadership</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DEMOCRATIC_LEADERSHIP_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_DEMOCRATIC_LEADERSHIP_QUOTE</Tag>
+        <English>"If you want to see the fate of democracies, look out the windows." 
+		
+		- Mr House</English>
+        <French>"If you want to see the fate of democracies, look out the windows." 
+		
+		- Mr House</French>
+        <German>"If you want to see the fate of democracies, look out the windows." 
+		
+		- Mr House</German>
+        <Italian>"If you want to see the fate of democracies, look out the windows." 
+		
+		- Mr House</Italian>
+        <Spanish>"If you want to see the fate of democracies, look out the windows." 
+		
+		- Mr House</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ELECTRIC_ENGINES</Tag>
+        <English>Electric Engines</English>
+        <French>Electric Engines</French>
+        <German>Electric Engines</German>
+        <Italian>Electric Engines</Italian>
+        <Spanish>Electric Engines</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ELECTRIC_ENGINES_PEDIA</Tag>
+        <English>Electric Engines</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ELECTRIC_ENGINES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ELECTRIC_ENGINES_QUOTE</Tag>
+        <English>"I need your clothes, your boots, and your moo-torcycle." 
+		
+		- B1000</English>
+        <French>"I need your clothes, your boots, and your moo-torcycle." 
+		
+		- B1000</French>
+        <German>"I need your clothes, your boots, and your moo-torcycle." 
+		
+		- B1000</German>
+        <Italian>"I need your clothes, your boots, and your moo-torcycle." 
+		
+		- B1000</Italian>
+        <Spanish>"I need your clothes, your boots, and your moo-torcycle." 
+		
+		- B1000</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LIGHTER_THAN_AIR_FLIGHT</Tag>
+        <English>Lighter Than Air Flight</English>
+        <French>Lighter Than Air Flight</French>
+        <German>Lighter Than Air Flight</German>
+        <Italian>Lighter Than Air Flight</Italian>
+        <Spanish>Lighter Than Air Flight</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LIGHTER_THAN_AIR_FLIGHT_PEDIA</Tag>
+        <English>Lighter Than Air Flight</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LIGHTER_THAN_AIR_FLIGHT_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_LIGHTER_THAN_AIR_FLIGHT_QUOTE</Tag>
+        <English>"Hey Cody, You want some Jet? You wanna fly high with uncle scrambles?"</English>
+        <French>"Hey Cody, You want some Jet? You wanna fly high with uncle scrambles?"</French>
+        <German>"Hey Cody, You want some Jet? You wanna fly high with uncle scrambles?"</German>
+        <Italian>"Hey Cody, You want some Jet? You wanna fly high with uncle scrambles?"</Italian>
+        <Spanish>"Hey Cody, You want some Jet? You wanna fly high with uncle scrambles?"</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MILITARY_OUT_POSTS</Tag>
+        <English>Military Out Posts</English>
+        <French>Military Out Posts</French>
+        <German>Military Out Posts</German>
+        <Italian>Military Out Posts</Italian>
+        <Spanish>Military Out Posts</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MILITARY_OUT_POSTS_PEDIA</Tag>
+        <English>Military Out Posts</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MILITARY_OUT_POSTS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MILITARY_OUT_POSTS_QUOTE</Tag>
+        <English>"And one final thing, ladies......Welcome to the Brotherhood of Steel!" 
+		
+		- Paladin Ryczek</English>
+        <French>"And one final thing, ladies......Welcome to the Brotherhood of Steel!" 
+		
+		- Paladin Ryczek</French>
+        <German>"And one final thing, ladies......Welcome to the Brotherhood of Steel!" 
+		
+		- Paladin Ryczek</German>
+        <Italian>"And one final thing, ladies......Welcome to the Brotherhood of Steel!" 
+		
+		- Paladin Ryczek</Italian>
+        <Spanish>"And one final thing, ladies......Welcome to the Brotherhood of Steel!" 
+		
+		- Paladin Ryczek</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PUGILISM</Tag>
+        <English>Pugilism</English>
+        <French>Pugilism</French>
+        <German>Pugilism</German>
+        <Italian>Pugilism</Italian>
+        <Spanish>Pugilism</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PUGILISM_PEDIA</Tag>
+        <English>Pugilism</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PUGILISM_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PUGILISM_QUOTE</Tag>
+        <English>"I'm here to kick ass and chew bubble gum I'm all out of gum." 
+		
+		- Brotherhood Knight</English>
+        <French>"I'm here to kick ass and chew bubble gum I'm all out of gum." 
+		
+		- Brotherhood Knight</French>
+        <German>"I'm here to kick ass and chew bubble gum I'm all out of gum." 
+		
+		- Brotherhood Knight</German>
+        <Italian>"I'm here to kick ass and chew bubble gum I'm all out of gum." 
+		
+		- Brotherhood Knight</Italian>
+        <Spanish>"I'm here to kick ass and chew bubble gum I'm all out of gum." 
+		
+		- Brotherhood Knight</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_RADIO</Tag>
+        <English>Radio</English>
+        <French>Radio</French>
+        <German>Radio</German>
+        <Italian>Radio</Italian>
+        <Spanish>Radio</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_RADIO_PEDIA</Tag>
+        <English>Radio</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_FTTWR_TECH_RADIO_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_RADIO_QUOTE</Tag>
+        <English>"Until next time, this is Three Dog (howls), and you're listening to Galaxy News Radio. Bringing you the truth, no matter how bad it hurts. And now, some music." 
+		
+		- Three Dog</English>
+        <French>"Until next time, this is Three Dog (howls), and you're listening to Galaxy News Radio. Bringing you the truth, no matter how bad it hurts. And now, some music." 
+		
+		- Three Dog</French>
+        <German>"Until next time, this is Three Dog (howls), and you're listening to Galaxy News Radio. Bringing you the truth, no matter how bad it hurts. And now, some music." 
+		
+		- Three Dog</German>
+        <Italian>"Until next time, this is Three Dog (howls), and you're listening to Galaxy News Radio. Bringing you the truth, no matter how bad it hurts. And now, some music." 
+		
+		- Three Dog</Italian>
+        <Spanish>"Until next time, this is Three Dog (howls), and you're listening to Galaxy News Radio. Bringing you the truth, no matter how bad it hurts. And now, some music." 
+		
+		- Three Dog</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BILL_O_RIGHTS_O_RIGHTS</Tag>
+        <English>Bill'O'Rights</English>
+        <French>Bill'O'Rights</French>
+        <German>Bill'O'Rights</German>
+        <Italian>Bill'O'Rights</Italian>
+        <Spanish>Bill'O'Rights</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BILL_O_RIGHTS_PEDIA</Tag>
+        <English>Bill'O'Rights</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BILL_O_RIGHTS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BILL_O_RIGHTS_QUOTE</Tag>
+        <English>"What is evil? Evil is when good gets completely screwed up! Evil is when brave people can't be brave anymore! Evil is an anagram of vile! There's got to be a moral standard somewhere!" 
+		
+		- Dane</English>
+        <French>"What is evil? Evil is when good gets completely screwed up! Evil is when brave people can't be brave anymore! Evil is an anagram of vile! There's got to be a moral standard somewhere!" 
+		
+		- Dane</French>
+        <German>"What is evil? Evil is when good gets completely screwed up! Evil is when brave people can't be brave anymore! Evil is an anagram of vile! There's got to be a moral standard somewhere!" 
+		
+		- Dane</German>
+        <Italian>"What is evil? Evil is when good gets completely screwed up! Evil is when brave people can't be brave anymore! Evil is an anagram of vile! There's got to be a moral standard somewhere!" 
+		
+		- Dane</Italian>
+        <Spanish>"What is evil? Evil is when good gets completely screwed up! Evil is when brave people can't be brave anymore! Evil is an anagram of vile! There's got to be a moral standard somewhere!" 
+		
+		- Dane</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ROTARY_WEAPONS</Tag>
+        <English>Rotary Weapons</English>
+        <French>Rotary Weapons</French>
+        <German>Rotary Weapons</German>
+        <Italian>Rotary Weapons</Italian>
+        <Spanish>Rotary Weapons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ROTARY_WEAPONS_PEDIA</Tag>
+        <English>Rotary Weapons</English>
+        <French>Rotary Weapons</French>
+        <German>Rotary Weapons</German>
+        <Italian>Rotary Weapons</Italian>
+        <Spanish>Rotary Weapons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ROTARY_WEAPONS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ROTARY_WEAPONS_QUOTE</Tag>
+        <English>"Kill them all and let God sort them out" 
+		
+		- Sergeant RL-3 </English>
+        <French>"Kill them all and let God sort them out" 
+		
+		- Sergeant RL-3</French>
+        <German>"Kill them all and let God sort them out" 
+		
+		- Sergeant RL-3</German>
+        <Italian>"Kill them all and let God sort them out" 
+		
+		- Sergeant RL-3</Italian>
+        <Spanish>"Kill them all and let God sort them out" 
+		
+		- Sergeant RL-3</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ROTARY_FLIGHT</Tag>
+        <English>Rotary Flight</English>
+        <French>Rotary Flight</French>
+        <German>Rotary Flight</German>
+        <Italian>Rotary Flight</Italian>
+        <Spanish>Rotary Flight</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ROTARY_FLIGHT_PEDIA</Tag>
+        <English>Rotary Flight</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ROTARY_FLIGHT_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ROTARY_FLIGHT_QUOTE</Tag>
+        <English>"Well who ever you are I just dispatched a verti-assault team to your location...Have a nice day" 
+		
+		- Enclave Comm Officer</English>
+        <French>"Well who ever you are I just dispatched a verti-assault team to your location...Have a nice day" 
+		
+		- Enclave Comm Officer</French>
+        <German>"Well who ever you are I just dispatched a verti-assault team to your location...Have a nice day" 
+		
+		- Enclave Comm Officer</German>
+        <Italian>"Well who ever you are I just dispatched a verti-assault team to your location...Have a nice day" 
+		
+		- Enclave Comm Officer</Italian>
+        <Spanish>"Well who ever you are I just dispatched a verti-assault team to your location...Have a nice day" 
+		
+		- Enclave Comm Officer</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FILM</Tag>
+        <English>Film</English>
+        <French>Film</French>
+        <German>Film</German>
+        <Italian>Film</Italian>
+        <Spanish>Film</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FILM_PEDIA</Tag>
+        <English>Film</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FILM_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_FILM_QUOTE</Tag>
+        <English>"I feel a disturbance in the force. As if a million evil bastards screamed out, and were suddenly silenced." 
+		
+		- New Reno Citizen</English>
+        <French>"I feel a disturbance in the force. As if a million evil bastards screamed out, and were suddenly silenced." 
+		
+		- New Reno Citizen</French>
+        <German>"I feel a disturbance in the force. As if a million evil bastards screamed out, and were suddenly silenced." 
+		
+		- New Reno Citizen</German>
+        <Italian>"I feel a disturbance in the force. As if a million evil bastards screamed out, and were suddenly silenced." 
+		
+		- New Reno Citizen</Italian>
+        <Spanish>"I feel a disturbance in the force. As if a million evil bastards screamed out, and were suddenly silenced." 
+		
+		- New Reno Citizen</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PRINTED_CURRENCY</Tag>
+        <English>Printed Currency</English>
+        <French>Printed Currency</French>
+        <German>Printed Currency</German>
+        <Italian>Printed Currency</Italian>
+        <Spanish>Printed Currency</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PRINTED_CURRENCY_PEDIA</Tag>
+        <English>Printed Currency</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PRINTED_CURRENCY_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PRINTED_CURRENCY_QUOTE</Tag>
+        <English>"Time is money. Chit-chat is not money. You here about the job or what?" 
+		
+		- Butch</English>
+        <French>"Time is money. Chit-chat is not money. You here about the job or what?" 
+		
+		- Butch</French>
+        <German>"Time is money. Chit-chat is not money. You here about the job or what?" 
+		
+		- Butch</German>
+        <Italian>"Time is money. Chit-chat is not money. You here about the job or what?" 
+		
+		- Butch</Italian>
+        <Spanish>"Time is money. Chit-chat is not money. You here about the job or what?" 
+		
+		- Butch</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_POWER_WEAPONS</Tag>
+        <English>Power Weapons</English>
+        <French>Power Weapons</French>
+        <German>Power Weapons</German>
+        <Italian>Power Weapons</Italian>
+        <Spanish>Power Weapons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_POWER_WEAPONS_PEDIA</Tag>
+        <English>Powered Close Combat Weapons</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_POWER_WEAPONS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_POWER_WEAPONS_QUOTE</Tag>
+        <English>"Today's weather: excessively violent, with a chance of dismemberment. Stay tuned for our Five-Day Forecast!" 
+		
+		- Three Dog</English>
+        <French>"Today's weather: excessively violent, with a chance of dismemberment. Stay tuned for our Five-Day Forecast!" 
+		
+		- Three Dog</French>
+        <German>"Today's weather: excessively violent, with a chance of dismemberment. Stay tuned for our Five-Day Forecast!" 
+		
+		- Three Dog</German>
+        <Italian>"Today's weather: excessively violent, with a chance of dismemberment. Stay tuned for our Five-Day Forecast!" 
+		
+		- Three Dog</Italian>
+        <Spanish>"Today's weather: excessively violent, with a chance of dismemberment. Stay tuned for our Five-Day Forecast!" 
+		
+		- Three Dog</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ABOLITION_OF_SLAVERY</Tag>
+        <English>Abolition Of Slavery</English>
+        <French>Abolition Of Slavery</French>
+        <German>Abolition Of Slavery</German>
+        <Italian>Abolition Of Slavery</Italian>
+        <Spanish>Abolition Of Slavery</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ABOLITION_OF_SLAVERY_PEDIA</Tag>
+        <English>Abolition Of Slavery</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ABOLITION_OF_SLAVERY_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ABOLITION_OF_SLAVERY_QUOTE</Tag>
+        <English>"Freedom is the sovereign right of every American." 
+		
+		- Liberty Prime</English>
+        <French>"Freedom is the sovereign right of every American." 
+		
+		- Liberty Prime</French>
+        <German>"Freedom is the sovereign right of every American." 
+		
+		- Liberty Prime</German>
+        <Italian>"Freedom is the sovereign right of every American." 
+		
+		- Liberty Prime</Italian>
+        <Spanish>"Freedom is the sovereign right of every American." 
+		
+		- Liberty Prime</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ESCORTED_CARAVANS</Tag>
+        <English>Escorted Caravans</English>
+        <French>Escorted Caravans</French>
+        <German>Escorted Caravans</German>
+        <Italian>Escorted Caravans</Italian>
+        <Spanish>Escorted Caravans</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ESCORTED_CARAVANS_PEDIA</Tag>
+        <English>Escorted Caravans</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ESCORTED_CARAVANS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ESCORTED_CARAVANS_QUOTE</Tag>
+        <English>"Gangers got'em. Scavengers attacking the caravans. And mutants, son of a dog, if they weren't springing up like rabbits with a mission." 
+		
+		- Harold</English>
+        <French>"Gangers got'em. Scavengers attacking the caravans. And mutants, son of a dog, if they weren't springing up like rabbits with a mission." 
+		
+		- Harold</French>
+        <German>"Gangers got'em. Scavengers attacking the caravans. And mutants, son of a dog, if they weren't springing up like rabbits with a mission." 
+		
+		- Harold</German>
+        <Italian>"Gangers got'em. Scavengers attacking the caravans. And mutants, son of a dog, if they weren't springing up like rabbits with a mission." 
+		
+		- Harold</Italian>
+        <Spanish>"Gangers got'em. Scavengers attacking the caravans. And mutants, son of a dog, if they weren't springing up like rabbits with a mission." 
+		
+		- Harold</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_NUCLEAR_POWER</Tag>
+        <English>Nuclear Power</English>
+        <French>Nuclear Power</French>
+        <German>Nuclear Power</German>
+        <Italian>Nuclear Power</Italian>
+        <Spanish>Nuclear Power</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_NUCLEAR_POWER_PEDIA</Tag>
+        <English>Nuclear Power</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_NUCLEAR_POWER_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_NUCLEAR_POWER_QUOTE</Tag>
+        <English>"Two atoms are sitting in a bar. One says to the other, "I think I've lost an electron." The other asks "Are you sure?" To which the first replies, "I'm positive."" 
+		
+		- Robot Butler</English>
+        <French>"Two atoms are sitting in a bar. One says to the other, "I think I've lost an electron." The other asks "Are you sure?" To which the first replies, "I'm positive."" 
+		
+		- Robot Butler</French>
+        <German>"Two atoms are sitting in a bar. One says to the other, "I think I've lost an electron." The other asks "Are you sure?" To which the first replies, "I'm positive."" 
+		
+		- Robot Butler</German>
+        <Italian>"Two atoms are sitting in a bar. One says to the other, "I think I've lost an electron." The other asks "Are you sure?" To which the first replies, "I'm positive."" 
+		
+		- Robot Butler</Italian>
+        <Spanish>"Two atoms are sitting in a bar. One says to the other, "I think I've lost an electron." The other asks "Are you sure?" To which the first replies, "I'm positive."" 
+		
+		- Robot Butler</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MARTIAL_ARTS</Tag>
+        <English>Martial Arts</English>
+        <French>Martial Arts</French>
+        <German>Martial Arts</German>
+        <Italian>Martial Arts</Italian>
+        <Spanish>Martial Arts</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MARTIAL_ARTS_PEDIA</Tag>
+        <English>Martial Arts</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MARTIAL_ARTS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MARTIAL_ARTS_QUOTE</Tag>
+        <English>"Ran out of butt to kick and thought of your face." 
+		
+		- Vault Dweller</English>
+        <French>"Ran out of butt to kick and thought of your face." 
+		
+		- Vault Dweller</French>
+        <German>"Ran out of butt to kick and thought of your face." 
+		
+		- Vault Dweller</German>
+        <Italian>"Ran out of butt to kick and thought of your face." 
+		
+		- Vault Dweller</Italian>
+        <Spanish>"Ran out of butt to kick and thought of your face." 
+		
+		- Vault Dweller</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_COMBAT_VEHICLES</Tag>
+        <English>Combat Vehicles</English>
+        <French>Combat Vehicles</French>
+        <German>Combat Vehicles</German>
+        <Italian>Combat Vehicles</Italian>
+        <Spanish>Combat Vehicles</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_COMBAT_VEHICLES_PEDIA</Tag>
+        <English>Combat Vehicles</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_COMBAT_VEHICLES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_COMBAT_VEHICLES_QUOTE</Tag>
+        <English>"LA LA LA LA CARS, hey gimme a Car and I'LL WATCH IT.." 
+		
+		- The Car Watcher</English>
+        <French>"LA LA LA LA CARS, hey gimme a Car and I'LL WATCH IT.." 
+		
+		- The Car Watcher</French>
+        <German>"LA LA LA LA CARS, hey gimme a Car and I'LL WATCH IT.." 
+		
+		- The Car Watcher</German>
+        <Italian>"LA LA LA LA CARS, hey gimme a Car and I'LL WATCH IT.." 
+		
+		- The Car Watcher</Italian>
+        <Spanish>"LA LA LA LA CARS, hey gimme a Car and I'LL WATCH IT.." 
+		
+		- The Car Watcher</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_POWER_ARMOUR</Tag>
+        <English>Power Armour</English>
+        <French>Power Armour</French>
+        <German>Power Armour</German>
+        <Italian>Power Armour</Italian>
+        <Spanish>Power Armour</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_POWER_ARMOUR_PEDIA</Tag>
+        <English>Power Armour</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_POWER_ARMOUR_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_POWER_ARMOUR_QUOTE</Tag>
+        <English>"There's meat under that armor. And meat can be ground." 
+		
+		-Paladin Kodiak</English>
+        <French>"There's meat under that armor. And meat can be ground." 
+		
+		-Paladin Kodiak</French>
+        <German>"There's meat under that armor. And meat can be ground." 
+		
+		-Paladin Kodiak</German>
+        <Italian>"There's meat under that armor. And meat can be ground." 
+		
+		-Paladin Kodiak</Italian>
+        <Spanish>"There's meat under that armor. And meat can be ground." 
+		
+		-Paladin Kodiak</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HEAVY_VEHICLES</Tag>
+        <English>Heavy Vehicles</English>
+        <French>Heavy Vehicles</French>
+        <German>Heavy Vehicles</German>
+        <Italian>Heavy Vehicles</Italian>
+        <Spanish>Heavy Vehicles</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HEAVY_VEHICLES_PEDIA</Tag>
+        <English>Heavy Vehicles</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HEAVY_VEHICLES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HEAVY_VEHICLES_QUOTE</Tag>
+        <English>"Nothing can stop a Highwayman." 
+		
+		- Highwayman's Slogan</English>
+        <French>"Nothing can stop a Highwayman." 
+		
+		- Highwayman's Slogan</French>
+        <German>"Nothing can stop a Highwayman." 
+		
+		- Highwayman's Slogan</German>
+        <Italian>"Nothing can stop a Highwayman." 
+		
+		- Highwayman's Slogan</Italian>
+        <Spanish>"Nothing can stop a Highwayman." 
+		
+		- Highwayman's Slogan</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MINING_COMPANIES</Tag>
+        <English>Mining Companies</English>
+        <French>Mining Companies</French>
+        <German>Mining Companies</German>
+        <Italian>Mining Companies</Italian>
+        <Spanish>Mining Companies</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MINING_COMPANIES_PEDIA</Tag>
+        <English>Mining Companies</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MINING_COMPANIES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MINING_COMPANIES_QUOTE</Tag>
+        <English>"All Vault Citizens are encouraged to exercise extreme caution when traveling inside Redding, as the provincial miners are not strongly governed." 
+		
+		- Vault City Travel Log</English>
+        <French>"All Vault Citizens are encouraged to exercise extreme caution when traveling inside Redding, as the provincial miners are not strongly governed." 
+		
+		- Vault City Travel Log</French>
+        <German>"All Vault Citizens are encouraged to exercise extreme caution when traveling inside Redding, as the provincial miners are not strongly governed." 
+		
+		- Vault City Travel Log</German>
+        <Italian>"All Vault Citizens are encouraged to exercise extreme caution when traveling inside Redding, as the provincial miners are not strongly governed." 
+		
+		- Vault City Travel Log</Italian>
+        <Spanish>"All Vault Citizens are encouraged to exercise extreme caution when traveling inside Redding, as the provincial miners are not strongly governed." 
+		
+		- Vault City Travel Log</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_EMP_WEAPONS</Tag>
+        <English>EMP Weapons</English>
+        <French>EMP Weapons</French>
+        <German>EMP Weapons</German>
+        <Italian>EMP Weapons</Italian>
+        <Spanish>EMP Weapons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_EMP_WEAPONS_PEDIA</Tag>
+        <English>EMP Weapons</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_EMP_WEAPONS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_EMP_WEAPONS_QUOTE</Tag>
+        <English>"It's... a thing. A science thing. It hurts robots. Don't worry about it."
+		
+		- Arcade Gannon</English>
+        <French>"It's... a thing. A science thing. It hurts robots. Don't worry about it."
+		
+		- Arcade Gannon</French>
+        <German>"It's... a thing. A science thing. It hurts robots. Don't worry about it."
+		
+		- Arcade Gannon</German>
+        <Italian>"It's... a thing. A science thing. It hurts robots. Don't worry about it."
+		
+		- Arcade Gannon</Italian>
+        <Spanish>"It's... a thing. A science thing. It hurts robots. Don't worry about it."
+		
+		- Arcade Gannon</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GAUSS_WEAPONS</Tag>
+        <English>Gauss Weapons</English>
+        <French>Gauss Weapons</French>
+        <German>Gauss Weapons</German>
+        <Italian>Gauss Weapons</Italian>
+        <Spanish>Gauss Weapons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GAUSS_WEAPONS_PEDIA</Tag>
+        <English>Gauss Weapons</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GAUSS_WEAPONS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_GAUSS_WEAPONS_QUOTE</Tag>
+        <English>"Well, technically... It's a thingy." 
+		
+		- Harold </English>
+        <French>"Well, technically... It's a thingy." 
+		
+		- Harold</French>
+        <German>"Well, technically... It's a thingy." 
+		
+		- Harold</German>
+        <Italian>"Well, technically... It's a thingy." 
+		
+		- Harold</Italian>
+        <Spanish>"Well, technically... It's a thingy." 
+		
+		- Harold</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ASSAULT_VEHICLES</Tag>
+        <English>Assault Vehicles</English>
+        <French>Assault Vehicles</French>
+        <German>Assault Vehicles</German>
+        <Italian>Assault Vehicles</Italian>
+        <Spanish>Assault Vehicles</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ASSAULT_VEHICLES_PEDIA</Tag>
+        <English>Assault Vehicles</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ASSAULT_VEHICLES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ASSAULT_VEHICLES_QUOTE</Tag>
+        <English>"Who the hell drove this last?" 
+		
+		- Peck</English>
+        <French>"Who the hell drove this last?" 
+		
+		- Peck</French>
+        <German>"Who the hell drove this last?" 
+		
+		- Peck</German>
+        <Italian>"Who the hell drove this last?" 
+		
+		- Peck</Italian>
+        <Spanish>"Who the hell drove this last?" 
+		
+		- Peck</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_POWER_ARMOUR</Tag>
+        <English>Adv. Power Armour</English>
+        <French>Adv. Power Armour</French>
+        <German>Adv. Power Armour</German>
+        <Italian>Adv. Power Armour</Italian>
+        <Spanish>Adv. Power Armour</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_POWER_ARMOUR_PEDIA</Tag>
+        <English>Advanced Power Armour</English>
+        <French>Advanced Power Armour</French>
+        <German>Advanced Power Armour</German>
+        <Italian>Advanced Power Armour</Italian>
+        <Spanish>Advanced Power Armour</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_POWER_ARMOUR_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_POWER_ARMOUR_QUOTE</Tag>
+        <English>"Welcome to the camp Navarro, so you are the new replacement. You are out of uniform soldier, where is your power armor!?" 
+		
+		- Drill Sergeant </English>
+        <French>"Welcome to the camp Navarro, so you are the new replacement. You are out of uniform soldier, where is your power armor!?" 
+		
+		- Drill Sergeant</French>
+        <German>"Welcome to the camp Navarro, so you are the new replacement. You are out of uniform soldier, where is your power armor!?" 
+		
+		- Drill Sergeant</German>
+        <Italian>"Welcome to the camp Navarro, so you are the new replacement. You are out of uniform soldier, where is your power armor!?" 
+		
+		- Drill Sergeant</Italian>
+        <Spanish>"Welcome to the camp Navarro, so you are the new replacement. You are out of uniform soldier, where is your power armor!?" 
+		
+		- Drill Sergeant</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HIGH_EXPLOSIVES</Tag>
+        <English>High Explosives</English>
+        <French>High Explosives</French>
+        <German>High Explosives</German>
+        <Italian>High Explosives</Italian>
+        <Spanish>High Explosives</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HIGH_EXPLOSIVES_PEDIA</Tag>
+        <English>High Explosives</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HIGH_EXPLOSIVES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HIGH_EXPLOSIVES_QUOTE</Tag>
+        <English>"A rocket launcher gives me all the spiritual peace I need, lady." 
+		
+		- The Chosen One</English>
+        <French>"A rocket launcher gives me all the spiritual peace I need, lady." 
+		
+		- The Chosen One</French>
+        <German>"A rocket launcher gives me all the spiritual peace I need, lady." 
+		
+		- The Chosen One</German>
+        <Italian>"A rocket launcher gives me all the spiritual peace I need, lady." 
+		
+		- The Chosen One</Italian>
+        <Spanish>"A rocket launcher gives me all the spiritual peace I need, lady." 
+		
+		- The Chosen One</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_MILITARY_TRAINING</Tag>
+        <English>Adv. Military Training</English>
+        <French>Adv. Military Training</French>
+        <German>Adv. Military Training</German>
+        <Italian>Adv. Military Training</Italian>
+        <Spanish>Adv. Military Training</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_MILITARY_TRAINING_PEDIA</Tag>
+        <English>Advanced Military Training</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_MILITARY_TRAINING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_MILITARY_TRAINING_QUOTE</Tag>
+        <English>"Shoot em', they die. Stab em', they die. Strangle em', they die"
+		
+		
+		- Knight Captain Gallows</English>
+        <French>"Shoot em', they die. Stab em', they die. Strangle em', they die"
+		
+		
+		- Knight Captain Gallows</French>
+        <German>"Shoot em', they die. Stab em', they die. Strangle em', they die"
+		
+		
+		- Knight Captain Gallows</German>
+        <Italian>"Shoot em', they die. Stab em', they die. Strangle em', they die"
+		
+		
+		- Knight Captain Gallows</Italian>
+        <Spanish>"Shoot em', they die. Stab em', they die. Strangle em', they die"
+		
+		
+		- Knight Captain Gallows</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BOOK_PUBLISHING</Tag>
+        <English>Book Publishing</English>
+        <French>Book Publishing</French>
+        <German>Book Publishing</German>
+        <Italian>Book Publishing</Italian>
+        <Spanish>Book Publishing</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BOOK_PUBLISHING_PEDIA</Tag>
+        <English>Book Publishing</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BOOK_PUBLISHING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_BOOK_PUBLISHING_QUOTE</Tag>
+        <English>"Blank books are better for the mind, Citizen! Real science by real men in lab coats has proved that introducing outside thoughts confuses the brain!" 
+		
+		- Book Chute</English>
+        <French>"Blank books are better for the mind, Citizen! Real science by real men in lab coats has proved that introducing outside thoughts confuses the brain!" 
+		
+		- Book Chute</French>
+        <German>"Blank books are better for the mind, Citizen! Real science by real men in lab coats has proved that introducing outside thoughts confuses the brain!" 
+		
+		- Book Chute</German>
+        <Italian>"Blank books are better for the mind, Citizen! Real science by real men in lab coats has proved that introducing outside thoughts confuses the brain!" 
+		
+		- Book Chute</Italian>
+        <Spanish>"Blank books are better for the mind, Citizen! Real science by real men in lab coats has proved that introducing outside thoughts confuses the brain!" 
+		
+		- Book Chute</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_MEDICINE</Tag>
+        <English>Adv. Medicine</English>
+        <French>Adv. Medicine</French>
+        <German>Adv. Medicine</German>
+        <Italian>Adv. Medicine</Italian>
+        <Spanish>Adv. Medicine</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_MEDICINE_PEDIA</Tag>
+        <English>Advanced Medicine</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_MEDICINE_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_MEDICINE_QUOTE</Tag>
+        <English>"I just wanted to compliment you on the great looking hump on your back. Your breath could use some work, though..." 
+		
+		- Vault Dweller</English>
+        <French>"I just wanted to compliment you on the great looking hump on your back. Your breath could use some work, though..." 
+		
+		- Vault Dweller</French>
+        <German>"I just wanted to compliment you on the great looking hump on your back. Your breath could use some work, though..." 
+		
+		- Vault Dweller</German>
+        <Italian>"I just wanted to compliment you on the great looking hump on your back. Your breath could use some work, though..." 
+		
+		- Vault Dweller</Italian>
+        <Spanish>"I just wanted to compliment you on the great looking hump on your back. Your breath could use some work, though..." 
+		
+		- Vault Dweller</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PENAL_SYSTEM</Tag>
+        <English>Penal System</English>
+        <French>Penal System</French>
+        <German>Penal System</German>
+        <Italian>Penal System</Italian>
+        <Spanish>Penal System</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PENAL_SYSTEM_PEDIA</Tag>
+        <English>Penal System</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PENAL_SYSTEM_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PENAL_SYSTEM_QUOTE</Tag>
+        <English>"Problem is, it turns out that giving convicts a bunch of dynamite and blasting powder isn't the best idea." 
+		
+		� Trudy</English>
+        <French>"Problem is, it turns out that giving convicts a bunch of dynamite and blasting powder isn't the best idea." 
+		
+		� Trudy</French>
+        <German>"Problem is, it turns out that giving convicts a bunch of dynamite and blasting powder isn't the best idea." 
+		
+		� Trudy</German>
+        <Italian>"Problem is, it turns out that giving convicts a bunch of dynamite and blasting powder isn't the best idea." 
+		
+		� Trudy</Italian>
+        <Spanish>"Problem is, it turns out that giving convicts a bunch of dynamite and blasting powder isn't the best idea." 
+		
+		� Trudy</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PROSPECTING</Tag>
+        <English>Prospecting</English>
+        <French>Prospecting</French>
+        <German>Prospecting</German>
+        <Italian>Prospecting</Italian>
+        <Spanish>Prospecting</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PROSPECTING_PEDIA</Tag>
+        <English>Prospecting</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PROSPECTING_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PROSPECTING_QUOTE</Tag>
+        <English>"You have a lot of time on your hands to be standing around looking at all this useless junk." 
+		
+		- Text Box</English>
+        <French>"You have a lot of time on your hands to be standing around looking at all this useless junk." 
+		
+		- Text Box</French>
+        <German>"You have a lot of time on your hands to be standing around looking at all this useless junk." 
+		
+		- Text Box</German>
+        <Italian>"You have a lot of time on your hands to be standing around looking at all this useless junk." 
+		
+		- Text Box</Italian>
+        <Spanish>"You have a lot of time on your hands to be standing around looking at all this useless junk." 
+		
+		- Text Box</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRADE_CONVOYS</Tag>
+        <English>Trade Convoys</English>
+        <French>Trade Convoys</French>
+        <German>Trade Convoys</German>
+        <Italian>Trade Convoys</Italian>
+        <Spanish>Trade Convoys</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRADE_CONVOYS_PEDIA</Tag>
+        <English>Trade Convoys</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRADE_CONVOYS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRADE_CONVOYS_QUOTE</Tag>
+        <English>"You're a smart little ass, are you? Well, it dosent matter to me! Just as long as you defend the caravans Ill be satisfied." 
+		
+		- Demetre</English>
+        <French>"You're a smart little ass, are you? Well, it dosent matter to me! Just as long as you defend the caravans Ill be satisfied." 
+		
+		- Demetre</French>
+        <German>"You're a smart little ass, are you? Well, it dosent matter to me! Just as long as you defend the caravans Ill be satisfied." 
+		
+		- Demetre</German>
+        <Italian>"You're a smart little ass, are you? Well, it dosent matter to me! Just as long as you defend the caravans Ill be satisfied." 
+		
+		- Demetre</Italian>
+        <Spanish>"You're a smart little ass, are you? Well, it dosent matter to me! Just as long as you defend the caravans Ill be satisfied." 
+		
+		- Demetre</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRANSPORT_NETWORKS</Tag>
+        <English>Transport Networks</English>
+        <French>Transport Networks</French>
+        <German>Transport Networks</German>
+        <Italian>Transport Networks</Italian>
+        <Spanish>Transport Networks</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRANSPORT_NETWORKS_PEDIA</Tag>
+        <English>Transport Networks</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRANSPORT_NETWORKS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_TRANSPORT_NETWORKS_QUOTE</Tag>
+        <English>"Trade routes my friend, trade routes. Just about every major town in the wasteland has Crimson Caravan branch in it." 
+		
+		- Blake</English>
+        <French>"Trade routes my friend, trade routes. Just about every major town in the wasteland has Crimson Caravan branch in it." 
+		
+		- Blake</French>
+        <German>"Trade routes my friend, trade routes. Just about every major town in the wasteland has Crimson Caravan branch in it." 
+		
+		- Blake</German>
+        <Italian>"Trade routes my friend, trade routes. Just about every major town in the wasteland has Crimson Caravan branch in it." 
+		
+		- Blake</Italian>
+        <Spanish>"Trade routes my friend, trade routes. Just about every major town in the wasteland has Crimson Caravan branch in it." 
+		
+		- Blake</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_OUTPOSTS</Tag>
+        <English>Advanced Outposts</English>
+        <French>Advanced Outposts</French>
+        <German>Advanced Outposts</German>
+        <Italian>Advanced Outposts</Italian>
+        <Spanish>Advanced Outposts</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_OUTPOSTS_PEDIA</Tag>
+        <English>Advanced Outposts</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_OUTPOSTS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_OUTPOSTS_QUOTE</Tag>
+        <English>"War does not determine who is right - only who is left." 
+		
+		- Robot Butler</English>
+        <French>"War does not determine who is right - only who is left." 
+		
+		- Robot Butler</French>
+        <German>"War does not determine who is right - only who is left." 
+		
+		- Robot Butler</German>
+        <Italian>"War does not determine who is right - only who is left." 
+		
+		- Robot Butler</Italian>
+        <Spanish>"War does not determine who is right - only who is left." 
+		
+		- Robot Butler</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ENERGY_DEFENSES</Tag>
+        <English>Energy Defenses</English>
+        <French>Energy Defenses</French>
+        <German>Energy Defenses</German>
+        <Italian>Energy Defenses</Italian>
+        <Spanish>Energy Defenses</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ENERGY_DEFENSES_PEDIA</Tag>
+        <English>Energy Defenses</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ENERGY_DEFENSES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ENERGY_DEFENSES_QUOTE</Tag>
+        <English>"Obstruction detected, composition: titanium alloy supplemented by photonic resonance barrier. Probability of mission hindrance: zero percent!" 
+		
+		- Liberty Prime</English>
+        <French>"Obstruction detected, composition: titanium alloy supplemented by photonic resonance barrier. Probability of mission hindrance: zero percent!" 
+		
+		- Liberty Prime</French>
+        <German>"Obstruction detected, composition: titanium alloy supplemented by photonic resonance barrier. Probability of mission hindrance: zero percent!" 
+		
+		- Liberty Prime</German>
+        <Italian>"Obstruction detected, composition: titanium alloy supplemented by photonic resonance barrier. Probability of mission hindrance: zero percent!" 
+		
+		- Liberty Prime</Italian>
+        <Spanish>"Obstruction detected, composition: titanium alloy supplemented by photonic resonance barrier. Probability of mission hindrance: zero percent!" 
+		
+		- Liberty Prime</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PLASMA_RIFLES</Tag>
+        <English>Plasma Rifles</English>
+        <French>Plasma Rifles</French>
+        <German>Plasma Rifles</German>
+        <Italian>Plasma Rifles</Italian>
+        <Spanish>Plasma Rifles</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PLASMA_RIFLES_PEDIA</Tag>
+        <English>Plasma Rifles</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PLASMA_RIFLES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PLASMA_RIFLES_QUOTE</Tag>
+        <English>"Whoa Nelly! Sensing Combat Inhibitor removal! Guns are hot! Firing for effect! Welcome to Hell, you zombie freaks!" 
+		
+		- Cerberus</English>
+        <French>"Whoa Nelly! Sensing Combat Inhibitor removal! Guns are hot! Firing for effect! Welcome to Hell, you zombie freaks!" 
+		
+		- Cerberus</French>
+        <German>"Whoa Nelly! Sensing Combat Inhibitor removal! Guns are hot! Firing for effect! Welcome to Hell, you zombie freaks!" 
+		
+		- Cerberus</German>
+        <Italian>"Whoa Nelly! Sensing Combat Inhibitor removal! Guns are hot! Firing for effect! Welcome to Hell, you zombie freaks!" 
+		
+		- Cerberus</Italian>
+        <Spanish>"Whoa Nelly! Sensing Combat Inhibitor removal! Guns are hot! Firing for effect! Welcome to Hell, you zombie freaks!" 
+		
+		- Cerberus</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_ROTARY_WEAPONS</Tag>
+        <English>Adv. Rotary Weapons</English>
+        <French>Adv. Rotary Weapons</French>
+        <German>Adv. Rotary Weapons</German>
+        <Italian>Adv. Rotary Weapons</Italian>
+        <Spanish>Adv. Rotary Weapons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_ROTARY_WEAPONS_PEDIA</Tag>
+        <English>Advanced Rotary Weapons</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_ROTARY_WEAPONS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADV_ROTARY_WEAPONS_QUOTE</Tag>
+        <English>"I am going to kill you SO MUCH."</English>
+        <French>"I am going to kill you SO MUCH."</French>
+        <German>"I am going to kill you SO MUCH."</German>
+        <Italian>"I am going to kill you SO MUCH."</Italian>
+        <Spanish>"I am going to kill you SO MUCH."</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_V_T_O_L</Tag>
+        <English>V.T.O.L.</English>
+        <French>V.T.O.L.</French>
+        <German>V.T.O.L.</German>
+        <Italian>V.T.O.L.</Italian>
+        <Spanish>V.T.O.L.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_V_T_O_L_PEDIA</Tag>
+        <English>Vertical Take Off and Landing</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_V_T_O_L_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_V_T_O_L_QUOTE</Tag>
+        <English>"To fly the open skies in armored safety raining explosive ordnances on ignorant savages, this is our destiny." 
+		
+		- Pete</English>
+        <French>"To fly the open skies in armored safety raining explosive ordnances on ignorant savages, this is our destiny." 
+		
+		- Pete</French>
+        <German>"To fly the open skies in armored safety raining explosive ordnances on ignorant savages, this is our destiny." 
+		
+		- Pete</German>
+        <Italian>"To fly the open skies in armored safety raining explosive ordnances on ignorant savages, this is our destiny." 
+		
+		- Pete</Italian>
+        <Spanish>"To fly the open skies in armored safety raining explosive ordnances on ignorant savages, this is our destiny." 
+		
+		- Pete</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SPECIAL_FORCES</Tag>
+        <English>Special Forces</English>
+        <French>Special Forces</French>
+        <German>Special Forces</German>
+        <Italian>Special Forces</Italian>
+        <Spanish>Special Forces</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SPECIAL_FORCES_PEDIA</Tag>
+        <English>Special Forces</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SPECIAL_FORCES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_SPECIAL_FORCES_QUOTE</Tag>
+        <English>"War never changes? F*** You! You don't know me!" 
+		
+		- War</English>
+        <French>"War never changes? F*** You! You don't know me!" 
+		
+		- War</French>
+        <German>"War never changes? F*** You! You don't know me!" 
+		
+		- War</German>
+        <Italian>"War never changes? F*** You! You don't know me!" 
+		
+		- War</Italian>
+        <Spanish>"War never changes? F*** You! You don't know me!" 
+		
+		- War</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_AIR_TRANSPORTATION</Tag>
+        <English>Air Transportation</English>
+        <French>Air Transportation</French>
+        <German>Air Transportation</German>
+        <Italian>Air Transportation</Italian>
+        <Spanish>Air Transportation</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_AIR_TRANSPORTATION_PEDIA</Tag>
+        <English>Air Transportation</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_AIR_TRANSPORTATION_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_AIR_TRANSPORTATION_QUOTE</Tag>
+        <English>"Uh, What does anybody know about them? Big flying machines right? Crazy helicopters. So weird." 
+		
+		- Arcade Gannon</English>
+        <French>"Uh, What does anybody know about them? Big flying machines right? Crazy helicopters. So weird." 
+		
+		- Arcade Gannon</French>
+        <German>"Uh, What does anybody know about them? Big flying machines right? Crazy helicopters. So weird." 
+		
+		- Arcade Gannon</German>
+        <Italian>"Uh, What does anybody know about them? Big flying machines right? Crazy helicopters. So weird." 
+		
+		- Arcade Gannon</Italian>
+        <Spanish>"Uh, What does anybody know about them? Big flying machines right? Crazy helicopters. So weird." 
+		
+		- Arcade Gannon</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HYDRO_POWER</Tag>
+        <English>Hydro Power</English>
+        <French>Hydro Power</French>
+        <German>Hydro Power</German>
+        <Italian>Hydro Power</Italian>
+        <Spanish>Hydro Power</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HYDRO_POWER_PEDIA</Tag>
+        <English>Hydro Power</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HYDRO_POWER_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_HYDRO_POWER_QUOTE</Tag>
+        <English>"We shall see how brave you are when nailed to the walls of Hoover Dam, your body facing west so you may watch your world die." 
+		
+		- Legate Lanius</English>
+        <French>"We shall see how brave you are when nailed to the walls of Hoover Dam, your body facing west so you may watch your world die." 
+		
+		- Legate Lanius</French>
+        <German>"We shall see how brave you are when nailed to the walls of Hoover Dam, your body facing west so you may watch your world die." 
+		
+		- Legate Lanius</German>
+        <Italian>"We shall see how brave you are when nailed to the walls of Hoover Dam, your body facing west so you may watch your world die." 
+		
+		- Legate Lanius</Italian>
+        <Spanish>"We shall see how brave you are when nailed to the walls of Hoover Dam, your body facing west so you may watch your world die." 
+		
+		- Legate Lanius</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MANUFACTURING_ROBOTICS</Tag>
+        <English>Manufacturing Robotics</English>
+        <French>Manufacturing Robotics</French>
+        <German>Manufacturing Robotics</German>
+        <Italian>Manufacturing Robotics</Italian>
+        <Spanish>Manufacturing Robotics</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MANUFACTURING_ROBOTICS_PEDIA</Tag>
+        <English>Manufacturing Robotics</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MANUFACTURING_ROBOTICS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MANUFACTURING_ROBOTICS_QUOTE</Tag>
+        <English>"And if you had, you know, a huge killer robot at your command, that would just clutter things up." 
+		
+		- Yes Man</English>
+        <French>"And if you had, you know, a huge killer robot at your command, that would just clutter things up." 
+		
+		- Yes Man</French>
+        <German>"And if you had, you know, a huge killer robot at your command, that would just clutter things up." 
+		
+		- Yes Man</German>
+        <Italian>"And if you had, you know, a huge killer robot at your command, that would just clutter things up." 
+		
+		- Yes Man</Italian>
+        <Spanish>"And if you had, you know, a huge killer robot at your command, that would just clutter things up." 
+		
+		- Yes Man</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_NUCLEAR_WEAPONS</Tag>
+        <English>Nuclear Weapons</English>
+        <French>Nuclear Weapons</French>
+        <German>Nuclear Weapons</German>
+        <Italian>Nuclear Weapons</Italian>
+        <Spanish>Nuclear Weapons</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_NUCLEAR_WEAPONS_PEDIA</Tag>
+        <English>Nuclear Weapons</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_NUCLEAR_WEAPONS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_NUCLEAR_WEAPONS_QUOTE</Tag>
+        <English>"We all know the dangers of radiation, but with the right precautions, you can prevent accidental death, or even... ugh... Ghoulification. Keep your eyes on those Geiger Counters, kids. "Tick-tick-tickity" means "run your ass outta there", and pop some RadAway for good measure. If you do need to head into the heat, be smart: give yourself a nice boost of Rad-X first. Remember: only you can prevent human flesh fires." 
+		
+		- Three Dog</English>
+        <French>"We all know the dangers of radiation, but with the right precautions, you can prevent accidental death, or even... ugh... Ghoulification. Keep your eyes on those Geiger Counters, kids. "Tick-tick-tickity" means "run your ass outta there", and pop some RadAway for good measure. If you do need to head into the heat, be smart: give yourself a nice boost of Rad-X first. Remember: only you can prevent human flesh fires." 
+		
+		- Three Dog</French>
+        <German>"We all know the dangers of radiation, but with the right precautions, you can prevent accidental death, or even... ugh... Ghoulification. Keep your eyes on those Geiger Counters, kids. "Tick-tick-tickity" means "run your ass outta there", and pop some RadAway for good measure. If you do need to head into the heat, be smart: give yourself a nice boost of Rad-X first. Remember: only you can prevent human flesh fires." 
+		
+		- Three Dog</German>
+        <Italian>"We all know the dangers of radiation, but with the right precautions, you can prevent accidental death, or even... ugh... Ghoulification. Keep your eyes on those Geiger Counters, kids. "Tick-tick-tickity" means "run your ass outta there", and pop some RadAway for good measure. If you do need to head into the heat, be smart: give yourself a nice boost of Rad-X first. Remember: only you can prevent human flesh fires." 
+		
+		- Three Dog</Italian>
+        <Spanish>"We all know the dangers of radiation, but with the right precautions, you can prevent accidental death, or even... ugh... Ghoulification. Keep your eyes on those Geiger Counters, kids. "Tick-tick-tickity" means "run your ass outta there", and pop some RadAway for good measure. If you do need to head into the heat, be smart: give yourself a nice boost of Rad-X first. Remember: only you can prevent human flesh fires." 
+		
+		- Three Dog</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_STEALTH_ARMOUR_ARMOUR</Tag>
+        <English>Stealth Armour</English>
+        <French>Stealth Armour</French>
+        <German>Stealth Armour</German>
+        <Italian>Stealth Armour</Italian>
+        <Spanish>Stealth Armour</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_STEALTH_ARMOUR_PEDIA</Tag>
+        <English>Stealth Power Armour</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_STEALTH_ARMOUR_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_STEALTH_ARMOUR_QUOTE</Tag>
+        <English>"Don't worry pumpkin grandma knows how to stay quiet." 
+		
+		- Lily</English>
+        <French>"Don't worry pumpkin grandma knows how to stay quiet." 
+		
+		- Lily</French>
+        <German>"Don't worry pumpkin grandma knows how to stay quiet." 
+		
+		- Lily</German>
+        <Italian>"Don't worry pumpkin grandma knows how to stay quiet." 
+		
+		- Lily</Italian>
+        <Spanish>"Don't worry pumpkin grandma knows how to stay quiet." 
+		
+		- Lily</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_A_I</Tag>
+        <English>Advanced A.I.</English>
+        <French>Advanced A.I.</French>
+        <German>Advanced A.I.</German>
+        <Italian>Advanced A.I.</Italian>
+        <Spanish>Advanced A.I.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_A_I_PEDIA</Tag>
+        <English>Advanced A.I.</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_A_I_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_A_I_QUOTE</Tag>
+        <English>"Damn this pansy zombie programming" 
+		
+		- Cerberus</English>
+        <French>"Damn this pansy zombie programming" 
+		
+		- Cerberus</French>
+        <German>"Damn this pansy zombie programming" 
+		
+		- Cerberus</German>
+        <Italian>"Damn this pansy zombie programming" 
+		
+		- Cerberus</Italian>
+        <Spanish>"Damn this pansy zombie programming" 
+		
+		- Cerberus</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_F_E_V</Tag>
+        <English>Advanced F.E.V.</English>
+        <French>Advanced F.E.V.</French>
+        <German>Advanced F.E.V.</German>
+        <Italian>Advanced F.E.V.</Italian>
+        <Spanish>Advanced F.E.V.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_F_E_V_PEDIA</Tag>
+        <English>Advanced Forced Evolution Virus</English>
+        <French>Advanced Forced Evolution Virus</French>
+        <German>Advanced Forced Evolution Virus</German>
+        <Italian>Advanced Forced Evolution Virus</Italian>
+        <Spanish>Advanced Forced Evolution Virus</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_F_E_V_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_F_E_V_QUOTE</Tag>
+        <English>"The Unity will bring about the master race. Master Master! One able to survive, or even thrive, in the wasteland. As long as there will be differences, we will tear ourselves apart fighting each other. We need one race! Race! Race! One goal! Goal! Goal! One people... to move forward to our destiny. Destiny." 
+		
+		- The Master</English>
+        <French>"The Unity will bring about the master race. Master Master! One able to survive, or even thrive, in the wasteland. As long as there will be differences, we will tear ourselves apart fighting each other. We need one race! Race! Race! One goal! Goal! Goal! One people... to move forward to our destiny. Destiny." 
+		
+		- The Master</French>
+        <German>"The Unity will bring about the master race. Master Master! One able to survive, or even thrive, in the wasteland. As long as there will be differences, we will tear ourselves apart fighting each other. We need one race! Race! Race! One goal! Goal! Goal! One people... to move forward to our destiny. Destiny." 
+		
+		- The Master</German>
+        <Italian>"The Unity will bring about the master race. Master Master! One able to survive, or even thrive, in the wasteland. As long as there will be differences, we will tear ourselves apart fighting each other. We need one race! Race! Race! One goal! Goal! Goal! One people... to move forward to our destiny. Destiny." 
+		
+		- The Master</Italian>
+        <Spanish>"The Unity will bring about the master race. Master Master! One able to survive, or even thrive, in the wasteland. As long as there will be differences, we will tear ourselves apart fighting each other. We need one race! Race! Race! One goal! Goal! Goal! One people... to move forward to our destiny. Destiny." 
+		
+		- The Master</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WATER_PURIFICATION</Tag>
+        <English>Water Purification</English>
+        <French>Water Purification</French>
+        <German>Water Purification</German>
+        <Italian>Water Purification</Italian>
+        <Spanish>Water Purification</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WATER_PURIFICATION_PEDIA</Tag>
+        <English>Water Purification</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WATER_PURIFICATION_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WATER_PURIFICATION_QUOTE</Tag>
+        <English>"Revelation 21:6: it's from the Bible - it was your mother's favorite passage. "I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the water of the fountain of life freely." 
+		
+		- James</English>
+        <French>"Revelation 21:6: it's from the Bible - it was your mother's favorite passage. "I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the water of the fountain of life freely." 
+		
+		- James</French>
+        <German>"Revelation 21:6: it's from the Bible - it was your mother's favorite passage. "I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the water of the fountain of life freely." 
+		
+		- James</German>
+        <Italian>"Revelation 21:6: it's from the Bible - it was your mother's favorite passage. "I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the water of the fountain of life freely." 
+		
+		- James</Italian>
+        <Spanish>"Revelation 21:6: it's from the Bible - it was your mother's favorite passage. "I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the water of the fountain of life freely." 
+		
+		- James</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_ROBOTICS</Tag>
+        <English>Advanced Robotics</English>
+        <French>Advanced Robotics</French>
+        <German>Advanced Robotics</German>
+        <Italian>Advanced Robotics</Italian>
+        <Spanish>Advanced Robotics</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_ROBOTICS_PEDIA</Tag>
+        <English>Advanced Robotics</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_ROBOTICS_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_ADVANCED_ROBOTICS_QUOTE</Tag>
+        <English>"I'm quite good at killing things, you may want to run now..." 
+		
+		- Robo-Brain</English>
+        <French>"I'm quite good at killing things, you may want to run now..." 
+		
+		- Robo-Brain</French>
+        <German>"I'm quite good at killing things, you may want to run now..." 
+		
+		- Robo-Brain</German>
+        <Italian>"I'm quite good at killing things, you may want to run now..." 
+		
+		- Robo-Brain</Italian>
+        <Spanish>"I'm quite good at killing things, you may want to run now..." 
+		
+		- Robo-Brain</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PORTABLE_NUKES</Tag>
+        <English>Portable Nukes</English>
+        <French>Portable Nukes</French>
+        <German>Portable Nukes</German>
+        <Italian>Portable Nukes</Italian>
+        <Spanish>Portable Nukes</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PORTABLE_NUKES_PEDIA</Tag>
+        <English>Portable Nukes</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PORTABLE_NUKES_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_PORTABLE_NUKES_QUOTE</Tag>
+        <English>"Now, a lesser person might want that kind of overwhelming force on their side, but you know - where's the challenge in that?" 
+		
+		- Yes Man </English>
+        <French>"Now, a lesser person might want that kind of overwhelming force on their side, but you know - where's the challenge in that?" 
+		
+		- Yes Man </French>
+        <German>"Now, a lesser person might want that kind of overwhelming force on their side, but you know - where's the challenge in that?" 
+		
+		- Yes Man </German>
+        <Italian>"Now, a lesser person might want that kind of overwhelming force on their side, but you know - where's the challenge in that?" 
+		
+		- Yes Man </Italian>
+        <Spanish>"Now, a lesser person might want that kind of overwhelming force on their side, but you know - where's the challenge in that?" 
+		
+		- Yes Man </Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MEGA_COMBAT_ROBOT</Tag>
+        <English>Mega Combat Robot</English>
+        <French>Mega Combat Robot</French>
+        <German>Mega Combat Robot</German>
+        <Italian>Mega Combat Robot</Italian>
+        <Spanish>Mega Combat Robot</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MEGA_COMBAT_ROBOT_PEDIA</Tag>
+        <English>Mega Combat Robot</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MEGA_COMBAT_ROBOT_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_MEGA_COMBAT_ROBOT_QUOTE</Tag>
+        <English>"Liberty Prime is online. All systems nominal. Weapons hot. Mission: the destruction of any and all Chinese communists." 
+		
+		- Liberty Prime</English>
+        <French>"Liberty Prime is online. All systems nominal. Weapons hot. Mission: the destruction of any and all Chinese communists." 
+		
+		- Liberty Prime</French>
+        <German>"Liberty Prime is online. All systems nominal. Weapons hot. Mission: the destruction of any and all Chinese communists." 
+		
+		- Liberty Prime</German>
+        <Italian>"Liberty Prime is online. All systems nominal. Weapons hot. Mission: the destruction of any and all Chinese communists." 
+		
+		- Liberty Prime</Italian>
+        <Spanish>"Liberty Prime is online. All systems nominal. Weapons hot. Mission: the destruction of any and all Chinese communists." 
+		
+		- Liberty Prime</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WASTELAND_RENAISSANCE</Tag>
+        <English>Wasteland Renaissance</English>
+        <French>Wasteland Renaissance</French>
+        <German>Wasteland Renaissance</German>
+        <Italian>Wasteland Renaissance</Italian>
+        <Spanish>Wasteland Renaissance</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WASTELAND_RENAISSANCE_PEDIA</Tag>
+        <English>Wasteland Renaissance</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WASTELAND_RENAISSANCE_STRATEGY</Tag>
+        <English>None</English>
+        <French>Annuler</French>
+        <German>Abbrechen</German>
+        <Italian>Annullamento</Italian>
+        <Spanish>Cancelar</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_TECH_WASTELAND_RENAISSANCE_QUOTE</Tag>
+        <English>"I was taught it was my responsibility to bring the torch of knowledge to the wastes. I may have taken the torch part more literally than they intended." 
+		
+		- Caesar</English>
+        <French>"I was taught it was my responsibility to bring the torch of knowledge to the wastes. I may have taken the torch part more literally than they intended." 
+		
+		- Caesar</French>
+        <German>"I was taught it was my responsibility to bring the torch of knowledge to the wastes. I may have taken the torch part more literally than they intended." 
+		
+		- Caesar</German>
+        <Italian>"I was taught it was my responsibility to bring the torch of knowledge to the wastes. I may have taken the torch part more literally than they intended." 
+		
+		- Caesar</Italian>
+        <Spanish>"I was taught it was my responsibility to bring the torch of knowledge to the wastes. I may have taken the torch part more literally than they intended." 
+		
+		- Caesar</Spanish>
+    </TEXT>
+</Civ4GameText>

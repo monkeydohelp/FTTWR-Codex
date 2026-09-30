@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- ACBase Test: inert FTTWR P1 Recruit source identities. -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_RECRUITS</Tag>
+		<English>Recruits</English>
+	</TEXT>
+	<TEXT><Tag>TXT_KEY_BONUS_RECRUITS_PEDIA</Tag><English>Connected Recruit source copies.</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BONUS_RECRUITS_ADVANCED</Tag><English>Advanced Recruit source</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BONUS_RECRUITS_ADVANCED_PEDIA</Tag><English>Connected Advanced Recruit source copies.</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BONUS_RECRUITS_VETERAN</Tag><English>Veteran Recruit source</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BONUS_RECRUITS_VETERAN_PEDIA</Tag><English>Connected Veteran Recruit source copies.</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RECRUIT_CAPACITY_HEADER</Tag><English>Recruit Capacity:</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RECRUIT_CAPACITY_REQUIRED</Tag><English>Requires: %d1 %s2</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RECRUIT_CAPACITY_AVAILABLE</Tag><English>Available: %d1</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RECRUIT_CAPACITY_DEFICIT</Tag><English>Unavailable: Recruit capacity is short by %d1</English></TEXT></Civ4GameText>

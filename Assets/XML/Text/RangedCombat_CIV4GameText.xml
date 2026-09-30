@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!-- ACBase Test: generic ranged-combat player-facing text. -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_RANGED_COMBAT_CAPABILITY</Tag>
+		<English>Ranged Strength: %d1; Range: %d2 tiles</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RANGED_COMBAT_STRENGTH</Tag>
+		<English>Ranged Strength:</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RANGED_COMBAT_DAMAGE_LIMIT</Tag>
+		<English>Ranged Limit:</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_COLLATERAL_DAMAGE_LIMIT</Tag>
+		<English>Collateral Limit:</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_COLLATERAL_DAMAGE_TARGETS</Tag>
+		<English>Collat. Targets:</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RANGED_COMBAT_DAMAGE_LIMIT_TOOLTIP</Tag>
+		<English>Ranged limit: %d1%%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_COLLATERAL_DAMAGE_TOOLTIP</Tag>
+		<English>Collateral: %d1%% limit, %d2 targets</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RANGED_COMBAT_COUNTER_FIRE</Tag>
+		<English>Can counter-fire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RANGED_COMBAT_DEFENDED</Tag>
+		<English>%s1 was hit by %s2 for %d3%% ranged damage.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RANGED_COMBAT_ATTACK</Tag>
+		<English>%s1 ranged-attacked %s2 for %d3%% damage.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RANGED_COMBAT_COUNTER_FIRE_DEFENDED</Tag>
+		<English>%s1 took counter-fire from %s2 for %d3%% damage.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RANGED_COMBAT_COUNTER_FIRE_ATTACK</Tag>
+		<English>%s1 counter-fired at %s2 for %d3%% damage.</English>
+	</TEXT>
+	<!-- DCM opportunity-fire notifications. -->
+	<TEXT>
+		<Tag>TXT_KEY_MISC_YOU_OPP_FIRE</Tag>
+		<English>Your %s1_UnitName fired opportunity fire at a %s2_EnUName!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ENEMY_OPP_FIRE</Tag>
+		<English>A %s1_EnUName fired opportunity fire at your %s2_UnitName!</English>
+	</TEXT>
+</Civ4GameText>

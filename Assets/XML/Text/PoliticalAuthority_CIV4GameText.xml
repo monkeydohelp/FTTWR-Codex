@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CAPITAL_GROUNDS</Tag>
+		<English>Capital Grounds</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CAPITAL_GROUNDS_PEDIA</Tag>
+		<English>The protected seat of a vault civilization's government. Capital Grounds replaces the Palace for the Vault Test civilization.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CAPITAL_GROUNDS_STRATEGY</Tag>
+		<English>Required by the National Capital. This building is the foundation of the vault civilization's political authority.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_CAPITAL</Tag>
+		<English>National Capital</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_CAPITAL_PEDIA</Tag>
+		<English>The national seat of a civilization's political authority. Completing it establishes the authority identity assigned by the civilization's FoundingReligion tag, or by its leader's FavoriteReligion when no civilization assignment is provided.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_CAPITAL_STRATEGY</Tag>
+		<English>Requires Capital Grounds and Currency. Establishes the civilization's political authority using its FoundingReligion identity, with the leader's FavoriteReligion as a compatibility fallback; the identity is stored through the normal religion and Holy City system.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FOUND_RELIGION</Tag>
+		<English>[ICON_BULLET]Founds your civilization's political authority</English>
+	</TEXT>
+</Civ4GameText>

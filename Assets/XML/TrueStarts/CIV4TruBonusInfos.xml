@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- advc.tsl: Per-bonus (resource) data for the True Starts game option.
+	 Guidelines: Interpret resources fairly widely when it comes to
+	 discouraging them and fairly narrowly when encouraging. Take into
+	 account the typical terrain of a civ when deciding which resources
+	 are worth discouraging; this is mostly a matter of keeping this file
+	 readable. Encourage only resources that are very typical for a civ.
+	 I've in fact picked just exactly two for each civ. Not sure if that
+	 restriction really makes sense. Avoid encouraging resources required
+	 for early uniques; don't want players to be able to rely on those
+	 (too powerful that way). -->
+<Civ4TruBonusInfos xmlns="x-schema:CIV4TrueStartsSchema.xml">
+	<TruBonusInfos>
+		<!-- (Much of Europe doesn't mine any bauxite, but it's not clear that
+			 there is none, and, anyway, doesn't really seem consequential.
+			 Could encourage Mali, but the deposits are actually in Guinea.) -->
+		<!--TruBonusInfo>
+			<Type>TRU_ALUMINUM</Type>
+			<BonusType>BONUS_ADVANCED_MUNITIONS</BonusType>
+		</TruBonusInfo-->
+		<TruBonusInfo>
+			<Type>TRU_COPPER</Type>
+			<BonusType>BONUS_MUNITIONS</BonusType>
+		</TruBonusInfo>
+		<!-- (Amounts insufficient for making a few nukes seem to be quite
+			 unusual. Would mostly just list historically small civs.
+			 Encouraging such a late resource - e.g. for America - also seems
+			 rather moot.) -->
+		<!--TruBonusInfo>
+			<Type>TRU_URANIUM</Type>
+			<BonusType>BONUS_URANIUM</BonusType>
+		</TruBonusInfo-->
+		<!-- (None. Could discourage Africa, but there's plenty of other game
+			 there - and Deer don't get placed in those latitudes anyway.) -->
+		<!--TruBonusInfo>
+			<Type>TRU_DEER</Type>
+			<BonusType>BONUS_DEER</BonusType>
+		</TruBonusInfo-->
+		<!-- (None; latitude should work well enough.) -->
+		<!--TruBonusInfo>
+			<Type>TRU_WHALE</Type>
+			<BonusType>BONUS_WHALE</BonusType>
+		</TruBonusInfo-->
+	</TruBonusInfos>
+</Civ4TruBonusInfos>

@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the RevolutionDCM Team -->
+<!-- Game Text -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+    <TEXT>
+        <!-- Homeless -->
+        <Tag>TXT_KEY_SPECIALIST_HOMELESS</Tag>
+        <English>Homeless</English>
+        <French>Homeless</French>
+        <German>Homeless</German>
+        <Italian>Homeless</Italian>
+        <Spanish>Homeless</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_HOMELESS_STRATEGY</Tag>
+        <English>Each Homeless specialist adds -2 Happiness and -2 Health to the city and provides no standard yields. Reassign these citizens when possible.</English>
+        <French>Each Homeless specialist adds -2 Happiness and -2 Health to the city and provides no standard yields. Reassign these citizens when possible.</French>
+        <German>Each Homeless specialist adds -2 Happiness and -2 Health to the city and provides no standard yields. Reassign these citizens when possible.</German>
+        <Italian>Each Homeless specialist adds -2 Happiness and -2 Health to the city and provides no standard yields. Reassign these citizens when possible.</Italian>
+        <Spanish>Each Homeless specialist adds -2 Happiness and -2 Health to the city and provides no standard yields. Reassign these citizens when possible.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_CITIZEN_PEDIA</Tag>
+        <English>Citizens are ordinary residents who support a settlement as well as its economy. Each assigned Citizen adds +2 Gold, +2 Health, and +2 Happiness.</English>
+        <French>Citizens are ordinary residents who support a settlement as well as its economy. Each assigned Citizen adds +2 Gold, +2 Health, and +2 Happiness.</French>
+        <German>Citizens are ordinary residents who support a settlement as well as its economy. Each assigned Citizen adds +2 Gold, +2 Health, and +2 Happiness.</German>
+        <Italian>Citizens are ordinary residents who support a settlement as well as its economy. Each assigned Citizen adds +2 Gold, +2 Health, and +2 Happiness.</Italian>
+        <Spanish>Citizens are ordinary residents who support a settlement as well as its economy. Each assigned Citizen adds +2 Gold, +2 Health, and +2 Happiness.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_UNIT_GREAT_PROTECTOR</Tag>
+        <English>Great Protector</English>
+        <French>Great Protector</French>
+        <German>Great Protector</German>
+        <Italian>Great Protector</Italian>
+        <Spanish>Great Protector</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GREAT_PROTECTOR</Tag>
+        <English>Great Protector</English>
+        <French>Great Protector</French>
+        <German>Great Protector</German>
+        <Italian>Great Protector</Italian>
+        <Spanish>Great Protector</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_PROTECTOR</Tag>
+        <English>Protector</English>
+        <French>Protector</French>
+        <German>Protector</German>
+        <Italian>Protector</Italian>
+        <Spanish>Protector</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_UNIT_GREAT_PRIEST</Tag>
+        <English>Great Politician</English>
+        <French>Great Politician</French>
+        <German>Great Politician</German>
+        <Italian>Great Politician</Italian>
+        <Spanish>Great Politician</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GREAT_POLITICIAN</Tag>
+        <English>Great Politician</English>
+        <French>Great Politician</French>
+        <German>Great Politician</German>
+        <Italian>Great Politician</Italian>
+        <Spanish>Great Politician</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_POLITICIAN</Tag>
+        <English>Politician</English>
+        <French>Politician</French>
+        <German>Politician</German>
+        <Italian>Politician</Italian>
+        <Spanish>Politician</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_PROTECTOR_STRATEGY</Tag>
+        <English>Each Protector adds +1 Research, +4 Safety, and +3 Great Protector points per turn. Fallout labels the COMMERCE_CULTURE slot as Safety; the test mod currently labels that slot Culture.</English>
+        <French>Each Protector adds +1 Research, +4 Safety, and +3 Great Protector points per turn. Fallout labels the COMMERCE_CULTURE slot as Safety; the test mod currently labels that slot Culture.</French>
+        <German>Each Protector adds +1 Research, +4 Safety, and +3 Great Protector points per turn. Fallout labels the COMMERCE_CULTURE slot as Safety; the test mod currently labels that slot Culture.</German>
+        <Italian>Each Protector adds +1 Research, +4 Safety, and +3 Great Protector points per turn. Fallout labels the COMMERCE_CULTURE slot as Safety; the test mod currently labels that slot Culture.</Italian>
+        <Spanish>Each Protector adds +1 Research, +4 Safety, and +3 Great Protector points per turn. Fallout labels the COMMERCE_CULTURE slot as Safety; the test mod currently labels that slot Culture.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_GREAT_ARTIST_PEDIA</Tag>
+        <English>Great Protectors can serve as powerful settlement specialists. Fallout describes them as increasing Safety; their configured specialist output is +3 Gold and +12 Safety.</English>
+        <French>Great Protectors can serve as powerful settlement specialists. Fallout describes them as increasing Safety; their configured specialist output is +3 Gold and +12 Safety.</French>
+        <German>Great Protectors can serve as powerful settlement specialists. Fallout describes them as increasing Safety; their configured specialist output is +3 Gold and +12 Safety.</German>
+        <Italian>Great Protectors can serve as powerful settlement specialists. Fallout describes them as increasing Safety; their configured specialist output is +3 Gold and +12 Safety.</Italian>
+        <Spanish>Great Protectors can serve as powerful settlement specialists. Fallout describes them as increasing Safety; their configured specialist output is +3 Gold and +12 Safety.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_PROTECTOR_PEDIA</Tag>
+        <English>Protectors improve settlement security and generate Great Protector points. Each assigned Protector adds +1 Research and +4 Safety and contributes +3 Great Protector points per turn. Great Protectors can serve as powerful city specialists or provide a one-time Safety benefit.</English>
+        <French>Protectors improve settlement security and generate Great Protector points. Each assigned Protector adds +1 Research and +4 Safety and contributes +3 Great Protector points per turn. Great Protectors can serve as powerful city specialists or provide a one-time Safety benefit.</French>
+        <German>Protectors improve settlement security and generate Great Protector points. Each assigned Protector adds +1 Research and +4 Safety and contributes +3 Great Protector points per turn. Great Protectors can serve as powerful city specialists or provide a one-time Safety benefit.</German>
+        <Italian>Protectors improve settlement security and generate Great Protector points. Each assigned Protector adds +1 Research and +4 Safety and contributes +3 Great Protector points per turn. Great Protectors can serve as powerful city specialists or provide a one-time Safety benefit.</Italian>
+        <Spanish>Protectors improve settlement security and generate Great Protector points. Each assigned Protector adds +1 Research and +4 Safety and contributes +3 Great Protector points per turn. Great Protectors can serve as powerful city specialists or provide a one-time Safety benefit.</Spanish>
+    </TEXT>
+    <!-- FTTW Specialists -->
+    <TEXT>
+        <!-- Doctor -->
+        <Tag>TXT_KEY_SPECIALIST_DOCTOR</Tag>
+        <English>Doctor</English>
+        <French>Doctor</French>
+        <German>Doctor</German>
+        <Italian>Doctor</Italian>
+        <Spanish>Doctor</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_DOCTOR_STRATEGY</Tag>
+        <English>Each Doctor adds +4 Health to the city, helping offset unhealthiness. Doctors provide no standard yields.</English>
+        <French>Each Doctor adds +4 Health to the city, helping offset unhealthiness. Doctors provide no standard yields.</French>
+        <German>Each Doctor adds +4 Health to the city, helping offset unhealthiness. Doctors provide no standard yields.</German>
+        <Italian>Each Doctor adds +4 Health to the city, helping offset unhealthiness. Doctors provide no standard yields.</Italian>
+        <Spanish>Each Doctor adds +4 Health to the city, helping offset unhealthiness. Doctors provide no standard yields.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_DOCTOR_PEDIA</Tag>
+        <English>Doctors treat illness and improve settlement health. Each assigned Doctor adds +4 Health; Doctors do not produce standard yields.</English>
+        <French>Doctors treat illness and improve settlement health. Each assigned Doctor adds +4 Health; Doctors do not produce standard yields.</French>
+        <German>Doctors treat illness and improve settlement health. Each assigned Doctor adds +4 Health; Doctors do not produce standard yields.</German>
+        <Italian>Doctors treat illness and improve settlement health. Each assigned Doctor adds +4 Health; Doctors do not produce standard yields.</Italian>
+        <Spanish>Doctors treat illness and improve settlement health. Each assigned Doctor adds +4 Health; Doctors do not produce standard yields.</Spanish>
+    </TEXT>
+    <TEXT>
+        <!-- Entertainer -->
+        <Tag>TXT_KEY_SPECIALIST_ENTERTAINER</Tag>
+        <English>Entertainer</English>
+        <French>Entertainer</French>
+        <German>Entertainer</German>
+        <Italian>Entertainer</Italian>
+        <Spanish>Entertainer</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_ENTERTAINER_STRATEGY</Tag>
+        <English>Each Entertainer adds +4 Happiness to the city, helping offset unhappy citizens.</English>
+        <French>Each Entertainer adds +4 Happiness to the city, helping offset unhappy citizens.</French>
+        <German>Each Entertainer adds +4 Happiness to the city, helping offset unhappy citizens.</German>
+        <Italian>Each Entertainer adds +4 Happiness to the city, helping offset unhappy citizens.</Italian>
+        <Spanish>Each Entertainer adds +4 Happiness to the city, helping offset unhappy citizens.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_ENTERTAINER_PEDIA</Tag>
+        <English>Entertainers help maintain morale in difficult conditions. Each assigned Entertainer adds +4 Happiness.</English>
+        <French>Entertainers help maintain morale in difficult conditions. Each assigned Entertainer adds +4 Happiness.</French>
+        <German>Entertainers help maintain morale in difficult conditions. Each assigned Entertainer adds +4 Happiness.</German>
+        <Italian>Entertainers help maintain morale in difficult conditions. Each assigned Entertainer adds +4 Happiness.</Italian>
+        <Spanish>Entertainers help maintain morale in difficult conditions. Each assigned Entertainer adds +4 Happiness.</Spanish>
+    </TEXT>
+    <TEXT>
+        <!-- Scavenger -->
+        <Tag>TXT_KEY_SPECIALIST_SCAVENGER</Tag>
+        <English>Scavenger</English>
+        <French>Scavenger</French>
+        <German>Scavenger</German>
+        <Italian>Scavenger</Italian>
+        <Spanish>Scavenger</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_SCAVENGER_STRATEGY</Tag>
+        <English>Each Scavenger produces +1 Food, +1 Production, +1 Gold, and +1 Research.</English>
+        <French>Each Scavenger produces +1 Food, +1 Production, +1 Gold, and +1 Research.</French>
+        <German>Each Scavenger produces +1 Food, +1 Production, +1 Gold, and +1 Research.</German>
+        <Italian>Each Scavenger produces +1 Food, +1 Production, +1 Gold, and +1 Research.</Italian>
+        <Spanish>Each Scavenger produces +1 Food, +1 Production, +1 Gold, and +1 Research.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_SCAVENGER_PEDIA</Tag>
+        <English>Scavengers recover food, materials, and information from the wasteland. Each adds +1 Food, +1 Production, +1 Gold, and +1 Research.</English>
+        <French>Scavengers recover food, materials, and information from the wasteland. Each adds +1 Food, +1 Production, +1 Gold, and +1 Research.</French>
+        <German>Scavengers recover food, materials, and information from the wasteland. Each adds +1 Food, +1 Production, +1 Gold, and +1 Research.</German>
+        <Italian>Scavengers recover food, materials, and information from the wasteland. Each adds +1 Food, +1 Production, +1 Gold, and +1 Research.</Italian>
+        <Spanish>Scavengers recover food, materials, and information from the wasteland. Each adds +1 Food, +1 Production, +1 Gold, and +1 Research.</Spanish>
+    </TEXT>
+    <TEXT>
+        <!-- Cook -->
+        <Tag>TXT_KEY_SPECIALIST_COOK</Tag>
+        <English>Cook</English>
+        <French>Cook</French>
+        <German>Cook</German>
+        <Italian>Cook</Italian>
+        <Spanish>Cook</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_COOK_STRATEGY</Tag>
+        <English>Each Cook produces +4 Food and adds +1 Health and +1 Happiness to the city.</English>
+        <French>Each Cook produces +4 Food and adds +1 Health and +1 Happiness to the city.</French>
+        <German>Each Cook produces +4 Food and adds +1 Health and +1 Happiness to the city.</German>
+        <Italian>Each Cook produces +4 Food and adds +1 Health and +1 Happiness to the city.</Italian>
+        <Spanish>Each Cook produces +4 Food and adds +1 Health and +1 Happiness to the city.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_COOK_PEDIA</Tag>
+        <English>Cooks turn scarce supplies into reliable meals. Each assigned Cook provides +4 Food, +1 Health, and +1 Happiness.</English>
+        <French>Cooks turn scarce supplies into reliable meals. Each assigned Cook provides +4 Food, +1 Health, and +1 Happiness.</French>
+        <German>Cooks turn scarce supplies into reliable meals. Each assigned Cook provides +4 Food, +1 Health, and +1 Happiness.</German>
+        <Italian>Cooks turn scarce supplies into reliable meals. Each assigned Cook provides +4 Food, +1 Health, and +1 Happiness.</Italian>
+        <Spanish>Cooks turn scarce supplies into reliable meals. Each assigned Cook provides +4 Food, +1 Health, and +1 Happiness.</Spanish>
+    </TEXT>
+    <TEXT>
+        <!-- Citizen -->
+        <Tag>TXT_KEY_SPECIALIST_CITIZEN</Tag>
+        <English>Citizen</English>
+        <French>Citizen</French>
+        <German>Citizen</German>
+        <Italian>Citizen</Italian>
+        <Spanish>Citizen</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_RESIDENT_STRATEGY</Tag>
+        <English>Each Resident adds +2 Gold, +2 Health, and +2 Happiness to the city.</English>
+        <French>Each Resident adds +2 Gold, +2 Health, and +2 Happiness to the city.</French>
+        <German>Each Resident adds +2 Gold, +2 Health, and +2 Happiness to the city.</German>
+        <Italian>Each Resident adds +2 Gold, +2 Health, and +2 Happiness to the city.</Italian>
+        <Spanish>Each Resident adds +2 Gold, +2 Health, and +2 Happiness to the city.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_CITIZEN_STRATEGY</Tag>
+        <English>Each Citizen adds +2 Gold, +2 Health, and +2 Happiness. The combined wellbeing bonuses can help a settlement support more residents.</English>
+        <French>Each Citizen adds +2 Gold, +2 Health, and +2 Happiness. The combined wellbeing bonuses can help a settlement support more residents.</French>
+        <German>Each Citizen adds +2 Gold, +2 Health, and +2 Happiness. The combined wellbeing bonuses can help a settlement support more residents.</German>
+        <Italian>Each Citizen adds +2 Gold, +2 Health, and +2 Happiness. The combined wellbeing bonuses can help a settlement support more residents.</Italian>
+        <Spanish>Each Citizen adds +2 Gold, +2 Health, and +2 Happiness. The combined wellbeing bonuses can help a settlement support more residents.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_RESIDENT_PEDIA</Tag>
+        <English>Residents are ordinary members of a settlement. Each assigned Resident adds +2 Gold, +2 Health, and +2 Happiness.</English>
+        <French>Residents are ordinary members of a settlement. Each assigned Resident adds +2 Gold, +2 Health, and +2 Happiness.</French>
+        <German>Residents are ordinary members of a settlement. Each assigned Resident adds +2 Gold, +2 Health, and +2 Happiness.</German>
+        <Italian>Residents are ordinary members of a settlement. Each assigned Resident adds +2 Gold, +2 Health, and +2 Happiness.</Italian>
+        <Spanish>Residents are ordinary members of a settlement. Each assigned Resident adds +2 Gold, +2 Health, and +2 Happiness.</Spanish>
+    </TEXT>
+    <TEXT>
+        <!-- Shaman -->
+        <Tag>TXT_KEY_SPECIALIST_SHAMAN</Tag>
+        <English>Shaman</English>
+        <French>Shaman</French>
+        <German>Shaman</German>
+        <Italian>Shaman</Italian>
+        <Spanish>Shaman</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_SHAMAN_STRATEGY</Tag>
+        <English>Each Shaman adds +1 Commerce yield, +2 Gold, and +1 Happiness.</English>
+        <French>Each Shaman adds +1 Commerce yield, +2 Gold, and +1 Happiness.</French>
+        <German>Each Shaman adds +1 Commerce yield, +2 Gold, and +1 Happiness.</German>
+        <Italian>Each Shaman adds +1 Commerce yield, +2 Gold, and +1 Happiness.</Italian>
+        <Spanish>Each Shaman adds +1 Commerce yield, +2 Gold, and +1 Happiness.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_SHAMAN_PEDIA</Tag>
+        <English>Shamans serve as community advisers. Each assigned Shaman adds +1 Commerce yield, +2 Gold, and +1 Happiness.</English>
+        <French>Shamans serve as community advisers. Each assigned Shaman adds +1 Commerce yield, +2 Gold, and +1 Happiness.</French>
+        <German>Shamans serve as community advisers. Each assigned Shaman adds +1 Commerce yield, +2 Gold, and +1 Happiness.</German>
+        <Italian>Shamans serve as community advisers. Each assigned Shaman adds +1 Commerce yield, +2 Gold, and +1 Happiness.</Italian>
+        <Spanish>Shamans serve as community advisers. Each assigned Shaman adds +1 Commerce yield, +2 Gold, and +1 Happiness.</Spanish>
+    </TEXT>
+    <TEXT>
+        <!-- Labour -->
+        <Tag>TXT_KEY_SPECIALIST_LABOUR</Tag>
+        <English>Labour</English>
+        <French>Labour</French>
+        <German>Labour</German>
+        <Italian>Labour</Italian>
+        <Spanish>Labour</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_LABOUR_STRATEGY</Tag>
+        <English>Each Labourer produces +1 Food, +2 Production, and +1 Gold, but reduces city Health and Happiness by 1.</English>
+        <French>Each Labourer produces +1 Food, +2 Production, and +1 Gold, but reduces city Health and Happiness by 1.</French>
+        <German>Each Labourer produces +1 Food, +2 Production, and +1 Gold, but reduces city Health and Happiness by 1.</German>
+        <Italian>Each Labourer produces +1 Food, +2 Production, and +1 Gold, but reduces city Health and Happiness by 1.</Italian>
+        <Spanish>Each Labourer produces +1 Food, +2 Production, and +1 Gold, but reduces city Health and Happiness by 1.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_LABOUR_PEDIA</Tag>
+        <English>Labourers provide essential work for a growing settlement. Each adds +1 Food, +2 Production, and +1 Gold, at a cost of 1 Health and 1 Happiness.</English>
+        <French>Labourers provide essential work for a growing settlement. Each adds +1 Food, +2 Production, and +1 Gold, at a cost of 1 Health and 1 Happiness.</French>
+        <German>Labourers provide essential work for a growing settlement. Each adds +1 Food, +2 Production, and +1 Gold, at a cost of 1 Health and 1 Happiness.</German>
+        <Italian>Labourers provide essential work for a growing settlement. Each adds +1 Food, +2 Production, and +1 Gold, at a cost of 1 Health and 1 Happiness.</Italian>
+        <Spanish>Labourers provide essential work for a growing settlement. Each adds +1 Food, +2 Production, and +1 Gold, at a cost of 1 Health and 1 Happiness.</Spanish>
+    </TEXT>
+    <TEXT>
+        <!-- Military Trainer -->
+        <Tag>TXT_KEY_SPECIALIST_MILITARY_TRAINER</Tag>
+        <English>Military Trainer</English>
+        <French>Military Trainer</French>
+        <German>Military Trainer</German>
+        <Italian>Military Trainer</Italian>
+        <Spanish>Military Trainer</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_MILITARY_TRAINER_STRATEGY</Tag>
+        <English>Each Military Trainer adds +2 free experience to units trained in this city and contributes +3 Great General points per turn.</English>
+        <French>Each Military Trainer adds +2 free experience to units trained in this city and contributes +3 Great General points per turn.</French>
+        <German>Each Military Trainer adds +2 free experience to units trained in this city and contributes +3 Great General points per turn.</German>
+        <Italian>Each Military Trainer adds +2 free experience to units trained in this city and contributes +3 Great General points per turn.</Italian>
+        <Spanish>Each Military Trainer adds +2 free experience to units trained in this city and contributes +3 Great General points per turn.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_TRAINER_PEDIA</Tag>
+        <English>Military Trainers drill units produced in their city. Each adds +2 free experience to locally trained units and generates +3 Great General points per turn.</English>
+        <French>Military Trainers drill units produced in their city. Each adds +2 free experience to locally trained units and generates +3 Great General points per turn.</French>
+        <German>Military Trainers drill units produced in their city. Each adds +2 free experience to locally trained units and generates +3 Great General points per turn.</German>
+        <Italian>Military Trainers drill units produced in their city. Each adds +2 free experience to locally trained units and generates +3 Great General points per turn.</Italian>
+        <Spanish>Military Trainers drill units produced in their city. Each adds +2 free experience to locally trained units and generates +3 Great General points per turn.</Spanish>
+    </TEXT>
+    <TEXT>
+        <!-- Ghoul -->
+        <Tag>TXT_KEY_SPECIALIST_GHOUL</Tag>
+        <English>Ghoul</English>
+        <French>Ghoul</French>
+        <German>Ghoul</German>
+        <Italian>Ghoul</Italian>
+        <Spanish>Ghoul</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GHOUL_STRATEGY</Tag>
+        <English>Each Ghoul produces +2 Production, +2 Gold, and +4 Research, but reduces city Health by 2.</English>
+        <French>Each Ghoul produces +2 Production, +2 Gold, and +4 Research, but reduces city Health by 2.</French>
+        <German>Each Ghoul produces +2 Production, +2 Gold, and +4 Research, but reduces city Health by 2.</German>
+        <Italian>Each Ghoul produces +2 Production, +2 Gold, and +4 Research, but reduces city Health by 2.</Italian>
+        <Spanish>Each Ghoul produces +2 Production, +2 Gold, and +4 Research, but reduces city Health by 2.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_GHOUL_PEDIA</Tag>
+        <English>Ghouls are durable workers who can apply their wasteland experience to technical work. Each adds +2 Production, +2 Gold, and +4 Research, but costs the city 2 Health.</English>
+        <French>Ghouls are durable workers who can apply their wasteland experience to technical work. Each adds +2 Production, +2 Gold, and +4 Research, but costs the city 2 Health.</French>
+        <German>Ghouls are durable workers who can apply their wasteland experience to technical work. Each adds +2 Production, +2 Gold, and +4 Research, but costs the city 2 Health.</German>
+        <Italian>Ghouls are durable workers who can apply their wasteland experience to technical work. Each adds +2 Production, +2 Gold, and +4 Research, but costs the city 2 Health.</Italian>
+        <Spanish>Ghouls are durable workers who can apply their wasteland experience to technical work. Each adds +2 Production, +2 Gold, and +4 Research, but costs the city 2 Health.</Spanish>
+    </TEXT>
+    <TEXT>
+        <!-- Robot -->
+        <Tag>TXT_KEY_SPECIALIST_ROBOT</Tag>
+        <English>Robot</English>
+        <French>Robot</French>
+        <German>Robot</German>
+        <Italian>Robot</Italian>
+        <Spanish>Robot</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_ROBOT_STRATEGY</Tag>
+        <English>Each Robot produces +3 Production and has no direct Health or Happiness effect.</English>
+        <French>Each Robot produces +3 Production and has no direct Health or Happiness effect.</French>
+        <German>Each Robot produces +3 Production and has no direct Health or Happiness effect.</German>
+        <Italian>Each Robot produces +3 Production and has no direct Health or Happiness effect.</Italian>
+        <Spanish>Each Robot produces +3 Production and has no direct Health or Happiness effect.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_ROBOT_PEDIA</Tag>
+        <English>Robots provide dependable mechanical labor. Each assigned Robot adds +3 Production without a direct Health or Happiness effect.</English>
+        <French>Robots provide dependable mechanical labor. Each assigned Robot adds +3 Production without a direct Health or Happiness effect.</French>
+        <German>Robots provide dependable mechanical labor. Each assigned Robot adds +3 Production without a direct Health or Happiness effect.</German>
+        <Italian>Robots provide dependable mechanical labor. Each assigned Robot adds +3 Production without a direct Health or Happiness effect.</Italian>
+        <Spanish>Robots provide dependable mechanical labor. Each assigned Robot adds +3 Production without a direct Health or Happiness effect.</Spanish>
+    </TEXT>
+    <TEXT>
+        <!-- Super Mutant -->
+        <Tag>TXT_KEY_SPECIALIST_SUPER_MUTANT</Tag>
+        <English>Super Mutant</English>
+        <French>Super Mutant</French>
+        <German>Super Mutant</German>
+        <Italian>Super Mutant</Italian>
+        <Spanish>Super Mutant</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_SUPER_MUTANT_STRATEGY</Tag>
+        <English>Each Super Mutant produces +5 Production and has no direct Health or Happiness effect.</English>
+        <French>Each Super Mutant produces +5 Production and has no direct Health or Happiness effect.</French>
+        <German>Each Super Mutant produces +5 Production and has no direct Health or Happiness effect.</German>
+        <Italian>Each Super Mutant produces +5 Production and has no direct Health or Happiness effect.</Italian>
+        <Spanish>Each Super Mutant produces +5 Production and has no direct Health or Happiness effect.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_SM_PEDIA</Tag>
+        <English>Super Mutants provide exceptional physical labor. Each assigned Super Mutant adds +5 Production without a direct Health or Happiness effect.</English>
+        <French>Super Mutants provide exceptional physical labor. Each assigned Super Mutant adds +5 Production without a direct Health or Happiness effect.</French>
+        <German>Super Mutants provide exceptional physical labor. Each assigned Super Mutant adds +5 Production without a direct Health or Happiness effect.</German>
+        <Italian>Super Mutants provide exceptional physical labor. Each assigned Super Mutant adds +5 Production without a direct Health or Happiness effect.</Italian>
+        <Spanish>Super Mutants provide exceptional physical labor. Each assigned Super Mutant adds +5 Production without a direct Health or Happiness effect.</Spanish>
+    </TEXT>
+    <!--END: FTTW Specialists -->
+    <TEXT>
+        <!-- Slave: Artist -->
+        <Tag>TXT_KEY_SPECIALIST_PROTECTOR_SLAVE</Tag>
+        <English>Enslaved Artist</English>
+    </TEXT>
+    <TEXT>
+        <!-- Slave: Engineer -->
+        <Tag>TXT_KEY_SPECIALIST_ENGINEER_SLAVE</Tag>
+        <English>Enslaved Engineer</English>
+    </TEXT>
+    <TEXT>
+        <!-- Slave: Merchant -->
+        <Tag>TXT_KEY_SPECIALIST_MERCHANT_SLAVE</Tag>
+        <English>Enslaved Merchant</English>
+    </TEXT>
+    <TEXT>
+        <!-- Slave: Priest -->
+        <Tag>TXT_KEY_SPECIALIST_POLITICIAN_SLAVE</Tag>
+        <English>Enslaved Priest</English>
+    </TEXT>
+    <TEXT>
+        <!-- Slave: Scientist -->
+        <Tag>TXT_KEY_SPECIALIST_SCIENTIST_SLAVE</Tag>
+        <English>Enslaved Scientist</English>
+    </TEXT>
+    <TEXT>
+        <!-- Slave: Spy -->
+        <Tag>TXT_KEY_SPECIALIST_SPY_SLAVE</Tag>
+        <English>Enslaved Spy</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_PRIEST_STRATEGY</Tag>
+        <English>Each Priest adds +1 Production and +1 Gold and contributes +3 Great Prophet points per turn. This generic religion-era mapping remains until the national-identity pass.</English>
+        <French>Each Priest adds +1 Production and +1 Gold and contributes +3 Great Prophet points per turn. This generic religion-era mapping remains until the national-identity pass.</French>
+        <German>Each Priest adds +1 Production and +1 Gold and contributes +3 Great Prophet points per turn. This generic religion-era mapping remains until the national-identity pass.</German>
+        <Italian>Each Priest adds +1 Production and +1 Gold and contributes +3 Great Prophet points per turn. This generic religion-era mapping remains until the national-identity pass.</Italian>
+        <Spanish>Each Priest adds +1 Production and +1 Gold and contributes +3 Great Prophet points per turn. This generic religion-era mapping remains until the national-identity pass.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_ARTIST_STRATEGY</Tag>
+        <English>Each Artist adds +1 Research and +4 Culture and contributes +3 Great Artist points per turn.</English>
+        <French>Each Artist adds +1 Research and +4 Culture and contributes +3 Great Artist points per turn.</French>
+        <German>Each Artist adds +1 Research and +4 Culture and contributes +3 Great Artist points per turn.</German>
+        <Italian>Each Artist adds +1 Research and +4 Culture and contributes +3 Great Artist points per turn.</Italian>
+        <Spanish>Each Artist adds +1 Research and +4 Culture and contributes +3 Great Artist points per turn.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_SCIENTIST_STRATEGY</Tag>
+        <English>Each Scientist adds +5 Research and contributes +3 Great Scientist points per turn.</English>
+        <French>Each Scientist adds +5 Research and contributes +3 Great Scientist points per turn.</French>
+        <German>Each Scientist adds +5 Research and contributes +3 Great Scientist points per turn.</German>
+        <Italian>Each Scientist adds +5 Research and contributes +3 Great Scientist points per turn.</Italian>
+        <Spanish>Each Scientist adds +5 Research and contributes +3 Great Scientist points per turn.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_MERCHANT_STRATEGY</Tag>
+        <English>Each Merchant adds +5 Gold and contributes +3 Great Merchant points per turn.</English>
+        <French>Each Merchant adds +5 Gold and contributes +3 Great Merchant points per turn.</French>
+        <German>Each Merchant adds +5 Gold and contributes +3 Great Merchant points per turn.</German>
+        <Italian>Each Merchant adds +5 Gold and contributes +3 Great Merchant points per turn.</Italian>
+        <Spanish>Each Merchant adds +5 Gold and contributes +3 Great Merchant points per turn.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_ENGINEER_STRATEGY</Tag>
+        <English>Each Engineer adds +5 Production and contributes +3 Great Engineer points per turn.</English>
+        <French>Each Engineer adds +5 Production and contributes +3 Great Engineer points per turn.</French>
+        <German>Each Engineer adds +5 Production and contributes +3 Great Engineer points per turn.</German>
+        <Italian>Each Engineer adds +5 Production and contributes +3 Great Engineer points per turn.</Italian>
+        <Spanish>Each Engineer adds +5 Production and contributes +3 Great Engineer points per turn.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_SPY_STRATEGY</Tag>
+        <English>Each Spy adds +1 Research and +4 Espionage and contributes +3 Great Spy points per turn.</English>
+        <French>Each Spy adds +1 Research and +4 Espionage and contributes +3 Great Spy points per turn.</French>
+        <German>Each Spy adds +1 Research and +4 Espionage and contributes +3 Great Spy points per turn.</German>
+        <Italian>Each Spy adds +1 Research and +4 Espionage and contributes +3 Great Spy points per turn.</Italian>
+        <Spanish>Each Spy adds +1 Research and +4 Espionage and contributes +3 Great Spy points per turn.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GREAT_ARTIST_STRATEGY</Tag>
+        <English>A Great Artist specialist adds +3 Gold and +12 Culture to its city.</English>
+        <French>A Great Artist specialist adds +3 Gold and +12 Culture to its city.</French>
+        <German>A Great Artist specialist adds +3 Gold and +12 Culture to its city.</German>
+        <Italian>A Great Artist specialist adds +3 Gold and +12 Culture to its city.</Italian>
+        <Spanish>A Great Artist specialist adds +3 Gold and +12 Culture to its city.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GREAT_ENGINEER_STRATEGY</Tag>
+        <English>A Great Engineer specialist adds +3 Production and +3 Research to its city.</English>
+        <French>A Great Engineer specialist adds +3 Production and +3 Research to its city.</French>
+        <German>A Great Engineer specialist adds +3 Production and +3 Research to its city.</German>
+        <Italian>A Great Engineer specialist adds +3 Production and +3 Research to its city.</Italian>
+        <Spanish>A Great Engineer specialist adds +3 Production and +3 Research to its city.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GREAT_MERCHANT_STRATEGY</Tag>
+        <English>A Great Merchant specialist adds +1 Food and +6 Gold to its city.</English>
+        <French>A Great Merchant specialist adds +1 Food and +6 Gold to its city.</French>
+        <German>A Great Merchant specialist adds +1 Food and +6 Gold to its city.</German>
+        <Italian>A Great Merchant specialist adds +1 Food and +6 Gold to its city.</Italian>
+        <Spanish>A Great Merchant specialist adds +1 Food and +6 Gold to its city.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GREAT_PRIEST_STRATEGY</Tag>
+        <English>A Great Priest specialist adds +2 Production and +5 Gold to its city.</English>
+        <French>A Great Priest specialist adds +2 Production and +5 Gold to its city.</French>
+        <German>A Great Priest specialist adds +2 Production and +5 Gold to its city.</German>
+        <Italian>A Great Priest specialist adds +2 Production and +5 Gold to its city.</Italian>
+        <Spanish>A Great Priest specialist adds +2 Production and +5 Gold to its city.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GREAT_SCIENTIST_STRATEGY</Tag>
+        <English>A Great Scientist specialist adds +1 Production and +6 Research to its city.</English>
+        <French>A Great Scientist specialist adds +1 Production and +6 Research to its city.</French>
+        <German>A Great Scientist specialist adds +1 Production and +6 Research to its city.</German>
+        <Italian>A Great Scientist specialist adds +1 Production and +6 Research to its city.</Italian>
+        <Spanish>A Great Scientist specialist adds +1 Production and +6 Research to its city.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GREAT_SPY_STRATEGY</Tag>
+        <English>A Great Spy specialist adds +3 Research and +12 Espionage to its city.</English>
+        <French>A Great Spy specialist adds +3 Research and +12 Espionage to its city.</French>
+        <German>A Great Spy specialist adds +3 Research and +12 Espionage to its city.</German>
+        <Italian>A Great Spy specialist adds +3 Research and +12 Espionage to its city.</Italian>
+        <Spanish>A Great Spy specialist adds +3 Research and +12 Espionage to its city.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GREAT_GENERAL</Tag>
+        <English>Great General</English>
+        <French>Great General</French>
+        <German>Great General</German>
+        <Italian>Great General</Italian>
+        <Spanish>Great General</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CONCEPT_GREAT_GENERALS_PEDIA</Tag>
+        <English>Great Generals are military leaders. Assigning a Great General specialist grants +4 free experience to units trained in that city.</English>
+        <French>Great Generals are military leaders. Assigning a Great General specialist grants +4 free experience to units trained in that city.</French>
+        <German>Great Generals are military leaders. Assigning a Great General specialist grants +4 free experience to units trained in that city.</German>
+        <Italian>Great Generals are military leaders. Assigning a Great General specialist grants +4 free experience to units trained in that city.</Italian>
+        <Spanish>Great Generals are military leaders. Assigning a Great General specialist grants +4 free experience to units trained in that city.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GREAT_GENERAL_STRATEGY</Tag>
+        <English>A Great General specialist grants +4 free experience to units trained in the city.</English>
+        <French>A Great General specialist grants +4 free experience to units trained in the city.</French>
+        <German>A Great General specialist grants +4 free experience to units trained in the city.</German>
+        <Italian>A Great General specialist grants +4 free experience to units trained in the city.</Italian>
+        <Spanish>A Great General specialist grants +4 free experience to units trained in the city.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GREAT_POLITICIAN_STRATEGY</Tag>
+        <English>A Great Politician specialist adds +2 Production and +3 Gold to its city.</English>
+        <French>A Great Politician specialist adds +2 Production and +3 Gold to its city.</French>
+        <German>A Great Politician specialist adds +2 Production and +3 Gold to its city.</German>
+        <Italian>A Great Politician specialist adds +2 Production and +3 Gold to its city.</Italian>
+        <Spanish>A Great Politician specialist adds +2 Production and +3 Gold to its city.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_POLITICIAN_STRATEGY</Tag>
+        <English>Each Politician adds +3 Commerce yield and +2 Gold and contributes +3 Great Person points per turn toward its configured class. It currently uses the Prophet class, a mapping to revisit with the national-identity pass.</English>
+        <French>Each Politician adds +3 Commerce yield and +2 Gold and contributes +3 Great Person points per turn toward its configured class. It currently uses the Prophet class, a mapping to revisit with the national-identity pass.</French>
+        <German>Each Politician adds +3 Commerce yield and +2 Gold and contributes +3 Great Person points per turn toward its configured class. It currently uses the Prophet class, a mapping to revisit with the national-identity pass.</German>
+        <Italian>Each Politician adds +3 Commerce yield and +2 Gold and contributes +3 Great Person points per turn toward its configured class. It currently uses the Prophet class, a mapping to revisit with the national-identity pass.</Italian>
+        <Spanish>Each Politician adds +3 Commerce yield and +2 Gold and contributes +3 Great Person points per turn toward its configured class. It currently uses the Prophet class, a mapping to revisit with the national-identity pass.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_GREAT_PROTECTOR_STRATEGY</Tag>
+        <English>A Great Protector specialist adds +3 Gold and +12 Safety to its city. Fallout labels the COMMERCE_CULTURE slot as Safety; the test mod currently labels that slot Culture.</English>
+        <French>A Great Protector specialist adds +3 Gold and +12 Safety to its city. Fallout labels the COMMERCE_CULTURE slot as Safety; the test mod currently labels that slot Culture.</French>
+        <German>A Great Protector specialist adds +3 Gold and +12 Safety to its city. Fallout labels the COMMERCE_CULTURE slot as Safety; the test mod currently labels that slot Culture.</German>
+        <Italian>A Great Protector specialist adds +3 Gold and +12 Safety to its city. Fallout labels the COMMERCE_CULTURE slot as Safety; the test mod currently labels that slot Culture.</Italian>
+        <Spanish>A Great Protector specialist adds +3 Gold and +12 Safety to its city. Fallout labels the COMMERCE_CULTURE slot as Safety; the test mod currently labels that slot Culture.</Spanish>
+    </TEXT>
+</Civ4GameText>

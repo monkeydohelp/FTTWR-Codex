@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ACBase Test: named player-facing DPF fixture. -->
+<Civ4DPFInfos xmlns="http://www.firaxis.com">
+	<DPFInfos>
+		<DPFInfo>
+			<Type>DPF_TEST_LINEAR</Type>
+			<ID>1</ID>
+			<DisplayName>Resource Network</DisplayName>
+			<Description>Build a reliable local resource network.</Description>
+			<InitialStatus>DORMANT</InitialStatus>
+			<InitialStage>0</InitialStage>
+			<Stages>
+				<Stage>
+					<ID>0</ID>
+					<DisplayName>Not started</DisplayName>
+					<Hint>Complete an improvement to begin.</Hint>
+				</Stage>
+				<Stage>
+					<ID>1</ID>
+					<DisplayName>Developing</DisplayName>
+					<Hint>Choose whether to expand capacity or protect the network.</Hint>
+					<EnterEffects>
+						<Effect>
+							<Type>INCREMENT_VARIABLE</Type>
+							<ID>1</ID>
+							<Value>1</Value>
+						</Effect>
+					</EnterEffects>
+					<ActiveEffects>
+						<Effect>
+							<Type>TRACE</Type>
+						</Effect>
+					</ActiveEffects>
+					<Choice>
+						<RequestID>1001</RequestID>
+						<ExpiryTurns>0</ExpiryTurns>
+						<DefaultOption>1</DefaultOption>
+						<DisplayName>Network direction</DisplayName>
+						<Description>Choose whether to expand the network or protect it from setbacks.</Description>
+						<Options>
+							<Option>
+								<ID>1</ID>
+								<DisplayName>Expand the network</DisplayName>
+								<Description>Gain 1 network capacity now; faster reward progress but greater exposure to setbacks.</Description>
+								<AIScore>20</AIScore>
+								<AIReason>RESOURCE_GROWTH</AIReason>
+								<ToStatus>ACTIVE</ToStatus>
+								<ToStage>2</ToStage>
+								<Effects>
+									<Effect>
+										<Type>INCREMENT_VARIABLE</Type>
+										<ID>2</ID>
+										<Value>1</Value>
+										<Marker>1101</Marker>
+									</Effect>
+									<Effect>
+										<Type>SET_VARIABLE</Type>
+										<ID>4</ID>
+										<Value>1</Value>
+										<Marker>1102</Marker>
+									</Effect>
+								</Effects>
+							</Option>
+							<Option>
+								<ID>2</ID>
+								<DisplayName>Protect the network</DisplayName>
+								<Description>Gain 1 protection charge; expansion resumes after another improvement.</Description>
+								<AIScore>10</AIScore>
+								<AIReason>SETBACK_RESILIENCE</AIReason>
+								<ToStatus>BLOCKED</ToStatus>
+								<ToStage>4</ToStage>
+								<Effects>
+									<Effect>
+										<Type>INCREMENT_VARIABLE</Type>
+										<ID>3</ID>
+										<Value>1</Value>
+										<Marker>1201</Marker>
+									</Effect>
+									<Effect>
+										<Type>SET_VARIABLE</Type>
+										<ID>4</ID>
+										<Value>0</Value>
+										<Marker>1202</Marker>
+									</Effect>
+								</Effects>
+							</Option>
+						</Options>
+					</Choice>
+				</Stage>
+				<Stage>
+					<ID>2</ID>
+					<DisplayName>Expanding</DisplayName>
+					<Hint>Complete another improvement to increase the network reward.</Hint>
+					<EnterEffects>
+						<Effect>
+							<Type>INCREMENT_VARIABLE</Type>
+							<ID>1</ID>
+							<Value>1</Value>
+						</Effect>
+					</EnterEffects>
+				</Stage>
+				<Stage>
+					<ID>4</ID>
+					<DisplayName>Protected</DisplayName>
+					<Hint>One protection charge is secured; complete an improvement to resume expansion.</Hint>
+					<ExitEffects>
+						<Effect>
+							<Type>SET_VARIABLE</Type>
+							<ID>4</ID>
+							<Value>0</Value>
+							<Marker>1401</Marker>
+						</Effect>
+					</ExitEffects>
+				</Stage>
+				<Stage>
+					<ID>3</ID>
+					<DisplayName>Network reward active</DisplayName>
+					<Hint>The persistent network trait reward is active.</Hint>
+					<EnterEffects>
+						<Effect>
+							<Type>GRANT_TRAIT</Type>
+							<TraitType>TRAIT_DPF_TEST_SHARED</TraitType>
+							<Value>103</Value>
+							<Marker>103</Marker>
+						</Effect>
+					</EnterEffects>
+				</Stage>
+			</Stages>
+			<Transitions>
+				<Transition>
+					<ID>101</ID>
+					<FromStatus>DORMANT</FromStatus>
+					<FromStage>0</FromStage>
+					<ToStatus>ACTIVE</ToStatus>
+					<ToStage>1</ToStage>
+					<Priority>100</Priority>
+					<Condition>
+						<Type>EVENT_OCCURRED</Type>
+						<EventType>IMPROVEMENT_COMPLETED</EventType>
+					</Condition>
+				</Transition>
+				<Transition>
+					<ID>102</ID>
+					<FromStatus>ACTIVE</FromStatus>
+					<FromStage>1</FromStage>
+					<ToStatus>ACTIVE</ToStatus>
+					<ToStage>2</ToStage>
+					<Priority>100</Priority>
+					<Condition>
+						<Type>EVENT_OCCURRED</Type>
+						<EventType>FEATURE_REMOVED</EventType>
+					</Condition>
+				</Transition>
+				<Transition>
+					<ID>103</ID>
+					<FromStatus>ACTIVE</FromStatus>
+					<FromStage>2</FromStage>
+					<ToStatus>COMPLETED</ToStatus>
+					<ToStage>3</ToStage>
+					<Priority>100</Priority>
+					<Condition>
+						<Type>AND</Type>
+						<Children>
+							<Condition>
+								<Type>EVENT_COUNT</Type>
+								<EventType>IMPROVEMENT_COMPLETED</EventType>
+								<Value>2</Value>
+							</Condition>
+							<Condition>
+								<Type>VARIABLE_AT_LEAST</Type>
+								<Variable>1</Variable>
+								<Value>2</Value>
+							</Condition>
+						</Children>
+					</Condition>
+				</Transition>
+				<Transition>
+					<ID>104</ID>
+					<FromStatus>BLOCKED</FromStatus>
+					<FromStage>4</FromStage>
+					<ToStatus>ACTIVE</ToStatus>
+					<ToStage>2</ToStage>
+					<Priority>100</Priority>
+					<Condition>
+						<Type>EVENT_OCCURRED</Type>
+						<EventType>IMPROVEMENT_COMPLETED</EventType>
+					</Condition>
+				</Transition>
+			</Transitions>
+		</DPFInfo>
+		<DPFInfo>
+			<Type>DPF_TEST_BLOCKED</Type>
+			<ID>2</ID>
+			<DisplayName>Network Protection</DisplayName>
+			<Description>Protect the network when a local setback blocks progress.</Description>
+			<InitialStatus>DORMANT</InitialStatus>
+			<InitialStage>0</InitialStage>
+			<Stages>
+				<Stage>
+					<ID>0</ID>
+					<DisplayName>Not started</DisplayName>
+					<Hint>Complete an improvement to begin.</Hint>
+				</Stage>
+				<Stage>
+					<ID>1</ID>
+					<DisplayName>Protected</DisplayName>
+					<Hint>Keep improving the network.</Hint>
+				</Stage>
+				<Stage>
+					<ID>2</ID>
+					<DisplayName>Blocked</DisplayName>
+					<Hint>Resolve the setback, then complete an improvement.</Hint>
+				</Stage>
+				<Stage>
+					<ID>3</ID>
+					<DisplayName>Protection complete</DisplayName>
+					<Hint>Protection progression complete.</Hint>
+				</Stage>
+			</Stages>
+			<Transitions>
+				<Transition>
+					<ID>201</ID>
+					<FromStatus>DORMANT</FromStatus>
+					<FromStage>0</FromStage>
+					<ToStatus>ACTIVE</ToStatus>
+					<ToStage>1</ToStage>
+					<Priority>100</Priority>
+					<Condition>
+						<Type>EVENT_OCCURRED</Type>
+						<EventType>IMPROVEMENT_COMPLETED</EventType>
+					</Condition>
+				</Transition>
+				<Transition>
+					<ID>202</ID>
+					<FromStatus>ACTIVE</FromStatus>
+					<FromStage>1</FromStage>
+					<ToStatus>BLOCKED</ToStatus>
+					<ToStage>2</ToStage>
+					<Priority>100</Priority>
+					<Condition>
+						<Type>EVENT_OCCURRED</Type>
+						<EventType>FEATURE_REMOVED</EventType>
+					</Condition>
+				</Transition>
+				<Transition>
+					<ID>203</ID>
+					<FromStatus>BLOCKED</FromStatus>
+					<FromStage>2</FromStage>
+					<ToStatus>ACTIVE</ToStatus>
+					<ToStage>1</ToStage>
+					<Priority>100</Priority>
+					<Condition>
+						<Type>EVENT_OCCURRED</Type>
+						<EventType>IMPROVEMENT_COMPLETED</EventType>
+					</Condition>
+				</Transition>
+				<Transition>
+					<ID>204</ID>
+					<FromStatus>ACTIVE</FromStatus>
+					<FromStage>1</FromStage>
+					<ToStatus>COMPLETED</ToStatus>
+					<ToStage>3</ToStage>
+					<Priority>50</Priority>
+					<Condition>
+						<Type>EVENT_COUNT</Type>
+						<EventType>IMPROVEMENT_COMPLETED</EventType>
+						<Value>3</Value>
+					</Condition>
+				</Transition>
+			</Transitions>
+		</DPFInfo>
+		<DPFInfo>
+			<Type>DPF_TEST_FAILED</Type>
+			<ID>3</ID>
+			<DisplayName>Setback Recovery</DisplayName>
+			<Description>Recover from a failure and rebuild momentum.</Description>
+			<InitialStatus>DORMANT</InitialStatus>
+			<InitialStage>0</InitialStage>
+			<Stages>
+				<Stage>
+					<ID>0</ID>
+					<DisplayName>Not started</DisplayName>
+					<Hint>Complete an improvement to begin.</Hint>
+				</Stage>
+				<Stage>
+					<ID>1</ID>
+					<DisplayName>Advancing</DisplayName>
+					<Hint>Continue improving the network.</Hint>
+				</Stage>
+				<Stage>
+					<ID>2</ID>
+					<DisplayName>Failed</DisplayName>
+					<Hint>Recover from the setback with another improvement.</Hint>
+				</Stage>
+				<Stage>
+					<ID>3</ID>
+					<DisplayName>Recovery complete</DisplayName>
+					<Hint>Recovery progression complete.</Hint>
+				</Stage>
+			</Stages>
+			<Transitions>
+				<Transition>
+					<ID>301</ID>
+					<FromStatus>DORMANT</FromStatus>
+					<FromStage>0</FromStage>
+					<ToStatus>ACTIVE</ToStatus>
+					<ToStage>1</ToStage>
+					<Priority>100</Priority>
+					<Condition>
+						<Type>EVENT_OCCURRED</Type>
+						<EventType>IMPROVEMENT_COMPLETED</EventType>
+					</Condition>
+				</Transition>
+				<Transition>
+					<ID>302</ID>
+					<FromStatus>ACTIVE</FromStatus>
+					<FromStage>1</FromStage>
+					<ToStatus>FAILED</ToStatus>
+					<ToStage>2</ToStage>
+					<Priority>100</Priority>
+					<Condition>
+						<Type>EVENT_OCCURRED</Type>
+						<EventType>FEATURE_REMOVED</EventType>
+					</Condition>
+				</Transition>
+				<Transition>
+					<ID>303</ID>
+					<FromStatus>FAILED</FromStatus>
+					<FromStage>2</FromStage>
+					<ToStatus>ACTIVE</ToStatus>
+					<ToStage>1</ToStage>
+					<Priority>100</Priority>
+					<Condition>
+						<Type>EVENT_OCCURRED</Type>
+						<EventType>IMPROVEMENT_COMPLETED</EventType>
+					</Condition>
+				</Transition>
+				<Transition>
+					<ID>304</ID>
+					<FromStatus>ACTIVE</FromStatus>
+					<FromStage>1</FromStage>
+					<ToStatus>COMPLETED</ToStatus>
+					<ToStage>3</ToStage>
+					<Priority>50</Priority>
+					<Condition>
+						<Type>EVENT_COUNT</Type>
+						<EventType>IMPROVEMENT_COMPLETED</EventType>
+						<Value>3</Value>
+					</Condition>
+				</Transition>
+			</Transitions>
+		</DPFInfo>
+	</DPFInfos>
+</Civ4DPFInfos>

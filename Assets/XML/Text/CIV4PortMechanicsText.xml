@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_COMMERCE_MODIFIERS</Tag>
+		<English>[NEWLINE][ICON_BULLET]%D1%% %F2_commerce</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CAPITAL_RECEIVES_PILLAGE</Tag>
+		<English>[NEWLINE][ICON_BULLET]Pillage yields and city-bound plunder are delivered to your capital.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_NO_PILLAGE_REWARD</Tag>
+		<English>[NEWLINE][ICON_BULLET]Pillaging provides no rewards unless Extra Pillage is enabled.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRAIT_PILLAGING</Tag>
+		<English>[SPACE]from pillaging</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PRODUCTION_FAST</Tag>
+		<English>%[SPACE]Faster training of[SPACE]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PRODUCTION_SLOW</Tag>
+		<English>%[SPACE]Slower training of[SPACE]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FTTWR_SPECIALIST_HAPPINESS_OUTPUT</Tag>
+		<English>%d %s per %s</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FTTWR_SPECIALIST_HEALTH_OUTPUT</Tag>
+		<English>%d %s per %s</English>
+	</TEXT>
+</Civ4GameText>

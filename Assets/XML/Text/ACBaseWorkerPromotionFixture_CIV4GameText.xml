@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+    <TEXT><Tag>TXT_KEY_PROMOTION_ACBASE_WORKER_TEST</Tag><English>Skilled Worker</English></TEXT>
+    <TEXT><Tag>TXT_KEY_UNITCOMBAT_WORKER</Tag><English>Worker Units</English></TEXT>
+    <TEXT><Tag>TXT_KEY_PROMOTION_ACBASE_PILLAGE_TEST</Tag><English>Raider</English></TEXT>
+	<TEXT><Tag>TXT_KEY_PROMOTION_WORK_RATE_MODIFY_TEXT</Tag><English>Worker speed +%d1%%.</English></TEXT>
+    <TEXT><Tag>TXT_KEY_PROMOTION_KEEP_FEATURE_BUILD_TEXT</Tag><English>Preserves %s1 when building %s2.</English></TEXT>
+    <TEXT><Tag>TXT_KEY_PROMOTION_PILLAGE_ON_MOVE_TEXT</Tag><English>Automatically pillages enemy improvements on movement.</English></TEXT>
+    <TEXT><Tag>TXT_KEY_PROMOTION_PILLAGE_ON_VICTORY_TEXT</Tag><English>Loots defeated units.</English></TEXT>
+    <TEXT><Tag>TXT_KEY_PROMOTION_PILLAGE_MARAUDER_TEXT</Tag><English>Receives an additional marauder reward when pillaging.</English></TEXT>
+    <TEXT><Tag>TXT_KEY_PROMOTION_PILLAGE_RESEARCH_TEXT</Tag><English>Converts pillage loot into research.</English></TEXT>
+    <TEXT><Tag>TXT_KEY_PROMOTION_PILLAGE_CULTURE_TEXT</Tag><English>Converts pillage loot into culture.</English></TEXT>
+    <TEXT><Tag>TXT_KEY_PROMOTION_PILLAGE_ESPIONAGE_TEXT</Tag><English>Converts pillage loot into espionage.</English></TEXT>
+    <TEXT><Tag>TXT_KEY_ACBASE_PILLAGE_MARAUDER_REWARD</Tag><English>Marauder reward: +%d1 gold.</English></TEXT>
+    <TEXT><Tag>TXT_KEY_ACBASE_PILLAGE_PROMOTION_RESEARCH</Tag><English>Pillage promotion: +%d1 research toward %s2.</English></TEXT>
+    <TEXT><Tag>TXT_KEY_ACBASE_PILLAGE_PROMOTION_CULTURE</Tag><English>Pillage promotion: +%d1 culture in %s2.</English></TEXT>
+    <TEXT><Tag>TXT_KEY_ACBASE_PILLAGE_PROMOTION_ESPIONAGE</Tag><English>Pillage promotion: +%d1 espionage.</English></TEXT>
+    <TEXT><Tag>TXT_KEY_ACBASE_PILLAGE_VICTORY_GOLD</Tag><English>Victory loot: +%d1 gold from %s2.</English></TEXT>
+  </Civ4GameText>

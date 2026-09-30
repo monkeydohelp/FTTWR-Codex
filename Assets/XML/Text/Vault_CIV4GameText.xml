@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_REQUIRES_VAULT</Tag>
+		<English>[ICON_BULLET]Requires Vault</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_REQUIRES_NO_VAULT</Tag>
+		<English>[ICON_BULLET]Cannot be built in Vault</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VAULT_DWELLER</Tag>
+		<English>Vault Dweller[NEWLINE]</English>
+	</TEXT>
+    <TEXT>
+		<Tag>TXT_KEY_FEATURE_VAULT</Tag>
+		<English>Vault</English>
+	</TEXT>
+    <TEXT>
+		<Tag>TXT_KEY_FEATURE_VAULT_PEDIA</Tag>
+		<English>Vault-Tech Vault</English>
+	</TEXT>
+    <TEXT>
+      <Tag>TXT_KEY_CIV_VAULT_TEST_DESC</Tag>
+      <English>Vault Dweller Test</English>
+    </TEXT>
+    <TEXT>
+      <Tag>TXT_KEY_CIV_VAULT_TEST_SHORT_DESC</Tag>
+      <English>Vault Test</English>
+    </TEXT>
+    <TEXT>
+      <Tag>TXT_KEY_CIV_VAULT_TEST_ADJECTIVE</Tag>
+      <English>Vault Dweller</English>
+    </TEXT>
+    <TEXT>
+      <Tag>TXT_KEY_CIV_VAULT_TEST_PEDIA</Tag>
+      <English>A test civilization whose settlers may found cities only on Vault features.</English>
+    </TEXT>
+  </Civ4GameText>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_REQUIRES_TECH</Tag>
+		<English>Requires %s1 before this improvement can be built.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_EVOLVES_WITH_TECH</Tag>
+		<English>Evolves into %s1 after %d2 turns once %s3 is known.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_UPGRADE_REQUIRES_TECH</Tag>
+		<English>Requires %s1 before this improvement can evolve.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_CAN_UPGRADE_IMPROVEMENT</Tag>
+		<English>Needed to upgrade %s1 to %s2.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HEADER</Tag>
+		<English>Improvement:</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLOT_TERRAIN_DEFENSE</Tag>
+		<English>Terrain Defense Bonus: %D1%%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLOT_IMPROVEMENT_DEFENSE</Tag>
+		<English>Improvement Defense Bonus: %D1%%</English>
+	</TEXT>
+</Civ4GameText>

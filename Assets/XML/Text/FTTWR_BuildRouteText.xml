@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT><Tag>TXT_KEY_BUILD_ADV_OUTPOST</Tag><English>Build an Advanced Outpost</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_CAMP</Tag><English>Build a Camp</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_GHOUL_FARM</Tag><English>Plant a Ghoul Farm</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_HIGHWAY</Tag><English>Build Highway</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_LOG_CAMP</Tag><English>Build a Logging Camp</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_LOGGER</Tag><English>Send Woodsman</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_LUMBERMILL</Tag><English>Build a Lumbermill</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_MODERN_FARM</Tag><English>Build a Farm</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_NO_GO</Tag><English>Make a No Go Zone</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_OUTPOST</Tag><English>Build an Outpost</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_PATH</Tag><English>Lay Path</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_PAVED_ROAD</Tag><English>Build a Paved Road</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_PLANTATION</Tag><English>Build a Farmstead</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_PROSPECTOR</Tag><English>Build a Prospector Site</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_QUARRY</Tag><English>Build a Quarry</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_SCAVENGER_BASE</Tag><English>Build a Scavenger Base</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_SCAVENGER_CAMP</Tag><English>Set Up a Scavenger Camp</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_SEA_BRIDGE_EW</Tag><English>Build Sea Bridge East-West</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_SEA_BRIDGE_NESW</Tag><English>Build Sea Bridge Northeast-Southwest</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_SEA_BRIDGE_NS</Tag><English>Build Sea Bridge North-South</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_SEA_BRIDGE_NWSE</Tag><English>Build Sea Bridge Northwest-Southeast</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_VAULT</Tag><English>Open the Vault</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_WATCHTOWER</Tag><English>Build a Watch Tower</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_WATERMILL</Tag><English>Build a Watermill</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_WELL</Tag><English>Build a Well</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_WINDMILL</Tag><English>Build a Windmill</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_WINERY</Tag><English>Build a Winery</English></TEXT>
+	<TEXT><Tag>TXT_KEY_BUILD_WORKSHOP</Tag><English>Build a Workshop</English></TEXT>
+	<TEXT><Tag>TXT_KEY_ROUTE_HIGHWAY</Tag><English>Highway</English></TEXT>
+	<TEXT><Tag>TXT_KEY_ROUTE_PATH</Tag><English>Path</English></TEXT>
+	<TEXT><Tag>TXT_KEY_ROUTE_PAVED</Tag><English>Paved Road</English></TEXT>
+</Civ4GameText>

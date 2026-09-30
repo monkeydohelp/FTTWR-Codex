@@ -1,0 +1,26 @@
+{
+  "schema": "fttwr-build-lane.1",
+  "lane": "FTTW-R Test",
+  "folder": "FTTW-R Test",
+  "base_spine": "AdvCiv 1.13",
+  "base_commit": "1951051b59405b7c39e9b0e6ab877eff597e0bd2",
+  "mechanics_parent": "ACBase",
+  "mechanics_test_parent": "ACBase Test",
+  "mechanics_contract_parent": "outputs/FTTWR_ACBASE_MECHANICS_CONTRACT_20260822.md",
+  "dll": {
+    "path": "Assets/CvGameCoreDLL.dll",
+    "sha256": "3C9E2045809290C99BC1229DD03913A6F0BB898FDBBEE4416DC8EEC2DCA94EBA"
+  },
+  "status": "FALLOUT_TERRAIN_RESOURCE_IMPROVEMENT_PILLAGE_BRIDGE_WORKED_HH_SLAVER_AI_CIVIC_TRAIT_MECHANICS_CONTENT_BATCH_SYNCED_CATEGORY_PASS2_VISIBILITY_DEFAULT_BUILD_ROUTE_XML_PORTED_ASSERT_FIXED_BUILT_DEPLOYED_HUMAN_RUNTIME_PENDING_20260927_SPECIALIST_PEDIA_ASSERT_LAYOUT_BUILT_DEPLOYED_HUMAN_RUNTIME_PENDING_20260928_UNIT_PEDIA_RANGE_AND_SLAVE_CAPACITY_ASSERT_BUILT_DEPLOYED_HUMAN_RUNTIME_PENDING_20260928_PROCESS_PEDIA_PREMENU_LOAD_ASSERT_BUILT_DEPLOYED_HUMAN_RUNTIME_PENDING_20260929_SPECIALIST_ANGER_UNHEALTHY_ASSIGNMENT_AND_GROWTH_FIX_ASSERT_BUILT_DEPLOYED_HUMAN_RUNTIME_PENDING_20260930_ANGER_AWARE_UNASSIGNED_POPULATION_GUARD_NO_CANDIDATE_IDLE_FALLBACK_ASSERT_ZD_DEBUG_PDB_BUILT_DEPLOYED_USER_REPORTED_TURN_ADVANCED_NO_ASSERT_20260930_TECH_MONOPOLY_UNITAI_ROLES_ASSERT_BUILT_DEPLOYED_USER_REPORTED_TURN_ADVANCED_NO_ASSERT_20260930_SEPARATE_UNIT_MOVE_LOOP_ASSERT_OBSERVED_T105_20260930_UNIT_MOVE_LOOP_DIAGNOSTIC_ASSERT_ZD_PDB_BUILT_DEPLOYED_RUNTIME_TEST_PENDING_20260930_UNIT_MOVE_LOOP_LOGGER_DEBUG_ONLY_CALL_REMOVED_ASSERT_ZD_PDB_REBUILT_DEPLOYED_RUNTIME_TEST_PENDING_20260930_CITY_SITE_PRODUCTION_YIELD_ASSERT_FIXED_ASSERT_ZD_PDB_BUILT_DEPLOYED_RUNTIME_TEST_PENDING_20260930_UNIT_MOVE_LOOP_MISSION_QUEUE_CONTEXT_DIAGNOSTICS_ASSERT_ZD_PDB_BUILT_DEPLOYED_RUNTIME_TEST_PENDING_20260930",
+  "test_policy": "Experimental mechanics and destabilising changes belong here first.",
+  "promotion_policy": "A change moves to FTTW-R only after static, preflight, runtime, save/load, and applicable multiplayer gates pass.",
+  "content_migration": "ACBase Blank baseline promoted 2026-09-23. Approved Fallout terrain, feature, bonus, improvement, map-script, Garden/lair/unit, pillage, and sea-bridge content synced to installed C: FTTW-R Test and rebuilt from C source on 2026-09-25. Added separate worked-only improvement health/happiness fields and migrated Ghoul Farm/No Go Zone effects; Assert DLL built from C source with VC7.1 on 2026-09-25. On 2026-09-26 added separate UNITAI_SLAVE handling and Fallout slaver AI integration, with disposable slave build priority based on worker-turns saved. Assert DLL rebuilt from C source and deployed to C: with SHA-256 AB0048E525F765966B654B8D392DF2BBA67082A3C8F0F7FB935873A5D53D9B96. Added ACBase civic/trait support for Fallout pillage-commerce modifiers, no-pillage/capital-destination flags, and unit category/race production modifiers. On 2026-09-26 synchronized the Fallout civic, religion, corporation, civilization/leader, trait/race/art-style, unit/class, building/class, promotion, combat, category, and text batch to installed C: across 15 owning XML files, two schema files, and three text files. The 23 DisableTraits data entries and receiving-schema/reader support remain intentionally deferred with Dynamic Traits; specialist Health/Happiness fields and DLL support are included. All 15 owning XML files pass C: receiving XDR validation; the typed reference audit's 23 CivicOptionType occurrences resolve to five base-BtS civic-option IDs; the 998-owner/1,723-key text audit reports zero missing English entries. Synced 705 available Fallout art assets (57,522,508 bytes); C: and E: candidate now match at 1,275 art files. Synced the Fallout terrain event callback using Fallout terrain IDs. Full VC7.1 Assert rebuild from C: source completed with clean + source_list + precompile/build (without fastdep); 170 object files; output and deployed Assets/CvGameCoreDLL.dll match at SHA-256 4358F671FC86195FE25A7D1A962E07C23C4CECFF4F20A3C560325EC7E1558CC4. The prior deployed C: DLL (SHA-256 00E72005118F20D043D7D1D93D9FD79CC6E5D8A82BBE62684D1641E0FF069746) is backed up under DevKit/Backups/20260926-candidate-sync-prechange. Fallout-TTW - R source remains untouched. No post-sync game launch or human runtime validation has been performed; unavailable art paths remain documented separately.",
+  "resource_mechanics": "Generic ACBase resource-capacity implementation promoted from ACBase Blank. Reconcile Fallout-specific resource contracts against this source and DLL during integration.",
+  "naming_contract": {
+    "folder": "FTTW-R Test",
+    "ini": "FTTW-R Test.ini",
+    "ini_name": "FTTW-R Test",
+    "theme_resource_path": "Mods\\FTTW-R Test\\Resource",
+    "python_mod_name": "FTTW-R Test"
+  }
+}

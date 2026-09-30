@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- RESOURCE-CAPACITY-UI-001: shared human-readable capacity/output labels. -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_HEADER</Tag><English>Resource Capacity:</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_AVAILABLE</Tag><English>Available: %d1</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_REQUIRED</Tag><English>Requires: %d1 %s2</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_DEFICIT</Tag><English>Unavailable: Resource capacity is short by %d1</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_OUTPUT_HEADER</Tag><English>Resource Output</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_HEALTH_HAPPINESS_HEADER</Tag><English>Health &amp; Happiness Output</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_OUTPUT_PER</Tag><English>per</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_OUTPUT_PER_COPY</Tag><English>Per connected copy: +%d1 %s2</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_OUTPUT_UNIT_EXPERIENCE</Tag><English>Unit experience from connected resource copies</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_OUTPUT_HEALTH</Tag><English>health</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_OUTPUT_HAPPINESS</Tag><English>happiness</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_OUTPUT_YIELD</Tag><English>%s1 yield</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_OUTPUT_COMMERCE</Tag><English>%s1 commerce</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_ACTIVE_COMMERCE</Tag><English>+%d1 %s2 from connected resource copies</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_ACTIVE_YIELD</Tag><English>+%d1 %s2 from connected resource copies</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_BLOCKED</Tag><English>Unavailable: required resource capacity is exhausted</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_UPGRADE_HEADER</Tag><English>Resource capacity transition</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_UPGRADE_RELEASES</Tag><English>Releases: %d1 %s2</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RESOURCE_CAPACITY_UPGRADE_RESERVES</Tag><English>Reserves: %d1 %s2</English></TEXT>
+	<TEXT><Tag>TXT_KEY_POPULATION_CAPACITY_UPGRADE_DELTA</Tag><English>Consumes: %d1 additional population on upgrade</English></TEXT>
+	<TEXT><Tag>TXT_KEY_POPULATION_CAPACITY_HEADER</Tag><English>Population Capacity:</English></TEXT>
+	<TEXT><Tag>TXT_KEY_POPULATION_CAPACITY_REQUIRED</Tag><English>Consumes: %d1 population on completion</English></TEXT>
+	<TEXT><Tag>TXT_KEY_POPULATION_CAPACITY_AVAILABLE</Tag><English>Available: %d1</English></TEXT>
+	<TEXT><Tag>TXT_KEY_POPULATION_CAPACITY_DEFICIT</Tag><English>Unavailable: population capacity is short by %d1</English></TEXT>
+</Civ4GameText>

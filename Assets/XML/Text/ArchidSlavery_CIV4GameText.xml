@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLAVER</Tag>
+		<English>Slaver</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLAVER_PEDIA</Tag>
+		<English>A dedicated test unit that captures enemy units as slaves while Slavery is active.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SLAVER_STRATEGY</Tag>
+		<English>Use this unit to capture enemy units as slaves. It is immobilized when Slavery is not active.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACBASE_SLAVERY_UNIT_CAPACITY_LABEL</Tag>
+		<English>Slaves carried:</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_SLAVE_CAPACITY</Tag>
+		<English>Base slave capture capacity: %d1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_DISABLED_UNIT</Tag>
+		<English>Your %s1 unit has refused to continue working. They are unhappy with your choice of civics and until you change your social policies will not move, only defend themselves.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ENABLED_UNIT</Tag>
+		<English>Your %s1 unit is happy with your choice of civics and has started working again.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_RESTORED_BUILDINGS</Tag>
+		<English>The City of %s1 has had its %s2 restored and the %s3 is in working condition again.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_REMOVED_BUILDINGS_CIVICS</Tag>
+		<English>The %s1 in the City of %s2 is no longer functioning and has ceased doing business. Your civic changes have ended its usefulness. Change your social policies to restore the %s3 back to working order.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SLAVERY_MECHANICS_HELP</Tag>
+		<English>[ICON_BULLET]Slavers capture defeated enemies as slaves (capacity limited).[NEWLINE][ICON_BULLET]A friendly [LINK=BUILDING_MARKET]Market[\LINK] sells all carried slaves for +%d1[ICON_GOLD] each.[NEWLINE][ICON_BULLET]Sold slaves settle as Enslaved Workers (+1 Food/+1 Production) and are retained in the city.[NEWLINE][ICON_BULLET]Each Enslaved Worker can build one improvement before dying; slavery units and Markets require this civic.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_ACBASE_OUTPUT_TEST</Tag>
+		<English>ACBase Output Test Specialist</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_ACBASE_OUTPUT_TEST_PEDIA</Tag>
+		<English>Test specialist for the ACBase specialist-output pipeline. Base output: +1 Food, +1 Production, +1 Gold, +1 Health, and +1 Happiness. With ACBase Specialist Output Test active, its civic changes produce +3 Food, +3 Production, +4 Gold, and +3 Research per assigned specialist after the configured percentage modifiers are applied.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_ACBASE_OUTPUT_TEST_STRATEGY</Tag>
+		<English>Fixture specialist for validating specialist output. Its base output is +1 Food and +1 Production, with +1 Health and +1 Happiness. The ACBase Specialist Output Test civic adds the configured changes and percentage modifiers.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ACBASE_SPECIALIST_OUTPUT_TEST</Tag>
+		<English>ACBase Specialist Output Test</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ACBASE_SPECIALIST_OUTPUT_TEST_PEDIA</Tag>
+		<English>Debug fixture civic for the ACBase specialist output pipeline. It enables the ACBase Output Test Specialist and applies additive and percentage changes to that specialist's Food, Production, Gold, and Research output.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_ACBASE_SPECIALIST_OUTPUT_TEST_STRATEGY</Tag>
+		<English>Adopt this civic in the ACBase Test scenario, assign an ACBase Output Test Specialist, and compare the city yields with the civic active and inactive. The fixture applies +1 Food/+1 Production, +50% Food/+50% Production, +2 Gold/+2 Research, and +50% Gold/+50% Research per test specialist.</English>
+	</TEXT>
+<TEXT>
+		<Tag>TXT_KEY_UNIT_SLAVE_HELP</Tag>
+		<English>[COLOR_WARNING_TEXT]Destroyed upon Completion of Work[COLOR_REVERT]</English>
+		<French>[COLOR_WARNING_TEXT]Détruit sur l'accomplissement des travaux[COLOR_REVERT]</French>
+		<German>[COLOR_WARNING_TEXT]Zerstört nach Durchführung der Arbeiten[COLOR_REVERT]</German>
+		<Italian>[COLOR_WARNING_TEXT]Distrutto a fine dei lavori[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_WARNING_TEXT]Destruido sobre la terminación de obras[COLOR_REVERT]</Spanish>
+	</TEXT>
+<TEXT> <!-- Slavery -->
+		<Tag>TXT_KEY_CIVIC_SLAVERY_HELP</Tag>
+		<English>[ICON_BULLET]Enables the Slavery civic. Slavers may capture enemy units while this civic is active. Captured Slaves work at high speed but are destroyed when they complete one improvement. This civic also increases population-related unhealthiness by 20%.</English>
+	</TEXT>
+</Civ4GameText>

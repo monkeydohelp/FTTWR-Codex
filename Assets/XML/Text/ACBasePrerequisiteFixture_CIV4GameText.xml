@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_CIVIC</Tag>
+		<English>Civic Gate Lab</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_CIVIC_PEDIA</Tag>
+		<English>Test building that requires Tribalism and a Capital Grounds building. It cannot be built with Forbidden Palace.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_CIVIC_STRATEGY</Tag>
+		<English>Use this building to test civic, alternative building, and incompatibility requirements.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_VICINITY</Tag>
+		<English>Vicinity Gate Lab</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_VICINITY_PEDIA</Tag>
+		<English>Fixture building for a nearby Farm, Vault feature, and Gold resource.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_VICINITY_STRATEGY</Tag>
+		<English>Use this building to test nearby improvement, feature, and resource requirements.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_BONUS_OR</Tag>
+		<English>Resource OR Gate Lab</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_BONUS_OR_PEDIA</Tag>
+		<English>Fixture building that accepts either nearby Gems or Wheat.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_BONUS_OR_STRATEGY</Tag>
+		<English>Use this building to test an either-or nearby resource requirement.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_CITY</Tag>
+		<English>Population/Culture Gate Lab</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_CITY_PEDIA</Tag>
+		<English>Test building that requires a population of six, at least Poor culture, and a non-vassal city.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_CITY_STRATEGY</Tag>
+		<English>Use this building to test population, culture, and vassal-status requirements.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_POWER_SOURCE</Tag>
+		<English>Power Source Lab</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_POWER_SOURCE_PEDIA</Tag>
+		<English>Small fixture power plant. Completing it supplies city power for the dependent test building.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_POWER_SOURCE_STRATEGY</Tag>
+		<English>Build this first to supply city power for the dependent test building.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_POWER</Tag>
+		<English>Power Gate Lab</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_POWER_PEDIA</Tag>
+		<English>Fixture building requiring an active powered city.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ACBASE_PREREQ_POWER_STRATEGY</Tag>
+		<English>Build this after Power Source Lab to test the city power requirement.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WORKABLE_RADIUS</Tag>
+		<English>[ICON_BULLET]Expands the workable city area to a %d1-tile radius.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CULTURE_FLIP_RESISTANCE</Tag>
+		<English>[ICON_BULLET]Provides %d1%% resistance to cultural conversion.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_CULTURE_FLIP_RESISTED</Tag>
+		<English>%s1 resisted cultural pressure from %s2.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_AIR_COMBAT_LIMIT_CHANGE_TEXT</Tag>
+		<English>+%d1%% air damage limit</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ACBASE_RANGED_COMBAT_TEST</Tag>
+		<English>ACBase Ranged Combat Test</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ACBASE_AIR_COMBAT_TEST</Tag>
+		<English>ACBase Air Combat Test</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ACBASE_MOVEMENT_FREED_TEST</Tag>
+		<English>ACBase Movement Freed Test</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RANGED_COMBAT_STRENGTH_CHANGE_TEXT</Tag>
+		<English>+%d1 ranged strength</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RANGED_COMBAT_STRENGTH_PERCENT_CHANGE_TEXT</Tag>
+		<English>+%d1%% ranged strength</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RANGED_COMBAT_RANGE_CHANGE_TEXT</Tag>
+		<English>Ranged combat range change: %d1 tiles</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RANGED_COMBAT_LIMIT_CHANGE_TEXT</Tag>
+		<English>+%d1%% ranged damage limit</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COLLATERAL_DAMAGE_LIMIT_CHANGE_TEXT</Tag>
+		<English>+%d1%% collateral damage limit</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COLLATERAL_DAMAGE_MAX_UNITS_CHANGE_TEXT</Tag>
+		<English>+%d1 collateral targets</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOVEMENT_BORDER_TIED</Tag>
+		<English>Must remain within friendly borders</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOVEMENT_CITY_TIED</Tag>
+		<English>Must remain within its home city's workable area</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOVEMENT_FREED</Tag>
+		<English>Movement restrictions removed</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MOVEMENT_FREED_TEXT</Tag>
+		<English>Removes border and home-city movement limits</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DISABLED_CIVIC</Tag>
+		<English>Disabled - requires %s1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DISABLED_PANEL</Tag>
+		<English>Disabled %s1</English>
+	</TEXT>
+</Civ4GameText>

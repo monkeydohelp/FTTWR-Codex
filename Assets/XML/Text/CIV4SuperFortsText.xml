@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- ACBase Test SuperForts action and improvement help. -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_PLOT_FORTIFY_TO_UPGRADE</Tag>
+		<English>[SPACE](Must fortify to become %s1_ImpName)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_PLOT_CULTURE</Tag>
+		<English>[ICON_BULLET]%D1_Change[ICON_CULTURE] for owner in plot</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_CULTURE_RANGE</Tag>
+		<English>[ICON_BULLET]Influences plots within a distance of %d1_Num</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_BOMBARD</Tag>
+		<English>[ICON_BULLET]Can be bombarded</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FORTIFY_TO_UPGRADE</Tag>
+		<English>[ICON_BULLET]A unit must fortify to upgrade</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_VISIBILITY_RANGE</Tag>
+		<English>[ICON_BULLET]%D1_Change visibility range</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SEE_FROM</Tag>
+		<English>[ICON_BULLET]%D1_Change visibility height</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_UNIQUE_RANGE</Tag>
+		<English>[ICON_BULLET]Cannot build another within a distance of %d1_Num</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_BOMBARD_IMPROVEMENT</Tag>
+		<English>Bombard %s1: reduce defenses by %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_BOMBARD_IMPROVEMENT_NO_DAMAGE</Tag>
+		<English>Bombard %s1 (no further damage)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_IMPROVEMENT_DEFENSES_REDUCED</Tag>
+		<English>%s1 reduced %s2 defenses by %d3.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_YOU_REDUCE_IMPROVEMENT_DEFENSES</Tag>
+		<English>You reduced %s2 defenses at %s1 by %d3.</English>
+	</TEXT>
+</Civ4GameText>

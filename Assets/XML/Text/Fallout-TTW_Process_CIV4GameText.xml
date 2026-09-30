@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!-- Sid Meier's Civilization 4 Beyond the Sword -->
+<!-- Modified by the RevolutionDCM Team -->
+<!-- Game Text -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_SCIENCE</Tag>
+        <English>Search The Waste</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_SCIENCE_STRATEGY</Tag>
+        <English>Search The Waste</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_CULTURE0</Tag>
+        <English>Explore The Waste</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_CULTURE_STRATEGY</Tag>
+        <English>Explore The Waste</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_WEALTH</Tag>
+        <English>Scavenge The Waste</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_WEALTH_STRATEGY</Tag>
+        <English>Scavenge The Waste</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_SCIENCE_1</Tag>
+        <English>Search The Waste 1</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_SCIENCE_1_STRATEGY</Tag>
+        <English>Search The Waste 1</English>
+    </TEXT>
+		<TEXT>
+        <Tag>TXT_KEY_PROCESS_CULTURE_1</Tag>
+        <English>Explore The Waste 1</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_CULTURE_1_STRATEGY</Tag>
+        <English>Explore The Waste 1</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_WEALTH_1</Tag>
+        <English>Scavenge The Waste 1</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_WEALTH_1_STRATEGY</Tag>
+        <English>Scavenge The Waste 1</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_SCIENCE_2</Tag>
+        <English>Search The Waste 2</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_SCIENCE_2_STRATEGY</Tag>
+        <English>Search The Waste 2</English>
+    </TEXT>
+		<TEXT>
+        <Tag>TXT_KEY_PROCESS_CULTURE_2</Tag>
+        <English>Explore The Waste 2</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_CULTURE_2_STRATEGY</Tag>
+        <English>Explore The Waste 2</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_WEALTH_2</Tag>
+        <English>Scavenge The Waste 2</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_WEALTH_2_STRATEGY</Tag>
+        <English>Scavenge The Waste 2</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_SCIENCE_3</Tag>
+        <English>Search The Waste 3</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_SCIENCE_3_STRATEGY</Tag>
+        <English>Search The Waste 3</English>
+    </TEXT>
+		<TEXT>
+        <Tag>TXT_KEY_PROCESS_CULTURE_3</Tag>
+        <English>Explore The Waste 3</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_CULTURE_3_STRATEGY</Tag>
+        <English>Explore The Waste 3</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_WEALTH_3</Tag>
+        <English>Scavenge The Waste 3</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_WEALTH_3_STRATEGY</Tag>
+        <English>Scavenge The Waste 3</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_SCIENCE_4</Tag>
+        <English>Search The Waste 4</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_SCIENCE_4_STRATEGY</Tag>
+        <English>Search The Waste 4</English>
+    </TEXT>
+		<TEXT>
+        <Tag>TXT_KEY_PROCESS_CULTURE_4</Tag>
+        <English>Explore The Waste 4</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_CULTURE_4_STRATEGY</Tag>
+        <English>Explore The Waste 4</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_WEALTH_4</Tag>
+        <English>Scavenge The Waste 4</English>
+    </TEXT>
+	<TEXT>
+        <Tag>TXT_KEY_PROCESS_WEALTH_4_STRATEGY</Tag>
+        <English>Scavenge The Waste 4</English>
+    </TEXT>
+</Civ4GameText>

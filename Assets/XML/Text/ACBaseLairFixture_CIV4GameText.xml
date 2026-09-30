@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- ACBase lair/ecology fixture text. -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_ACBASE_LAIR_TEST</Tag>
+		<English>Animal Den (Test)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_ACBASE_LAIR_TEST_PEDIA</Tag>
+		<English>A test lair improvement that seeds a barbarian animal during the animal-spawn pass.</English>
+	</TEXT>
+</Civ4GameText>

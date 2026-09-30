@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- ACBase Test: disposable DPF fixture text. -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT><Tag>TXT_KEY_TRAIT_DPF_TEST_SHARED</Tag><English>DPF Shared Trait</English></TEXT>
+	<TEXT><Tag>TXT_KEY_TRAIT_DPF_TEST_SHARED_SHORT</Tag><English>DPF Shared</English></TEXT>
+	<TEXT><Tag>TXT_KEY_TRAIT_DPF_TEST_SHARED_PEDIA</Tag><English>Disposable trait marker used by the ACBase Test DPF fixture.</English></TEXT>
+</Civ4GameText>

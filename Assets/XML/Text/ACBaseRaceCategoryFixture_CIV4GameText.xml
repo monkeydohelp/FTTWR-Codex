@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT><Tag>TXT_KEY_RACE_HUMAN</Tag><English>Human</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RACE_HUMAN_PEDIA</Tag><English>Human race.</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RACE_ANIMAL</Tag><English>Animal</English></TEXT>
+	<TEXT><Tag>TXT_KEY_RACE_ANIMAL_PEDIA</Tag><English>Animal race.</English></TEXT>
+	<TEXT><Tag>TXT_KEY_UNITCATEGORY_MILITARY</Tag><English>Military</English></TEXT>
+	<TEXT><Tag>TXT_KEY_UNITCATEGORY_MILITARY_PEDIA</Tag><English>Military units.</English></TEXT>
+	<TEXT><Tag>TXT_KEY_UNITCATEGORY_CIVILIAN</Tag><English>Civilian</English></TEXT>
+	<TEXT><Tag>TXT_KEY_UNITCATEGORY_CIVILIAN_PEDIA</Tag><English>Civilian units.</English></TEXT>
+	<TEXT><Tag>TXT_KEY_UNIT_RACE</Tag><English>Race:</English></TEXT>
+	<TEXT><Tag>TXT_KEY_UNIT_CATEGORY</Tag><English>Category:</English></TEXT>
+	<TEXT><Tag>TXT_KEY_PROMOTION_ACBASE_HUNTER_TEST</Tag><English>Hunter</English></TEXT>
+	<TEXT><Tag>TXT_KEY_PROMOTION_RACE_PREREQ</Tag><English>Requires a %s1 unit.</English></TEXT>
+	<TEXT><Tag>TXT_KEY_PROMOTION_UNIT_CATEGORY_PREREQ</Tag><English>Requires a %s1 unit.</English></TEXT>
+	<TEXT><Tag>TXT_KEY_PROMOTION_RACE_ATTACK_TEXT</Tag><English>Deals +%d1%% damage to %s2 units.</English></TEXT>
+	<TEXT><Tag>TXT_KEY_PROMOTION_RACE_DEFENSE_TEXT</Tag><English>+%d1%% defence against %s2 units.</English></TEXT>
+	<TEXT><Tag>TXT_KEY_PROMOTION_UNIT_CATEGORY_ATTACK_TEXT</Tag><English>Deals +%d1%% damage to %s2 units.</English></TEXT>
+	<TEXT><Tag>TXT_KEY_PROMOTION_UNIT_CATEGORY_DEFENSE_TEXT</Tag><English>+%d1%% defence against %s2 units.</English></TEXT>
+</Civ4GameText>

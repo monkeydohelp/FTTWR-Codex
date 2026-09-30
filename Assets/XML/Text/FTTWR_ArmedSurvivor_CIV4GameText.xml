@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+<TEXT xmlns="http://www.firaxis.com">
+		<Tag>TXT_KEY_UNIT_ARMED_SURVIVOR</Tag>
+		<English>Armed Survivor</English>
+		<French>Armed Survivor</French>
+		<German>Armed Survivor</German>
+		<Italian>Armed Survivor</Italian>
+		<Spanish>Armed Survivor</Spanish>
+	</TEXT>
+<TEXT xmlns="http://www.firaxis.com">
+		<Tag>TXT_KEY_UNIT_ARMED_SURVIVOR_PEDIA</Tag>
+		<English>Armed Survivor</English>
+		<French>Armed Survivor</French>
+		<German>Armed Survivor</German>
+		<Italian>Armed Survivor</Italian>
+		<Spanish>Armed Survivor</Spanish>
+	</TEXT>
+<TEXT xmlns="http://www.firaxis.com">
+		<Tag>TXT_KEY_UNIT_ARMED_SURVIVOR_STRATEGY</Tag>
+		<English>Has A Weapon, still dies if looked at funny though.</English>
+		<French>Has A Weapon, still dies if looked at funny though.</French>
+		<German>Has A Weapon, still dies if looked at funny though.</German>
+		<Italian>Has A Weapon, still dies if looked at funny though.</Italian>
+		<Spanish>Has A Weapon, still dies if looked at funny though.</Spanish>
+	</TEXT>
+<TEXT xmlns="http://www.firaxis.com">
+		<Tag>TXT_KEY_TECH_IMPROVISED_WEAPONS</Tag>
+		<English>Improvised Weapons</English>
+		<French>Improvised Weapons</French>
+		<German>Improvised Weapons</German>
+		<Italian>Improvised Weapons</Italian>
+		<Spanish>Improvised Weapons</Spanish>
+	</TEXT>
+<TEXT xmlns="http://www.firaxis.com">
+		<Tag>TXT_KEY_TECH_IMPROVISED_WEAPONS_PEDIA</Tag>
+		<English>Bashy Bashy</English>
+		<French>Annuler</French>
+		<German>Abbrechen</German>
+		<Italian>Annullamento</Italian>
+		<Spanish>Cancelar</Spanish>
+	</TEXT>
+<TEXT xmlns="http://www.firaxis.com">
+		<Tag>TXT_KEY_TECH_IMPROVISED_WEAPONS_STRATEGY</Tag>
+		<English>Hit IT!!</English>
+		<French>Annuler</French>
+		<German>Abbrechen</German>
+		<Italian>Annullamento</Italian>
+		<Spanish>Cancelar</Spanish>
+	</TEXT>
+<TEXT xmlns="http://www.firaxis.com">
+		<Tag>TXT_KEY_TECH_IMPROVISED_WEAPONS_QUOTE</Tag>
+		<English>"Grampy-bone be doing da killin' right now." 
+		
+		- Sulik</English>
+		<French>"Grampy-bone be doing da killin' right now." 
+		
+		- Sulik</French>
+		<German>"Grampy-bone be doing da killin' right now." 
+		
+		- Sulik</German>
+		<Italian>"Grampy-bone be doing da killin' right now." 
+		
+		- Sulik</Italian>
+		<Spanish>"Grampy-bone be doing da killin' right now." 
+		
+		- Sulik</Spanish>
+	</TEXT>
+</Civ4GameText>

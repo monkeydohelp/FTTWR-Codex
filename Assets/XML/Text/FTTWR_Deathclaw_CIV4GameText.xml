@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DEATHCLAW</Tag>
+		<English>Deathclaw</English>
+		<French>Deathclaw</French>
+		<German>Deathclaw</German>
+		<Italian>Deathclaw</Italian>
+		<Spanish>Deathclaw</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INVISIBLE_SLAVER</Tag>
+		<English>Deniable Operatives</English>
+	</TEXT>
+</Civ4GameText>

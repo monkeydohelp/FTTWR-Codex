@@ -1,0 +1,68 @@
+<Civ4GameText xmlns="http://www.firaxis.com">
+    <TEXT>
+		<Tag>TXT_KEY_UNIT_CROSSBOW_ARMED_SURVIVOR</Tag>
+		<English>Crossbow Armed Survivor</English>
+		<French>Crossbow Armed Survivor</French>
+		<German>Crossbow Armed Survivor</German>
+		<Italian>Crossbow Armed Survivor</Italian>
+		<Spanish>Crossbow Armed Survivor</Spanish>
+	</TEXT>
+    <TEXT>
+		<Tag>TXT_KEY_UNIT_CROSSBOW_ARMED_SURVIVOR_PEDIA</Tag>
+		<English>A Crossbow Armed Survivor</English>
+		<French>Annuler</French>
+		<German>Abbrechen</German>
+		<Italian>Annullamento</Italian>
+		<Spanish>Cancelar</Spanish>
+	</TEXT>
+    <TEXT>
+		<Tag>TXT_KEY_UNIT_CROSSBOW_ARMED_SURVIVOR_STRATEGY</Tag>
+		<English>A Pre-Operative Unit. Can be Upgraded to Militia Operative Unit.</English>
+		<French>A Pre-Operative Unit. Can be Upgraded Militia Operative Unit.</French>
+		<German>A Pre-Operative Unit. Can be Upgraded Militia Operative Unit.</German>
+		<Italian>A Pre-Operative Unit. Can be Upgraded Militia Operative Unit.</Italian>
+		<Spanish>A Pre-Operative Unit. Can be Upgraded Militia Operative Unit.</Spanish>
+	</TEXT>
+    <TEXT>
+		<Tag>TXT_KEY_TECH_MISSILE_WEAPONS</Tag>
+		<English>Missile Weapons</English>
+		<French>Missile Weapons</French>
+		<German>Missile Weapons</German>
+		<Italian>Missile Weapons</Italian>
+		<Spanish>Missile Weapons</Spanish>
+	</TEXT>
+    <TEXT>
+		<Tag>TXT_KEY_TECH_MISSILE_WEAPONS_PEDIA</Tag>
+		<English>Ouch!</English>
+		<French>Annuler</French>
+		<German>Abbrechen</German>
+		<Italian>Annullamento</Italian>
+		<Spanish>Cancelar</Spanish>
+	</TEXT>
+    <TEXT>
+		<Tag>TXT_KEY_TECH_MISSILE_WEAPONS_STRATEGY</Tag>
+		<English>Hit IT!!</English>
+		<French>Annuler</French>
+		<German>Abbrechen</German>
+		<Italian>Annullamento</Italian>
+		<Spanish>Cancelar</Spanish>
+	</TEXT>
+    <TEXT>
+		<Tag>TXT_KEY_TECH_MISSILE_WEAPONS_QUOTE</Tag>
+		<English>"Superior firepower and shiny power armor don't count for much when you're outnumbered 15 to 1." 
+		
+		- Mr.House</English>
+		<French>"Superior firepower and shiny power armor don't count for much when you're outnumbered 15 to 1." 
+		
+		- Mr.House</French>
+		<German>"Superior firepower and shiny power armor don't count for much when you're outnumbered 15 to 1." 
+		
+		- Mr.House</German>
+		<Italian>"Superior firepower and shiny power armor don't count for much when you're outnumbered 15 to 1." 
+		
+		- Mr.House</Italian>
+		<Spanish>"Superior firepower and shiny power armor don't count for much when you're outnumbered 15 to 1." 
+		
+		- Mr.House</Spanish>
+	</TEXT>
+  </Civ4GameText>

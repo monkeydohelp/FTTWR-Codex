@@ -1,0 +1,51 @@
+# Civ4 DLL build outputs and Visual Studio state
+Debug/
+Release/
+obj/
+Web/
+*.opensdf
+*.sdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.suo
+*.user
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.mk
+*.settings
+*depends
+*pch
+*.rc
+
+# Local build and recovery artifacts
+*.bak
+CvGameCoreDLL_Source/Project/temp_files/
+CvGameCoreDLL_Source/Project/Assert/
+CvGameCoreDLL_Source/Project/Release/
+CvGameCoreDLL_Source/Project/Debug/
+CvGameCoreDLL_Source/Project/Makefile.user
+DevKit/Backups/
+
+# Logs, diagnostics, dumps, and temporary files
+*.log
+*.dmp
+*.dump
+*.tmp
+*.temp
+*.trace
+
+# Local environments and Python caches
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+*.py[cod]
+
+# OS metadata
+.DS_Store
+Thumbs.db

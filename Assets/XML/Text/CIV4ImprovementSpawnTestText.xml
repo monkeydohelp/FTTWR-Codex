@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+    <TEXT>
+        <Tag>TXT_KEY_IMPROVEMENT_ACBASE_SPAWN_TEST</Tag>
+        <English>Spawn Relay</English>
+        <French>Relais de production</French>
+        <German>Spawn-Relais</German>
+        <Italian>Relay di produzione</Italian>
+        <Spanish>Rele de produccion</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_IMPROVEMENT_ACBASE_SPAWN_TEST_PEDIA</Tag>
+        <English>ACBase Test fixture: requires Construction to build, then evolves into a Fort after Engineering is known. It also verifies improvement-owned unit spawning and civic requirements.</English>
+        <French>Amelioration generique de test ACBase pour verifier la creation d'unites et les conditions civiques.</French>
+        <German>Generische ACBase-Testverbesserung zur Prufung von Einheitenerzeugung und Burgeranforderungen.</German>
+        <Italian>Miglioramento generico ACBase per verificare la generazione di unita e i requisiti civici.</Italian>
+        <Spanish>Mejora generica de prueba ACBase para verificar la generacion de unidades y los requisitos civicos.</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_BUILD_ACBASE_SPAWN_TEST</Tag>
+        <English>Build Spawn Relay</English>
+        <French>Construire le relais de production</French>
+        <German>Spawn-Relais bauen</German>
+        <Italian>Costruisci relay di produzione</Italian>
+        <Spanish>Construir rele de produccion</Spanish>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CIVIC_SPAWN_UNIT_ON_BUILD</Tag>
+        <English>[ICON_BULLET]Allows %s1 to create %s2 when built.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CIVIC_SPAWN_UNIT_OVER_TIME</Tag>
+        <English>[ICON_BULLET]Allows %s1 to periodically spawn %s2.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CIVIC_SPAWN_RATE_MODIFIER</Tag>
+        <English>[ICON_BULLET]Changes the %s1 spawn chance by %s2 while active.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_IMPROVEMENT_SPAWN_UNIT_ON_BUILD</Tag>
+        <English>[ICON_BULLET]Creates %s1 when built.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_IMPROVEMENT_SPAWN_UNIT_OVER_TIME</Tag>
+        <English>[ICON_BULLET]Periodically spawns %s1.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_IMPROVEMENT_SPAWN_BARBARIAN_ON_BUILD</Tag>
+        <English>[ICON_BULLET]Creates barbarian %s1 units when built.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_IMPROVEMENT_SPAWN_BARBARIAN_OVER_TIME</Tag>
+        <English>[ICON_BULLET]Periodically spawns barbarian %s1 units.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_IMPROVEMENT_SPAWN_REQUIRES_CIVIC</Tag>
+        <English>[ICON_BULLET]Requires %s1 to function.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_ACBASE_PILLAGE_YIELD_REWARD</Tag>
+        <English>Pillaged %d1%F2_yield into %s3.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_ACBASE_PILLAGE_COMMERCE_REWARD</Tag>
+        <English>Pillaged %d1%F2_commerce from %s3.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_ACBASE_PILLAGE_RESEARCH_REWARD</Tag>
+        <English>Pillaged %d1%F2_commerce research toward %s4 from %s3.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_ACBASE_PILLAGE_CULTURE_REWARD</Tag>
+        <English>Pillaged %d1%F2_commerce culture from %s3 into %s4.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_ACBASE_PILLAGE_ESPIONAGE_REWARD</Tag>
+        <English>Pillaged %d1%F2_commerce espionage from %s3.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_ACBASE_PILLAGE_YIELD_TOOLTIP</Tag>
+        <English>[ICON_BULLET]Pillage reward: +%d1%F2_yield.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_ACBASE_PILLAGE_COMMERCE_TOOLTIP</Tag>
+        <English>[ICON_BULLET]Pillage commerce: +%d1%F2_commerce.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_ACBASE_PILLAGE_EXPECTED_INCOME</Tag>
+        <English>[ICON_BULLET]Expected pillage income</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_ACBASE_SLAVERY_CAPTURED</Tag>
+        <English>Captured %s1 as a slave (%d2/%d3 capacity).</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_ACBASE_SLAVERY_UNIT_CAPACITY</Tag>
+        <English>Slaves carried: %d1/%d2.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_MISSION_SELL_SLAVE</Tag>
+        <English>Sell Slaves</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_MISSION_SELL_SLAVE_HELP</Tag>
+        <English>Sell all carried slaves at a friendly city with a Slave Market.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_ACBASE_SLAVERY_SOLD</Tag>
+        <English>Sold %d1 slave(s) for +%d2[ICON_GOLD].</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_BUILDING_SLAVE_MARKET_EFFECT</Tag>
+        <English>[ICON_BULLET]Allows a friendly unit carrying slaves to sell them here while the Slavery civic is active.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_ENSLAVED_WORKER</Tag>
+        <English>Enslaved Worker</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_SPECIALIST_ENSLAVED_WORKER_STRATEGY</Tag>
+        <English>When assigned to a city, an Enslaved Worker produces +1 Food and +1 Production and has no direct Health or Happiness effect. A friendly Slave Market can convert a captured Slave into this specialist.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_UNIT_SLAVE</Tag>
+        <English>Slave</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_UNIT_SLAVE_PEDIA</Tag>
+        <English>Captured slaves can join a friendly city with a Slave Market as Enslaved Workers.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_UNIT_SLAVE_STRATEGY</Tag>
+        <English>Move to a friendly Slave Market and use the Enslaved Worker action.</English>
+    </TEXT>
+    <TEXT>
+        <Tag>TXT_KEY_CITY_SLAVE_DIED</Tag>
+        <English>%s1: %d2 settled slave(s) died.</English>
+    </TEXT>
+</Civ4GameText>

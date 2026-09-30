@@ -1,0 +1,791 @@
+{
+  "art_definitions": {
+    "CIV4ArtDefines_Building.xml": [],
+    "CIV4ArtDefines_Civilization.xml": [],
+    "CIV4ArtDefines_Leaderhead.xml": [],
+    "CIV4ArtDefines_Unit.xml": [
+      "ART_DEF_UNIT_LEGIONWARLORD",
+      "ART_DEF_UNIT_SUPER_MUTANTS_CEO_1",
+      "ART_DEF_UNIT_SUPER_MUTANTS_CEO_2",
+      "ART_DEF_UNIT_SUPER_MUTANTS_CEO_3",
+      "ART_DEF_UNIT_SUPER_MUTANTS_CEO_4",
+      "ART_DEF_UNIT_SUPER_MUTANTS_CEO_5",
+      "ART_DEF_UNIT_SUPER_MUTANTS_CEO_6",
+      "ART_DEF_UNIT_SUPER_MUTANTS_CEO_7",
+      "ART_DEF_UNIT_SUPER_MUTANTS_FEV",
+      "ART_DEF_UNIT_SUPER_MUTANTS_UNARMED",
+      "ART_DEF_UNIT_VAULT_GECK",
+      "ART_DEF_UNIT_VAULT_SETTLER_MALE",
+      "ART_DEF_UNIT_VAULT_SURVIVOR",
+      "ART_DEF_UNIT_VAULT_TOWN_WATCH",
+      "ART_DEF_UNIT_VAULT_WARRIOR",
+      "ART_DEF_UNIT_VAULT_WORKER"
+    ]
+  },
+  "asset_copies": [
+    {
+      "path": "Art/Units/CEO/Logos/smCEO_Aluminum.nif",
+      "size": 45123,
+      "sha256": "3cebbdc527570b40c01616f815f22c7889bdd35d42cf184332828a8341fcc4ca"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/smCEO_Cereal.nif",
+      "size": 45094,
+      "sha256": "274c67185d7a8a363b7b40f22535b7f1da4078d28f805ab8795985a660c58cf2"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/smCEO_Construction.nif",
+      "size": 45141,
+      "sha256": "f1b647e8bda85441f85605c5b542e7ee50aba07af431fbba94a2d0bf4da10cbe"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/smCEO_Ethanol.nif",
+      "size": 45125,
+      "sha256": "8ae7acd0cbd8439f0c35d452a81b77703939217b50bc7b8d2b6c1923b42be6a6"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/smCEO_Jewelry.nif",
+      "size": 45158,
+      "sha256": "f7243ccd9095a851d4178dfba8581b1ede4c0ad1f480c2747da878e869933e80"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/smCEO_Mining.nif",
+      "size": 45114,
+      "sha256": "9043b5e1e74f7c48a9213a7ee878f333485c1f0df109b3d124c032e13f71e5df"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/smCEO_Sushi.nif",
+      "size": 45115,
+      "sha256": "82962cfa2bd83e756a138c2036cf324d74c1a9c4f0d18492f072b1e564ac9726"
+    },
+    {
+      "path": "Art/Units/VAULT/Settler.nif",
+      "size": 86550,
+      "sha256": "859bc921ab538e185a3f44538c0b47818c34109c1f389de7f42a1ec76b684794"
+    },
+    {
+      "path": "Art/Units/VAULT/SurvivorMacheteShield.nif",
+      "size": 56152,
+      "sha256": "58b583eccb6c942ab4883cc6ee4f7b5083ba1c5ea95c54836136ef7585798beb"
+    },
+    {
+      "path": "Art/Units/VAULT/vaultcase.nif",
+      "size": 59206,
+      "sha256": "3a6dd7339c113b59afa782b5fe8bee9acfc8952397638ac982855a712ee70bf5"
+    },
+    {
+      "path": "Art/Units/VAULT/vaultcitizen armed.nif",
+      "size": 31979,
+      "sha256": "f90088151efe4313b656b68da1c60820c342c74029281bd47b26fa8dba32b655"
+    },
+    {
+      "path": "Art/Units/VAULT/vaultcitizen.nif",
+      "size": 48332,
+      "sha256": "35bfbaae60518162499c7266e3f1bc8577859a081e7f4d029894d2cd3854219d"
+    },
+    {
+      "path": "Art/Units/VAULT/vaultworker.nif",
+      "size": 71394,
+      "sha256": "2255df20974fbba9004fd06cab836f348d3a870b693914cbf2a5646ec8f82a68"
+    },
+    {
+      "path": "Art/Units/caravan/Caravan_Base.kfm",
+      "size": 256,
+      "sha256": "bc35b6e84c5674259981c1e27df209438e10f92e567fd1fd8e27bf469e8c0873"
+    },
+    {
+      "path": "Art/Units/caravan/caravan_FEV slavedriver.nif",
+      "size": 187626,
+      "sha256": "1fdbc640bef1f5f6bd75f9a4cb9f3ebc4be42c534a1361d80580e47c2d64f0a9"
+    },
+    {
+      "path": "Art/Units/legion/CenturionWarlord.nif",
+      "size": 252115,
+      "sha256": "0799702de0ffb9b6d383715bedb79a81667a0e2fbe315649ebd177a92767541c"
+    },
+    {
+      "path": "Art/Units/legion/Centurion_button.dds",
+      "size": 4224,
+      "sha256": "adb28299e2531423b727a3652b83d49f1b1725fe99f1e9042bbb8aed41ec4016"
+    },
+    {
+      "path": "Art/Units/zombies/Super Mutant.nif",
+      "size": 33041,
+      "sha256": "2a092200dcec7bb56e53f3729d8875d7afd31baff9fddb0be746fdb9c98b1dfa"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/CEOsm_128.dds",
+      "size": 16512,
+      "sha256": "c5916dadc3adcef1107d55870ea201eaa9a8370e126d392799309960ba441d3e"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/Super Mutant green.dds",
+      "size": 65664,
+      "sha256": "cdef2beac267fb6d44e6d4936926490afafa5ff3367dc5c30126fd16e8dd40a8"
+    },
+    {
+      "path": "Art/Units/VAULT/vault blue.dds",
+      "size": 65664,
+      "sha256": "8fc71e9b84ae5da262bd798b577f48aca53e91638bdbe0f0af18c750dfbf9e2e"
+    },
+    {
+      "path": "Art/Units/VAULT/Survivor_Settler_256.dds",
+      "size": 32896,
+      "sha256": "e1dd6e9eea44bcd7cf1a82849ba59713a004db8d9d87c66e0c440aba605e5a7a"
+    },
+    {
+      "path": "Art/Units/VAULT/SurvivorTools_DIFF.dds",
+      "size": 16512,
+      "sha256": "ecb317462018d2a7cc0cbe6d2b9073ecc64f4a54b609c65032dace5607175133"
+    },
+    {
+      "path": "Art/Units/VAULT/CEO.nif",
+      "size": 56214,
+      "sha256": "64e968145cba4d44ce1f0b9a6303fd09421303f7274e47728e961eb4176df33f"
+    },
+    {
+      "path": "Art/Units/VAULT/CEO_Case_64.dds",
+      "size": 4224,
+      "sha256": "9a11188e654af22ed5d831fea619559c738f3f321fd048c5302759fa256f9ff9"
+    },
+    {
+      "path": "Art/Units/VAULT/Worker_tools.dds",
+      "size": 5608,
+      "sha256": "c0788c5a73b6e458470805f5c5a85526ba791358ccabc263a2fac27023d0ac41"
+    },
+    {
+      "path": "Art/Units/VAULT/Worker_tools_gloss.dds",
+      "size": 1512,
+      "sha256": "43282aa97a2f3341afa336229dbe48cb8849ad72aa3594ac0266e4d05c3de694"
+    },
+    {
+      "path": "Art/Units/caravan/Caravan_Base.nif",
+      "size": 177755,
+      "sha256": "85ffd92df8fe6b37dad7770c6ff199755d16e24bdeae01e147594d1173fb14be"
+    },
+    {
+      "path": "Art/Units/caravan/Caravan_Base_MD_Idle.kf",
+      "size": 18530,
+      "sha256": "ef3e5b0b11f70ac5e26297cb234a3e045b6078a8509a7004d50c3059c8e94e71"
+    },
+    {
+      "path": "Art/Units/caravan/Caravan_Base_MD_Surrender.kf",
+      "size": 20123,
+      "sha256": "b55baeb003a503539ec23818244a4e87cb12fd6e6996d3de529a473376f24e57"
+    },
+    {
+      "path": "Art/Units/caravan/Caravan_Base_MD_Run.kf",
+      "size": 26296,
+      "sha256": "4b72a038a6666b7bc43cb550d8f39088755d8b16a4583d062f95622b178089e1"
+    },
+    {
+      "path": "Art/Units/caravan/Caravan_DIFF.dds",
+      "size": 65664,
+      "sha256": "57e09b967b4fd78ba05cf8db06635c084ca44ef44b9eb1bc34dac6d44ccaaf0a"
+    },
+    {
+      "path": "Art/Units/caravan/biohazard barrel.dds",
+      "size": 16512,
+      "sha256": "68f735b6eb84c03dc3cfd6dd54aa4f492960bb6084854fd1a16bb0bdcc854fa2"
+    },
+    {
+      "path": "Art/Units/caravan/Worker_128.dds",
+      "size": 22000,
+      "sha256": "5ecb5bf5edd045396b4c1f98900b283ab71b7e680bda6b66587c97b312f413d5"
+    },
+    {
+      "path": "Art/Units/legion/Warlord_Ancient.dds",
+      "size": 43856,
+      "sha256": "9f27ae0c92be75b3e43395da497841d0c0e4b3cfcd2746638667f86c42c77e53"
+    },
+    {
+      "path": "Art/Units/legion/fullcenturion.dds",
+      "size": 65664,
+      "sha256": "1b0c06bcdb4d92a213d0c4e06f5b784a8f0664ac5f4602d3e7ba3c75e6d463d1"
+    },
+    {
+      "path": "Art/Units/VAULT/CEO_128.dds",
+      "size": 22000,
+      "sha256": "9acb38b7e110bde647813b0db97b17c39b612ee59df187db81c4a7f834058029"
+    },
+    {
+      "path": "Art/Units/caravan/Survivor_Settler_256_2.dds",
+      "size": 32896,
+      "sha256": "7354e88244b34489c443412daa2b1adf7fab5aba4c85e52a290c550ece788769"
+    }
+  ],
+  "candidate_available_assets": [
+    {
+      "path": "Art/Interface/Buttons/Unit_Resource_Atlas.dds",
+      "size": 524416,
+      "sha256": "3e37f335bd4813fec5b83e1bbc78ef6985e189def2429694974272a8605abe17"
+    },
+    {
+      "path": "Art/Interface/Buttons/Units/survivor.dds",
+      "size": 4224,
+      "sha256": "3b4ad290ed2a84e0e217fa2899e0ff99f22dc73d820738242cc4387989213dad"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/AluminumInc_A.dds",
+      "size": 5504,
+      "sha256": "2a62e82b71ee39a142a5a45d017cd3f64b19f046e390c8b31127517185382a78"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/CerealMills_A.dds",
+      "size": 5504,
+      "sha256": "c92745fa894c6a9bf1b41a31a74438e0c36cbeff373280ed5977793cfbd2e99f"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/CivilizedJewelry_A.dds",
+      "size": 5504,
+      "sha256": "ad406a0805fd3abcc93ad932c1541955c7358bb08f3aeb22dd46e71507f7de7d"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/CreativeConstructions_A.dds",
+      "size": 5504,
+      "sha256": "9ec16247166bced460c81dddf597a64c19b6a46b1657e02dc6535c66945153d1"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/Mining_A.dds",
+      "size": 5504,
+      "sha256": "834ad17b795d74c2e6b14c160924ddfe3824c201e24bb974f309a6fa335d384e"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/SidsSushi_A.dds",
+      "size": 5504,
+      "sha256": "02fcb4e1a085a6276765db70f14400f72eeb6f04a890da3879bea1e7fb990d4b"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/StandardEthanol_A.dds",
+      "size": 5504,
+      "sha256": "83c6aaa6c7b68276554dfa02fc9ca41723ba1cc070a3055c7984cea79cd1bc72"
+    },
+    {
+      "path": "Art/Units/VAULT/AluminumInc_A.dds",
+      "size": 5504,
+      "sha256": "2a62e82b71ee39a142a5a45d017cd3f64b19f046e390c8b31127517185382a78"
+    },
+    {
+      "path": "Art/Units/VAULT/Environment_Light-1.dds",
+      "size": 5616,
+      "sha256": "2d1a2e1210b21c2b7a95ab155f4e2ff3fd4e0f09d3dd817c9bb16748bac35107"
+    },
+    {
+      "path": "Art/Units/VAULT/SurvivorTools_GLOSS.dds",
+      "size": 16512,
+      "sha256": "d2e3ad21c6872170a9fcfdc3d728dd09e9fb2196110c783a471b7c0fbda8cc9e"
+    },
+    {
+      "path": "Art/Units/VAULT/environment_fx_greymetal.dds",
+      "size": 2872,
+      "sha256": "2f80ad588dbec7ee8d126efbc8e35030d7d0a9a343c7f2805f7d638f2d2fe039"
+    },
+    {
+      "path": "Art/Units/VAULT/scout_fx.nif",
+      "size": 65210,
+      "sha256": "851b43e2d9afe5acd0d6ec2681369141f575c13fc67975ce8f610d30d19f75e2"
+    },
+    {
+      "path": "Art/Units/caravan/environment_fx_bronze.dds",
+      "size": 2872,
+      "sha256": "185f1b560c1754dc05d910618d7735169dfbbacc1b38cfe83a2eff70f2b0cb4f"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua.nif",
+      "size": 63483,
+      "sha256": "1830e4cdebed59163b680ff67dcd37789e5b0923ab7a4efb053c3d96d93478f7"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_DieA.kf",
+      "size": 9961,
+      "sha256": "28386afde72a7f11541cdbe56f769a9c1ac72d8c5cf36b133e61f299ef06c044"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_DieA_Fade.kf",
+      "size": 3574,
+      "sha256": "5f263ee99d6a77c82b62be5b081a1587d02281c523345145b0cd23a188255104"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_DieB.kf",
+      "size": 9967,
+      "sha256": "5111a5aa99fab673bed3af1eb31134753df8957e07dadd3721511e947fa85a3d"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_DieB_Fade.kf",
+      "size": 3718,
+      "sha256": "d70e65047e4f1fe34f3e7652f26c86570407ee832587c11e76193a64e3154f78"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_Fidget.kf",
+      "size": 19866,
+      "sha256": "f7c46346f9dde4016ef71cef68cf2485bbf630629cb6a0e4445eecc53b12ccc6"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_FortifyA.kf",
+      "size": 7541,
+      "sha256": "1cbba61ff6494119755984cb1856bed15b30eeea65e2c74e4a961ca0b7b6dd15"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_FortifyA_Idle.kf",
+      "size": 15739,
+      "sha256": "2dab9b2afbc4d6a148484484cc7918140ed78c02906f184c1f4fdeb2228fe1f3"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_FortifyB.kf",
+      "size": 7444,
+      "sha256": "81a9126eafab9def6bc3ecb460f2200344ce932c7233309065481f645c067b0d"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_FortifyB_Idle.kf",
+      "size": 14745,
+      "sha256": "2603f9c71ddd6531c97f6c015cd4b7dc2dbb782d03613f8d32712412f9e54ea6"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_Heal.kf",
+      "size": 9182,
+      "sha256": "8c916d4970b19c3d7be85a008dfce7a927804ef5206e21169da532d31b8f9715"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_HurtA.kf",
+      "size": 7537,
+      "sha256": "9df7e61ce1745468513ae5735ba60f3f54e530b84ae5b92a7bb2f8e0c6d1b6ce"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_HurtB.kf",
+      "size": 6921,
+      "sha256": "e5dd129d97bbf67bcdae4b9e98ee36f88a77e637e4ae63e7853ac263058003b6"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_Idle.kf",
+      "size": 19866,
+      "sha256": "f7c46346f9dde4016ef71cef68cf2485bbf630629cb6a0e4445eecc53b12ccc6"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_Run.kf",
+      "size": 7214,
+      "sha256": "20596ab3563af5c5b040172e3c39b3f510ce959b5eb1143f5d37d326b075fe7b"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_RunDie.kf",
+      "size": 6678,
+      "sha256": "86d57cd5c9b5f4395a0c9c712bc19078d078699843cb7da9864de191c7cea12b"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_RunDie_Fade.kf",
+      "size": 3648,
+      "sha256": "bf8b4256a8f097d182e3f63550e8db058d5664fc5232de0684c6e2277d5512f9"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_StrikeA.kf",
+      "size": 7091,
+      "sha256": "ba08523ef54441f08d23783713835d65a3d78727aac0c371ff40d3ee7c4194fa"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_StrikeB.kf",
+      "size": 6928,
+      "sha256": "41722d5e7ccd868ae272de3e0e19a8afab6066cbcf709a658594efdf6862cea1"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_XFadeIn.kf",
+      "size": 897,
+      "sha256": "c27a29b775848874c84c30f3e22ab33617116721e1fd3c74613ec5da458e6f61"
+    },
+    {
+      "path": "Art/Units/survivor/IncanQuechua_MD_XFadeOut.kf",
+      "size": 852,
+      "sha256": "5dc7d8bbda6934052a8ae2af708f11b46b3a49fd63981473b2a9f6bc18f45663"
+    },
+    {
+      "path": "Art/Units/survivor/incanquechua.kfm",
+      "size": 3376,
+      "sha256": "59cbbc35dfcac8102c26235ea31c2c4900ca419f77bae8beff4c4d5683b824ea"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua.nif",
+      "size": 63483,
+      "sha256": "1830e4cdebed59163b680ff67dcd37789e5b0923ab7a4efb053c3d96d93478f7"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_DieA.kf",
+      "size": 9961,
+      "sha256": "28386afde72a7f11541cdbe56f769a9c1ac72d8c5cf36b133e61f299ef06c044"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_DieA_Fade.kf",
+      "size": 3574,
+      "sha256": "5f263ee99d6a77c82b62be5b081a1587d02281c523345145b0cd23a188255104"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_DieB.kf",
+      "size": 9967,
+      "sha256": "5111a5aa99fab673bed3af1eb31134753df8957e07dadd3721511e947fa85a3d"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_DieB_Fade.kf",
+      "size": 3718,
+      "sha256": "d70e65047e4f1fe34f3e7652f26c86570407ee832587c11e76193a64e3154f78"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_Fidget.kf",
+      "size": 19866,
+      "sha256": "f7c46346f9dde4016ef71cef68cf2485bbf630629cb6a0e4445eecc53b12ccc6"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_FortifyA.kf",
+      "size": 7541,
+      "sha256": "1cbba61ff6494119755984cb1856bed15b30eeea65e2c74e4a961ca0b7b6dd15"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_FortifyA_Idle.kf",
+      "size": 15739,
+      "sha256": "2dab9b2afbc4d6a148484484cc7918140ed78c02906f184c1f4fdeb2228fe1f3"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_FortifyB.kf",
+      "size": 7444,
+      "sha256": "81a9126eafab9def6bc3ecb460f2200344ce932c7233309065481f645c067b0d"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_FortifyB_Idle.kf",
+      "size": 14745,
+      "sha256": "2603f9c71ddd6531c97f6c015cd4b7dc2dbb782d03613f8d32712412f9e54ea6"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_Heal.kf",
+      "size": 9182,
+      "sha256": "8c916d4970b19c3d7be85a008dfce7a927804ef5206e21169da532d31b8f9715"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_HurtA.kf",
+      "size": 7537,
+      "sha256": "9df7e61ce1745468513ae5735ba60f3f54e530b84ae5b92a7bb2f8e0c6d1b6ce"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_HurtB.kf",
+      "size": 6921,
+      "sha256": "e5dd129d97bbf67bcdae4b9e98ee36f88a77e637e4ae63e7853ac263058003b6"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_Idle.kf",
+      "size": 19866,
+      "sha256": "f7c46346f9dde4016ef71cef68cf2485bbf630629cb6a0e4445eecc53b12ccc6"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_Run.kf",
+      "size": 7214,
+      "sha256": "20596ab3563af5c5b040172e3c39b3f510ce959b5eb1143f5d37d326b075fe7b"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_RunDie.kf",
+      "size": 6678,
+      "sha256": "86d57cd5c9b5f4395a0c9c712bc19078d078699843cb7da9864de191c7cea12b"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_RunDie_Fade.kf",
+      "size": 3648,
+      "sha256": "bf8b4256a8f097d182e3f63550e8db058d5664fc5232de0684c6e2277d5512f9"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_StrikeA.kf",
+      "size": 7091,
+      "sha256": "ba08523ef54441f08d23783713835d65a3d78727aac0c371ff40d3ee7c4194fa"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_StrikeB.kf",
+      "size": 6928,
+      "sha256": "41722d5e7ccd868ae272de3e0e19a8afab6066cbcf709a658594efdf6862cea1"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_XFadeIn.kf",
+      "size": 897,
+      "sha256": "c27a29b775848874c84c30f3e22ab33617116721e1fd3c74613ec5da458e6f61"
+    },
+    {
+      "path": "Art/Units/townwatch/IncanQuechua_MD_XFadeOut.kf",
+      "size": 852,
+      "sha256": "5dc7d8bbda6934052a8ae2af708f11b46b3a49fd63981473b2a9f6bc18f45663"
+    },
+    {
+      "path": "Art/Units/townwatch/incanquechua.kfm",
+      "size": 3376,
+      "sha256": "59cbbc35dfcac8102c26235ea31c2c4900ca419f77bae8beff4c4d5683b824ea"
+    },
+    {
+      "path": "Art/Units/zombies/Super Mutant green armor.dds",
+      "size": 65664,
+      "sha256": "9bd521256cf93d8d0c9736440a7cb11a169a1f8a31c9388f5629dc62d05cb641"
+    },
+    {
+      "path": "Art/Units/zombies/axeman_128.dds",
+      "size": 16512,
+      "sha256": "8b2c047c058905ed3f6f0e4999afb819892b27eed00b07b52434ace3f2b58ed3"
+    }
+  ],
+  "referenced_paths": [
+    "Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds",
+    "Art/Interface/Buttons/Unit_Resource_Atlas.dds",
+    "Art/Interface/Buttons/Units/ICBM.dds",
+    "Art/Interface/Buttons/Units/Settler.dds",
+    "Art/Interface/Buttons/Units/Warrior.dds",
+    "Art/Interface/Buttons/Units/Worker.dds",
+    "Art/Interface/Buttons/Units/survivor.dds",
+    "Art/Shared/tanktread.dds",
+    "Art/Units/01_UnitShadows/UnitShadow.nif",
+    "Art/Units/CEO/CEO.kfm",
+    "Art/Units/CEO/Logos/AluminumInc_A.dds",
+    "Art/Units/CEO/Logos/CEO_Aluminum.nif",
+    "Art/Units/CEO/Logos/CEO_Case_64.dds",
+    "Art/Units/CEO/Logos/CEO_Cereal.nif",
+    "Art/Units/CEO/Logos/CEO_Construction.nif",
+    "Art/Units/CEO/Logos/CEO_Ethanol.nif",
+    "Art/Units/CEO/Logos/CEO_Jewelry.nif",
+    "Art/Units/CEO/Logos/CEO_Mining.nif",
+    "Art/Units/CEO/Logos/CEO_Sushi.nif",
+    "Art/Units/CEO/Logos/CEOsm_128.dds",
+    "Art/Units/CEO/Logos/CerealMills_A.dds",
+    "Art/Units/CEO/Logos/CivilizedJewelry_A.dds",
+    "Art/Units/CEO/Logos/CreativeConstructions_A.dds",
+    "Art/Units/CEO/Logos/Mining_A.dds",
+    "Art/Units/CEO/Logos/SidsSushi_A.dds",
+    "Art/Units/CEO/Logos/StandardEthanol_A.dds",
+    "Art/Units/CEO/Logos/Super Mutant green.dds",
+    "Art/Units/CEO/Logos/smCEO_Aluminum.nif",
+    "Art/Units/CEO/Logos/smCEO_Cereal.nif",
+    "Art/Units/CEO/Logos/smCEO_Construction.nif",
+    "Art/Units/CEO/Logos/smCEO_Ethanol.nif",
+    "Art/Units/CEO/Logos/smCEO_Jewelry.nif",
+    "Art/Units/CEO/Logos/smCEO_Mining.nif",
+    "Art/Units/CEO/Logos/smCEO_Sushi.nif",
+    "Art/Units/Settler/Settler_Male.kfm",
+    "Art/Units/Unique/Inca/Quechua/IncanQuechua.kfm",
+    "Art/Units/VAULT/AluminumInc_A.dds",
+    "Art/Units/VAULT/CEO.nif",
+    "Art/Units/VAULT/CEO_128.dds",
+    "Art/Units/VAULT/CEO_Case_64.dds",
+    "Art/Units/VAULT/Environment_Light-1.dds",
+    "Art/Units/VAULT/FinalFrontier_Damaged_State_All.dds",
+    "Art/Units/VAULT/Scout_DIFF.dds",
+    "Art/Units/VAULT/Scout_GLOSS.dds",
+    "Art/Units/VAULT/Settler.nif",
+    "Art/Units/VAULT/Settler_child_128.dds",
+    "Art/Units/VAULT/SurvivorMacheteShield.nif",
+    "Art/Units/VAULT/SurvivorTools_DIFF.dds",
+    "Art/Units/VAULT/SurvivorTools_GLOSS.dds",
+    "Art/Units/VAULT/Survivor_Settler_256.dds",
+    "Art/Units/VAULT/Worker_tools.dds",
+    "Art/Units/VAULT/Worker_tools_gloss.dds",
+    "Art/Units/VAULT/environment_fx_greymetal.dds",
+    "Art/Units/VAULT/gloss.dds",
+    "Art/Units/VAULT/scout_fx.nif",
+    "Art/Units/VAULT/vault blue.dds",
+    "Art/Units/VAULT/vaultcase.nif",
+    "Art/Units/VAULT/vaultcitizen armed.nif",
+    "Art/Units/VAULT/vaultcitizen.nif",
+    "Art/Units/VAULT/vaultworker.nif",
+    "Art/Units/Warlord_Ancient/Warlord_Ancient.kfm",
+    "Art/Units/Worker/Worker.kfm",
+    "Art/Units/caravan/Caravan_Base.kfm",
+    "Art/Units/caravan/Caravan_Base.nif",
+    "Art/Units/caravan/Caravan_Base_MD_Idle.kf",
+    "Art/Units/caravan/Caravan_Base_MD_Run.kf",
+    "Art/Units/caravan/Caravan_Base_MD_Surrender.kf",
+    "Art/Units/caravan/Caravan_DIFF.dds",
+    "Art/Units/caravan/Survivor_Settler_256_2.dds",
+    "Art/Units/caravan/Worker_128.dds",
+    "Art/Units/caravan/biohazard barrel.dds",
+    "Art/Units/caravan/caravan_FEV slavedriver.nif",
+    "Art/Units/caravan/environment_fx_bronze.dds",
+    "Art/Units/legion/CenturionWarlord.nif",
+    "Art/Units/legion/Centurion_button.dds",
+    "Art/Units/legion/Warlord_Ancient.dds",
+    "Art/Units/legion/Warlord_Ancient_Gloss.dds",
+    "Art/Units/legion/fullcenturion.dds",
+    "Art/Units/survivor/Inca_Quechua_128.dds",
+    "Art/Units/survivor/Inca_Quechua_Weapons.dds",
+    "Art/Units/survivor/IncanQuechua.nif",
+    "Art/Units/survivor/IncanQuechua_MD_DieA.kf",
+    "Art/Units/survivor/IncanQuechua_MD_DieA_Fade.kf",
+    "Art/Units/survivor/IncanQuechua_MD_DieB.kf",
+    "Art/Units/survivor/IncanQuechua_MD_DieB_Fade.kf",
+    "Art/Units/survivor/IncanQuechua_MD_Fidget.kf",
+    "Art/Units/survivor/IncanQuechua_MD_FortifyA.kf",
+    "Art/Units/survivor/IncanQuechua_MD_FortifyA_Idle.kf",
+    "Art/Units/survivor/IncanQuechua_MD_FortifyB.kf",
+    "Art/Units/survivor/IncanQuechua_MD_FortifyB_Idle.kf",
+    "Art/Units/survivor/IncanQuechua_MD_Heal.kf",
+    "Art/Units/survivor/IncanQuechua_MD_HurtA.kf",
+    "Art/Units/survivor/IncanQuechua_MD_HurtB.kf",
+    "Art/Units/survivor/IncanQuechua_MD_Idle.kf",
+    "Art/Units/survivor/IncanQuechua_MD_Run.kf",
+    "Art/Units/survivor/IncanQuechua_MD_RunDie.kf",
+    "Art/Units/survivor/IncanQuechua_MD_RunDie_Fade.kf",
+    "Art/Units/survivor/IncanQuechua_MD_StrikeA.kf",
+    "Art/Units/survivor/IncanQuechua_MD_StrikeB.kf",
+    "Art/Units/survivor/IncanQuechua_MD_XFadeIn.kf",
+    "Art/Units/survivor/IncanQuechua_MD_XFadeOut.kf",
+    "Art/Units/survivor/incanquechua.kfm",
+    "Art/Units/townwatch/Inca_Quechua_128.dds",
+    "Art/Units/townwatch/Inca_Quechua_Weapons.dds",
+    "Art/Units/townwatch/IncanQuechua.nif",
+    "Art/Units/townwatch/IncanQuechua_MD_DieA.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_DieA_Fade.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_DieB.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_DieB_Fade.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_Fidget.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_FortifyA.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_FortifyA_Idle.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_FortifyB.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_FortifyB_Idle.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_Heal.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_HurtA.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_HurtB.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_Idle.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_Run.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_RunDie.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_RunDie_Fade.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_StrikeA.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_StrikeB.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_XFadeIn.kf",
+    "Art/Units/townwatch/IncanQuechua_MD_XFadeOut.kf",
+    "Art/Units/townwatch/incanquechua.kfm",
+    "Art/Units/zombies/Super Mutant green armor.dds",
+    "Art/Units/zombies/Super Mutant.nif",
+    "Art/Units/zombies/axeman_128.dds"
+  ],
+  "archive_matches": {
+    "Art/Interface/Buttons/Units/ICBM.dds": [
+      "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Assets\\Art0.FPK"
+    ],
+    "Art/Interface/Buttons/Units/Settler.dds": [
+      "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Assets\\Art0.FPK"
+    ],
+    "Art/Interface/Buttons/Units/Warrior.dds": [
+      "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Assets\\Art0.FPK"
+    ],
+    "Art/Interface/Buttons/Units/Worker.dds": [
+      "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Assets\\Art0.FPK"
+    ],
+    "Art/Shared/tanktread.dds": [
+      "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Assets\\Art0.FPK"
+    ],
+    "Art/Units/01_UnitShadows/UnitShadow.nif": [
+      "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Assets\\Art0.FPK"
+    ],
+    "Art/Units/Settler/Settler_Male.kfm": [
+      "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Assets\\Art0.FPK"
+    ],
+    "Art/Units/Unique/Inca/Quechua/IncanQuechua.kfm": [
+      "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Assets\\Art0.FPK"
+    ]
+  },
+  "packed_fallbacks": [
+    "Art/Interface/Buttons/Units/ICBM.dds",
+    "Art/Interface/Buttons/Units/Settler.dds",
+    "Art/Interface/Buttons/Units/Warrior.dds",
+    "Art/Interface/Buttons/Units/Worker.dds",
+    "Art/Shared/tanktread.dds",
+    "Art/Units/01_UnitShadows/UnitShadow.nif",
+    "Art/Units/Settler/Settler_Male.kfm",
+    "Art/Units/Unique/Inca/Quechua/IncanQuechua.kfm"
+  ],
+  "unresolved": [
+    "Art/Units/VAULT/FinalFrontier_Damaged_State_All.dds [used by ART_DEF_UNIT_VAULT_SETTLER_MALE]",
+    "Art/Units/VAULT/Scout_DIFF.dds [used by ART_DEF_UNIT_VAULT_SETTLER_MALE]",
+    "Art/Units/VAULT/Scout_GLOSS.dds [used by ART_DEF_UNIT_VAULT_SETTLER_MALE]",
+    "Art/Units/VAULT/Settler_child_128.dds [used by ART_DEF_UNIT_VAULT_SETTLER_MALE]",
+    "Art/Units/VAULT/gloss.dds [used by ART_DEF_UNIT_VAULT_SETTLER_MALE]",
+    "Art/Units/Warlord_Ancient/Warlord_Ancient.kfm [used by ART_DEF_UNIT_LEGIONWARLORD]",
+    "Art/Units/legion/Warlord_Ancient_Gloss.dds [used by ART_DEF_UNIT_LEGIONWARLORD]",
+    "Art/Units/survivor/Inca_Quechua_128.dds [used by ART_DEF_UNIT_SUPER_MUTANTS_UNARMED]",
+    "Art/Units/survivor/Inca_Quechua_Weapons.dds [used by ART_DEF_UNIT_SUPER_MUTANTS_UNARMED]",
+    "Art/Units/townwatch/Inca_Quechua_128.dds [used by ART_DEF_UNIT_VAULT_TOWN_WATCH]",
+    "Art/Units/townwatch/Inca_Quechua_Weapons.dds [used by ART_DEF_UNIT_VAULT_TOWN_WATCH]"
+  ],
+  "alternate_location_copies": [
+    {
+      "path": "Art/Units/CEO/Logos/CEO_Case_64.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Mods\\Fallout-TTW - R\\Assets\\Art\\Units\\CEO\\CEO_Case_64.dds",
+      "sha256": "AC58CFC9FA0AA1CD2CC2048AF4747B23DDE50827B747679FA9FCDCAEF5828030",
+      "resolution_method": "same-basename alternate Fallout-TTW - R path; SHA-256 identical"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/AluminumInc_A.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Assets\\Art\\Shared\\AluminumInc_A.dds",
+      "sha256": "2A62E82B71EE39A142A5A45D017CD3F64B19F046E390C8B31127517185382A78",
+      "resolution_method": "unique same-basename SHA-256 match"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/CerealMills_A.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Assets\\Art\\Shared\\CerealMills_A.dds",
+      "sha256": "C92745FA894C6A9BF1B41A31A74438E0C36CBEFF373280ED5977793CFBD2E99F",
+      "resolution_method": "unique same-basename SHA-256 match"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/CivilizedJewelry_A.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Assets\\Art\\Shared\\CivilizedJewelry_A.dds",
+      "sha256": "AD406A0805FD3ABCC93AD932C1541955C7358BB08F3AEB22DD46E71507F7DE7D",
+      "resolution_method": "unique same-basename SHA-256 match"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/CreativeConstructions_A.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Assets\\Art\\Shared\\CreativeConstructions_A.dds",
+      "sha256": "9EC16247166BCED460C81DDDF597A64C19B6A46B1657E02DC6535C66945153D1",
+      "resolution_method": "unique same-basename SHA-256 match"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/Mining_A.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Assets\\Art\\Shared\\Mining_A.dds",
+      "sha256": "834AD17B795D74C2E6B14C160924DDFE3824C201E24BB974F309A6FA335D384E",
+      "resolution_method": "unique same-basename SHA-256 match"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/SidsSushi_A.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Assets\\Art\\Shared\\SidsSushi_A.dds",
+      "sha256": "02FCB4E1A085A6276765DB70F14400F72EEB6F04A890DA3879BEA1E7FB990D4B",
+      "resolution_method": "unique same-basename SHA-256 match"
+    },
+    {
+      "path": "Art/Units/CEO/Logos/StandardEthanol_A.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Assets\\Art\\Shared\\StandardEthanol_A.dds",
+      "sha256": "83C6AAA6C7B68276554DFA02FC9CA41723BA1CC070A3055C7984CEA79CD1BC72",
+      "resolution_method": "unique same-basename SHA-256 match"
+    },
+    {
+      "path": "Art/Units/VAULT/scout_fx.nif",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Assets\\Art\\Units\\FinalFrontier_Scout\\Scout_FX.nif",
+      "sha256": "851B43E2D9AFE5ACD0D6EC2681369141F575C13FC67975CE8F610D30D19F75E2",
+      "resolution_method": "unique same-basename SHA-256 match"
+    },
+    {
+      "path": "Art/Units/VAULT/SurvivorTools_GLOSS.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Mods\\Fallout-TTW - R\\Assets\\Art\\Units\\pistoler\\survivortools_gloss.dds",
+      "sha256": "D2E3AD21C6872170A9FCFDC3D728DD09E9FB2196110C783A471B7C0FBDA8CC9E",
+      "resolution_method": "unique same-basename SHA-256 match"
+    },
+    {
+      "path": "Art/Units/VAULT/environment_fx_greymetal.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Assets\\Art\\Shared\\Environment_FX_GreyMetal.dds",
+      "sha256": "2F80AD588DBEC7EE8D126EFBC8E35030D7D0A9A343C7F2805F7D638F2D2FE039",
+      "resolution_method": "unique same-basename SHA-256 match"
+    },
+    {
+      "path": "Art/Units/VAULT/Environment_Light-1.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Assets\\Art\\Units\\Knight_Asian\\environment_light-1.dds",
+      "sha256": "2D1A2E1210B21C2B7A95AB155F4E2FF3FD4E0F09D3DD817C9BB16748BAC35107",
+      "resolution_method": "unique same-basename SHA-256 match"
+    },
+    {
+      "path": "Art/Units/caravan/environment_fx_bronze.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Mods\\Fallout-TTW - R\\Assets\\Art\\Units\\deathclaw\\environment_fx_bronze.dds",
+      "sha256": "185F1B560C1754DC05D910618D7735169DFBBACC1B38CFE83A2EFF70F2B0CB4F",
+      "resolution_method": "unique same-basename SHA-256 match"
+    },
+    {
+      "path": "Art/Units/VAULT/AluminumInc_A.dds",
+      "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier's Civilization IV Beyond the Sword\\Beyond the Sword\\Assets\\Art\\Shared\\AluminumInc_A.dds",
+      "sha256": "2A62E82B71EE39A142A5A45D017CD3F64B19F046E390C8B31127517185382A78",
+      "resolution_method": "unique same-basename SHA-256 match"
+    }
+  ],
+  "reconciliation_note": "2026-09-26: 16 missing Fallout UnitArtInfo definitions were added. Alongside 38 source-path dependency copies, 13 additional same-basename files were staged only after unique SHA-256 verification. 2026-09-27: CEO_Case_64.dds was resolved from its alternate Fallout-TTW - R location after an exact SHA-256 match. Eleven dependencies remain unresolved; see the unresolved array."
+}
