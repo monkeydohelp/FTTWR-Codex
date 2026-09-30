@@ -17435,6 +17435,31 @@ bool CvUnitAI::AI_carrierSeaTransport()
 }
 
 
+// Don't send workers on a route itinerary unless at least one plot on the
+// planned connection can actually accept a route build right now. canBuildRoute()
+// only checks technology; route builds in FTTW-R also have substantial gold costs.
+static bool AI_canBuildRouteBetween(CvUnitAI const& kUnit,
+	CvPlot const& kStart, CvPlot const& kDest)
+{
+	CvSelectionGroup const* pGroup = kUnit.getGroup();
+	if (pGroup == NULL)
+		return false;
+
+	GroupPathFinder& kPathFinder = CvSelectionGroup::getClearPathFinder();
+	kPathFinder.setGroup(*pGroup, MOVE_SAFE_TERRITORY);
+	if (!kPathFinder.generatePath(kStart, kDest))
+		return false;
+
+	for (GroupPathNode* pNode = kPathFinder.getEndNode(); pNode != NULL;
+		pNode = pNode->m_pParent)
+	{
+		if (pGroup->getBestBuildRoute(pNode->getPlot()) != NO_ROUTE)
+			return true;
+	}
+	return false;
+}
+
+
 bool CvUnitAI::AI_connectPlot(CvPlot const& kPlot, int iRange) // advc: 1st param was CvPlot*
 {
 	PROFILE_FUNC();
@@ -17468,6 +17493,8 @@ bool CvUnitAI::AI_connectPlot(CvPlot const& kPlot, int iRange) // advc: 1st para
 				{
 					return false;
 				}
+				if (!AI_canBuildRouteBetween(*this, *c->plot(), kPlot))
+					return false;
 				getGroup()->pushMission(MISSION_ROUTE_TO, c->getX(), c->getY(),
 						MOVE_SAFE_TERRITORY, false, false, MISSIONAI_BUILD, &kPlot);
 				return true;
@@ -17479,6 +17506,8 @@ bool CvUnitAI::AI_connectPlot(CvPlot const& kPlot, int iRange) // advc: 1st para
 					FAssert(kPlot.getPlotCity() != pLoopCity);
 					if (getPlot().isSamePlotGroup(*pLoopCity->plot(), getOwner()))
 					{
+						if (!AI_canBuildRouteBetween(*this, *pLoopCity->plot(), kPlot))
+							continue;
 						getGroup()->pushMission(MISSION_ROUTE_TO, kPlot.getX(), kPlot.getY(),
 								MOVE_SAFE_TERRITORY, false, false, MISSIONAI_BUILD, &kPlot);
 						return true;
@@ -17501,6 +17530,8 @@ bool CvUnitAI::AI_connectPlot(CvPlot const& kPlot, int iRange) // advc: 1st para
 					continue; // </advc.139>
 				if (generatePath(pLoopCity->getPlot(), MOVE_SAFE_TERRITORY, true))
 				{
+					if (!AI_canBuildRouteBetween(*this, *pLoopCity->plot(), kPlot))
+						continue;
 					if (at(kPlot)) // need to test before moving...
 					{
 						getGroup()->pushMission(MISSION_ROUTE_TO, pLoopCity->getX(), pLoopCity->getY(),
@@ -18648,6 +18679,11 @@ bool CvUnitAI::AI_routeCity()
 			!GET_PLAYER(getOwner()).AI_isAnyPlotTargetMissionAI(
 			pRouteToCity->getPlot(), MISSIONAI_BUILD, getGroup()))
 		{
+			if (!AI_canBuildRouteBetween(*this, *kLoopCity.plot(),
+				*pRouteToCity->plot()))
+			{
+				continue;
+			}
 			bool const bRouteTo = (at(kLoopCity.getPlot()) ||
 					!getPlot().isSamePlotGroup(kLoopCity.getPlot(), getOwner()) ||
 					/*	We might already be in the middle of an incomplete route.
