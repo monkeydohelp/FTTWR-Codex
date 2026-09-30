@@ -354,3 +354,10 @@ Before deploying any ported XML, run DevKit\Validate-Civ4Xdr.ps1 against every c
 - This is diagnostic-only: worker and group decisions are unchanged. The trace is limited to worker-headed groups near the loop limit and writes to `UnitStuck.log`.
 - Full VC7.1 `TARGET=Assert` rebuild completed from the installed C: source. The PCH was refreshed separately, followed by all 169 gameplay translation units and link. Build output and deployed `Assets/CvGameCoreDLL.dll` match at SHA-256 `1B38EAAA961472CBFC40C6FB6BA81F36FC1662B70B56E3ECF4AC3E4517B3F93D`. Pre-change logger/selection sources, notes, manifest, and both prior DLLs are preserved under `DevKit/Backups/20260930-worker-loop-trace-prechange-01/`.
 - Civ IV was closed during deployment. Runtime verification is pending: reproduce the worker loop issue, then inspect the before/after records in `UnitStuck.log`; no in-game resolution is claimed yet.
+
+## 2026-09-30 — Worker mission-order trace
+
+- Added a bounded trace scope around the last four worker-headed AI updates before the selection-group loop watchdog. While that scope is active, `CvSelectionGroup::pushMission` records each issued mission's numeric type/data/flags, append/manual/modified state, mission-AI target plot and unit, worker origin/movement/current build, explicit `MISSION_BUILD` ID and `canBuild` result, and owner gold to `UnitStuck.log`.
+- The trace is diagnostic-only and limited to those watchdog-near updates; no worker selection, build, movement, or fallback behavior changed. Existing assert-time build-gate details remain available for comparison.
+- Full VC7.1 `TARGET=Assert` clean/source-list/precompile/build/link completed from the C: `FTTW-R Test` source. Build output and deployed `Assets/CvGameCoreDLL.dll` match at SHA-256 `6E05B14AB8306576D1D0473AC664204C0F9025B57E1EAECDF817BB1AEF2C74B2`. The prior build output/runtime DLL and PDB are backed up under `DevKit/Backups/20260930-worker-order-trace-prebuild-01/`.
+- Civ IV was closed for deployment. Runtime reproduction is still required to collect the new `worker-order` lines; no behavioral fix or in-game resolution is claimed until the actual orders are captured.

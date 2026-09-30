@@ -195,7 +195,12 @@ bool CvSelectionGroupAI::AI_update()
 				break;
 
 			//resetPath();
+			bool bWorkerOrderTrace = false;
+			if (bTraceWorkerStep)
+				bWorkerOrderTrace = GC.getLogger().beginWorkerOrderTrace(
+						*this, iAttempts);
 			bool const bShouldAbort = pHeadUnit->AI_update();
+			GC.getLogger().endWorkerOrderTrace(bWorkerOrderTrace);
 			if (bTraceWorkerStep)
 				GC.getLogger().logUnitStuckStep(*this, iAttempts,
 						iTraceMaxAttempts, true, bShouldAbort);

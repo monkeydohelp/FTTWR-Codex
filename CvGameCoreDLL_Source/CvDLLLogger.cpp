@@ -19,7 +19,7 @@
 #include "AgentIterator.h" // advc.tsl
 
 CvDLLLogger::CvDLLLogger(bool bEnabled, bool bRandEnabled)
-:	m_bEnabled(bEnabled), m_bRandEnabled(bRandEnabled) {}
+:	m_iWorkerOrderTraceDepth(0), m_bEnabled(bEnabled), m_bRandEnabled(bRandEnabled) {}
 
 // Cut from CvRandom::getInt
 void CvDLLLogger::logRandomNumber(const TCHAR* szMsg, unsigned short usNum,
@@ -99,6 +99,75 @@ void CvDLLLogger::logCombat(CvUnit const& kAttacker, CvUnit const& kDefender)
 }
 
 // <fttwr.workerloopdiag>
+// Scope order logging to the final worker updates immediately before the loop watchdog.
+bool CvDLLLogger::beginWorkerOrderTrace(CvSelectionGroup const& kGroup,
+	int iAttempt)
+{
+	if (m_iWorkerOrderTraceDepth >= WORKER_ORDER_TRACE_MAX_DEPTH)
+		return false;
+	CvUnitAI const* pWorker = kGroup.AI().AI_getHeadUnit();
+	if (pWorker == NULL || pWorker->AI_getUnitAIType() != UNITAI_WORKER)
+		return false;
+	WorkerOrderTraceContext& kContext =
+			m_aWorkerOrderTrace[m_iWorkerOrderTraceDepth++];
+	kContext.iGroupID = kGroup.getID();
+	kContext.iOwner = kGroup.getOwner();
+	kContext.iAttempt = iAttempt;
+	return true;
+}
+
+void CvDLLLogger::endWorkerOrderTrace(bool bPushed)
+{
+	if (bPushed && m_iWorkerOrderTraceDepth > 0)
+		m_iWorkerOrderTraceDepth--;
+}
+
+void CvDLLLogger::logWorkerMissionPush(CvSelectionGroup const& kGroup,
+	MissionTypes eMission, int iData1, int iData2, MovementFlags eFlags,
+	bool bAppend, bool bManual, MissionAITypes eMissionAI,
+	CvPlot const* pMissionAIPlot, CvUnit const* pMissionAIUnit,
+	bool bModified)
+{
+	if (m_iWorkerOrderTraceDepth <= 0)
+		return;
+	WorkerOrderTraceContext const& kContext =
+			m_aWorkerOrderTrace[m_iWorkerOrderTraceDepth - 1];
+	if (kContext.iGroupID != kGroup.getID() ||
+		kContext.iOwner != (int)kGroup.getOwner())
+		return;
+	CvUnitAI const* pWorker = kGroup.AI().AI_getHeadUnit();
+	if (pWorker == NULL || pWorker->AI_getUnitAIType() != UNITAI_WORKER)
+		return;
+	CvPlot const* pPlot = pWorker->plot();
+	int iBuild = -1;
+	int iBuildCanBuild = -1;
+	if (eMission == MISSION_BUILD)
+	{
+		iBuild = iData1;
+		if (pPlot != NULL && iBuild >= 0 && iBuild < GC.getNumBuildInfos())
+			iBuildCanBuild = pWorker->canBuild(*pPlot,
+				(BuildTypes)iBuild, false, false);
+	}
+	CvPlayer const& kOwner = GET_PLAYER(kGroup.getOwner());
+	char szOut[1024];
+	std::sprintf(szOut,
+			"  worker-order attempt=%d turn=%d slice=%d owner=%d group=%d unit=%d from=%d,%d moves=%d mission=%d data=%d,%d flags=%d append=%d manual=%d modified=%d missionAI=%d target=%d,%d targetUnit=%d currentBuild=%d buildId=%d buildCanBuild=%d gold=%d\n",
+			kContext.iAttempt, GC.getGame().getGameTurn(),
+			GC.getGame().getTurnSlice(), (int)kGroup.getOwner(),
+			kGroup.getID(), pWorker->getID(), pWorker->getX(), pWorker->getY(),
+			pWorker->movesLeft(), (int)eMission, iData1, iData2,
+			(int)eFlags, (int)bAppend, (int)bManual, (int)bModified,
+			(int)eMissionAI,
+			(pMissionAIPlot != NULL ? pMissionAIPlot->getX() : -1),
+			(pMissionAIPlot != NULL ? pMissionAIPlot->getY() : -1),
+			(pMissionAIUnit != NULL ? pMissionAIUnit->getID() : -1),
+			(int)pWorker->getBuildType(), iBuild, iBuildCanBuild,
+			kOwner.getGold());
+	gDLL->logMsg("UnitStuck.log", szOut, false, false);
+	if (isEnabled())
+		gDLL->messageControlLog(szOut);
+}
+
 // Record the final worker AI-update steps before the loop watchdog fires.
 void CvDLLLogger::logUnitStuckStep(CvSelectionGroup const& kGroup,
 	int iAttempt, int iMaxAttempts, bool bAfterAIUpdate, bool bShouldAbort)

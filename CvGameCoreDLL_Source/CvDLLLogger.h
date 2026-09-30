@@ -21,11 +21,27 @@ public:
 	void logCombat(CvUnit const& kAttacker, CvUnit const& kDefender);
 	void logUnitStuckStep(CvSelectionGroup const& kGroup, int iAttempt,
 			int iMaxAttempts, bool bAfterAIUpdate, bool bShouldAbort);
+	bool beginWorkerOrderTrace(CvSelectionGroup const& kGroup, int iAttempt);
+	void endWorkerOrderTrace(bool bPushed);
+	void logWorkerMissionPush(CvSelectionGroup const& kGroup,
+			MissionTypes eMission, int iData1, int iData2,
+			MovementFlags eFlags, bool bAppend, bool bManual,
+			MissionAITypes eMissionAI, CvPlot const* pMissionAIPlot,
+			CvUnit const* pMissionAIUnit, bool bModified);
 	void logUnitStuck(CvSelectionGroup const& kGroup, int iAttempts, int iMaxAttempts);
 	void logMapStats(bool bAfterNormalization = false); // advc.mapstat
 	void logCivLeaders(); // advc.tsl
 
 private:
+	enum { WORKER_ORDER_TRACE_MAX_DEPTH = 8 };
+	struct WorkerOrderTraceContext
+	{
+		int iGroupID;
+		int iOwner;
+		int iAttempt;
+	};
+	WorkerOrderTraceContext m_aWorkerOrderTrace[WORKER_ORDER_TRACE_MAX_DEPTH];
+	int m_iWorkerOrderTraceDepth;
 	bool m_bEnabled;
 	bool m_bRandEnabled;
 

@@ -554,6 +554,9 @@ void CvSelectionGroup::pushMission(MissionTypes eMission, int iData1, int iData2
 	PROFILE_FUNC();
 
 	FAssert(getOwner() != NO_PLAYER);
+	GC.getLogger().logWorkerMissionPush(*this, eMission, iData1, iData2,
+			eFlags, bAppend, bManual, eMissionAI, pMissionAIPlot,
+			pMissionAIUnit, bModified);
 
 	if (!bAppend)
 	{
