@@ -98,6 +98,45 @@ void CvDLLLogger::logCombat(CvUnit const& kAttacker, CvUnit const& kDefender)
 	gDLL->messageControlLog(szOut);
 }
 
+// <fttwr.workerloopdiag>
+// Record the final worker AI-update steps before the loop watchdog fires.
+void CvDLLLogger::logUnitStuckStep(CvSelectionGroup const& kGroup,
+	int iAttempt, int iMaxAttempts, bool bAfterAIUpdate, bool bShouldAbort)
+{
+	CvUnitAI const* pWorker = kGroup.AI().AI_getHeadUnit();
+	if (pWorker == NULL || pWorker->AI_getUnitAIType() != UNITAI_WORKER)
+		return;
+
+	CvSelectionGroupAI const& kAIGroup = kGroup.AI();
+	CvPlot const* pMissionAIPlot = kAIGroup.AI_getMissionAIPlot();
+	CLLNode<MissionData>* pMissionNode = kGroup.headMissionQueueNode();
+	int iQueuedMissionType = (pMissionNode != NULL ?
+			(int)pMissionNode->m_data.eMissionType : -1);
+	int iQueuedMissionData1 = (pMissionNode != NULL ?
+			pMissionNode->m_data.iData1 : -1);
+	int iQueuedMissionData2 = (pMissionNode != NULL ?
+			pMissionNode->m_data.iData2 : -1);
+	CvPlayer const& kOwner = GET_PLAYER(kGroup.getOwner());
+	char szOut[1024];
+	std::sprintf(szOut,
+			"  worker-loop step turn=%d slice=%d attempt=%d/%d stage=%s result=%d owner=%d group=%d unit=%d at=%d,%d moves=%d canMove=%d build=%d missionAI=%d target=%d,%d queued=%d firstMission=%d,%d,%d gold=%d\n",
+			GC.getGame().getGameTurn(), GC.getGame().getTurnSlice(),
+			iAttempt, iMaxAttempts, (bAfterAIUpdate ? "after" : "before"),
+			(bAfterAIUpdate ? (int)bShouldAbort : -1),
+			(int)kGroup.getOwner(), kGroup.getID(),
+			pWorker->getID(), pWorker->getX(), pWorker->getY(),
+			pWorker->movesLeft(), pWorker->canMove(),
+			(int)pWorker->getBuildType(), (int)kAIGroup.AI_getMissionAIType(),
+			(pMissionAIPlot != NULL ? pMissionAIPlot->getX() : -1),
+			(pMissionAIPlot != NULL ? pMissionAIPlot->getY() : -1),
+			kGroup.getLengthMissionQueue(), iQueuedMissionType,
+			iQueuedMissionData1, iQueuedMissionData2, kOwner.getGold());
+	gDLL->logMsg("UnitStuck.log", szOut, false, false);
+	if (isEnabled())
+		gDLL->messageControlLog(szOut);
+}
+// </fttwr.workerloopdiag>
+
 // Cut from CvSelectionGroupAI::AI_update
 void CvDLLLogger::logUnitStuck(CvSelectionGroup const& kGroup,
 	int iAttempts, int iMaxAttempts)
@@ -214,31 +253,20 @@ void CvDLLLogger::logUnitStuck(CvSelectionGroup const& kGroup,
 				kTeam.isHasTech(eBuildTech);
 			ImprovementTypes const eImprovement = kBuild.getImprovement();
 			TechTypes eImprovementTech = NO_TECH;
-			TCHAR const* szImprovement = _T("NONE");
 			if (eImprovement != NO_IMPROVEMENT)
 			{
-				szImprovement = GC.getInfo(eImprovement).getType();
 				eImprovementTech = GC.getInfo(eImprovement).getPrereqTech();
 			}
 			bool const bImprovementTech = eImprovementTech == NO_TECH ||
 				kTeam.isHasTech(eImprovementTech);
 			TechTypes eFeatureTech = NO_TECH;
-			TCHAR const* szFeatureTech = _T("NONE");
 			bool bFeatureTech = true;
 			if (pMissionAIPlot->isFeature())
 			{
 				eFeatureTech = kBuild.getFeatureTech(
 						pMissionAIPlot->getFeatureType());
-				if (eFeatureTech != NO_TECH)
-					szFeatureTech = GC.getInfo(eFeatureTech).getType();
 				bFeatureTech = kTeam.isHasTech(eFeatureTech);
 			}
-			TCHAR const* szBuildTech = _T("NONE");
-			if (eBuildTech != NO_TECH)
-				szBuildTech = GC.getInfo(eBuildTech).getType();
-			TCHAR const* szImprovementTech = _T("NONE");
-			if (eImprovementTech != NO_TECH)
-				szImprovementTech = GC.getInfo(eImprovementTech).getType();
 
 			bool const bPlotAllows = pMissionAIPlot->canBuild(eLoopBuild,
 					kOwner.getID(), false, false);
@@ -250,10 +278,11 @@ void CvDLLLogger::logUnitStuck(CvSelectionGroup const& kGroup,
 			bool const bUnitCanBuild = pWorker->canBuild(*pMissionAIPlot,
 					eLoopBuild, false, false);
 			std::sprintf(szOut,
-					"  worker build=%S supported=1 plot=%d civic=%d domain=%d buildTech=%S:%d improvement=%S tech=%S:%d featureTech=%S:%d gold=%d/%d affordable=%d progress=%d canBuild=%d\n",
-					kBuild.getType(), bPlotAllows, bCivic, bDomain,
-					szBuildTech, bBuildTech, szImprovement, szImprovementTech,
-					bImprovementTech, szFeatureTech, bFeatureTech, iGold,
+					"  worker buildId=%d supported=1 plot=%d civic=%d domain=%d buildTechId=%d buildTechOK=%d improvementId=%d improvementTechId=%d improvementTechOK=%d featureTechId=%d featureTechOK=%d gold=%d/%d affordable=%d progress=%d canBuild=%d\n",
+					(int)eLoopBuild, bPlotAllows, bCivic, bDomain,
+					(int)eBuildTech, bBuildTech, (int)eImprovement,
+					(int)eImprovementTech, bImprovementTech,
+					(int)eFeatureTech, bFeatureTech, iGold,
 					iCost, bGold, pMissionAIPlot->getBuildProgress(eLoopBuild),
 					bUnitCanBuild);
 			gDLL->logMsg("UnitStuck.log", szOut, false, false);

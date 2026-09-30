@@ -155,6 +155,13 @@ bool CvSelectionGroupAI::AI_update()
 	#ifdef _DEBUG
 		iMaxAttempts -= 4; // Trigger assert early
 	#endif
+		int const iTraceMaxAttempts = iMaxAttempts;
+		bool const bTraceWorkerStep =
+				iAttempts >= iTraceMaxAttempts - 3;
+		// Capture bounded worker snapshots only when the loop watchdog is near.
+		if (bTraceWorkerStep)
+			GC.getLogger().logUnitStuckStep(*this, iAttempts,
+					iTraceMaxAttempts, false, false);
 		if (iAttempts == iMaxAttempts)
 			GC.getLogger().logUnitStuck(*this, iAttempts, iMaxAttempts);
 		FAssertMsg(iAttempts != iMaxAttempts,
@@ -188,7 +195,11 @@ bool CvSelectionGroupAI::AI_update()
 				break;
 
 			//resetPath();
-			if (pHeadUnit->AI_update())
+			bool const bShouldAbort = pHeadUnit->AI_update();
+			if (bTraceWorkerStep)
+				GC.getLogger().logUnitStuckStep(*this, iAttempts,
+						iTraceMaxAttempts, true, bShouldAbort);
+			if (bShouldAbort)
 			{	// AI_update returns true when we should abort the loop and wait until next slice
 				FAssert(!pHeadUnit->isDelayedDeath());
 				break;

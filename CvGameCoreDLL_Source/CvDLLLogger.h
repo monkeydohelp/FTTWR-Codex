@@ -19,6 +19,8 @@ public:
 	void logTurnActive(PlayerTypes ePlayer);
 	void logCityBuilt(CvCity const& kCity);
 	void logCombat(CvUnit const& kAttacker, CvUnit const& kDefender);
+	void logUnitStuckStep(CvSelectionGroup const& kGroup, int iAttempt,
+			int iMaxAttempts, bool bAfterAIUpdate, bool bShouldAbort);
 	void logUnitStuck(CvSelectionGroup const& kGroup, int iAttempts, int iMaxAttempts);
 	void logMapStats(bool bAfterNormalization = false); // advc.mapstat
 	void logCivLeaders(); // advc.tsl
