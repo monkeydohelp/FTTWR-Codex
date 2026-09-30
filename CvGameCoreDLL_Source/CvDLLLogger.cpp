@@ -8,6 +8,8 @@
 #include "CvSelectionGroup.h"
 #include "CvSelectionGroupAI.h"
 #include "CvUnitAI.h"
+#include "CvTeamAI.h"
+#include "CvInfo_Build.h"
 #include "LinkedListTraversal.h"
 // <advc.mapstat>
 #include "CvMap.h"
@@ -170,6 +172,96 @@ void CvDLLLogger::logUnitStuck(CvSelectionGroup const& kGroup,
 		if (isEnabled())
 			gDLL->messageControlLog(szOut);
 	}
+
+	// <fttwr.workerbuilddiag> Capture build gates only when a worker trips the
+	// stuck-group assert; this does not influence worker decisions.
+	CvUnitAI const* pWorker = kAIGroup.AI_getHeadUnit();
+	if (pWorker != NULL && pWorker->AI_getUnitAIType() == UNITAI_WORKER &&
+		kAIGroup.AI_getMissionAIType() == MISSIONAI_BUILD && pMissionAIPlot != NULL)
+	{
+		CvPlayer const& kOwner = GET_PLAYER(kGroup.getOwner());
+		CvTeamAI const& kTeam = GET_TEAM(kOwner.getTeam());
+		std::sprintf(szOut,
+				"  worker-build target=(%d,%d) ownerGold=%d plotOwner=%d feature=%d improvement=%d route=%d\n",
+				pMissionAIPlot->getX(), pMissionAIPlot->getY(), kOwner.getGold(),
+				(int)pMissionAIPlot->getOwner(), (int)pMissionAIPlot->getFeatureType(),
+				(int)pMissionAIPlot->getImprovementType(),
+				(int)pMissionAIPlot->getRouteType());
+		gDLL->logMsg("UnitStuck.log", szOut, false, false);
+		if (isEnabled())
+			gDLL->messageControlLog(szOut);
+
+		int iBuildsLogged = 0;
+		int const iMaxBuildsLogged = 64;
+		FOR_EACH_ENUM(Build)
+		{
+			CvBuildInfo const& kBuild = GC.getInfo(eLoopBuild);
+			if (!pWorker->getUnitInfo().getBuilds(eLoopBuild))
+				continue;
+			if (iBuildsLogged >= iMaxBuildsLogged)
+			{
+				std::sprintf(szOut,
+						"  worker build candidates truncated at %d\n", iMaxBuildsLogged);
+				gDLL->logMsg("UnitStuck.log", szOut, false, false);
+				if (isEnabled())
+					gDLL->messageControlLog(szOut);
+				break;
+			}
+			iBuildsLogged++;
+
+			TechTypes const eBuildTech = kBuild.getTechPrereq();
+			bool const bBuildTech = eBuildTech == NO_TECH ||
+				kTeam.isHasTech(eBuildTech);
+			ImprovementTypes const eImprovement = kBuild.getImprovement();
+			TechTypes eImprovementTech = NO_TECH;
+			TCHAR const* szImprovement = _T("NONE");
+			if (eImprovement != NO_IMPROVEMENT)
+			{
+				szImprovement = GC.getInfo(eImprovement).getType();
+				eImprovementTech = GC.getInfo(eImprovement).getPrereqTech();
+			}
+			bool const bImprovementTech = eImprovementTech == NO_TECH ||
+				kTeam.isHasTech(eImprovementTech);
+			TechTypes eFeatureTech = NO_TECH;
+			TCHAR const* szFeatureTech = _T("NONE");
+			bool bFeatureTech = true;
+			if (pMissionAIPlot->isFeature())
+			{
+				eFeatureTech = kBuild.getFeatureTech(
+						pMissionAIPlot->getFeatureType());
+				if (eFeatureTech != NO_TECH)
+					szFeatureTech = GC.getInfo(eFeatureTech).getType();
+				bFeatureTech = kTeam.isHasTech(eFeatureTech);
+			}
+			TCHAR const* szBuildTech = _T("NONE");
+			if (eBuildTech != NO_TECH)
+				szBuildTech = GC.getInfo(eBuildTech).getType();
+			TCHAR const* szImprovementTech = _T("NONE");
+			if (eImprovementTech != NO_TECH)
+				szImprovementTech = GC.getInfo(eImprovementTech).getType();
+
+			bool const bPlotAllows = pMissionAIPlot->canBuild(eLoopBuild,
+					kOwner.getID(), false, false);
+			bool const bCivic = pWorker->isCivicPrereqMet();
+			bool const bDomain = pWorker->isValidDomainForAction(*pMissionAIPlot);
+			int const iCost = kOwner.getBuildCost(*pMissionAIPlot, eLoopBuild);
+			int const iGold = std::max(0, kOwner.getGold());
+			bool const bGold = iGold >= iCost;
+			bool const bUnitCanBuild = pWorker->canBuild(*pMissionAIPlot,
+					eLoopBuild, false, false);
+			std::sprintf(szOut,
+					"  worker build=%S supported=1 plot=%d civic=%d domain=%d buildTech=%S:%d improvement=%S tech=%S:%d featureTech=%S:%d gold=%d/%d affordable=%d progress=%d canBuild=%d\n",
+					kBuild.getType(), bPlotAllows, bCivic, bDomain,
+					szBuildTech, bBuildTech, szImprovement, szImprovementTech,
+					bImprovementTech, szFeatureTech, bFeatureTech, iGold,
+					iCost, bGold, pMissionAIPlot->getBuildProgress(eLoopBuild),
+					bUnitCanBuild);
+			gDLL->logMsg("UnitStuck.log", szOut, false, false);
+			if (isEnabled())
+				gDLL->messageControlLog(szOut);
+		}
+	}
+	// </fttwr.workerbuilddiag>
 }
 
 // <advc.mapstat>

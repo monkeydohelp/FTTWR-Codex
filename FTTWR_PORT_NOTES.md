@@ -340,3 +340,10 @@ Before deploying any ported XML, run DevKit\Validate-Civ4Xdr.ps1 against every c
 - This is a temporary content deferral: Special Event content is unfinished and remains out until DPF event support is designed and validated. This is not a decision to permanently discard the content.
 - Validation: all four changed collections pass their receiving Civ4 XDR schemas; no exact references to the removed typed IDs remain in `Assets/XML`, and no matching C++/Python references were found. The matching `(SE)` display-name scan of Buildings and Units also found no remaining records.
 - C: FTTW-R Test only; no E: candidate parity is claimed. The game was closed for the edit. XML is loaded on a subsequent mod/game start; no post-edit in-game launch has been performed.
+
+## 2026-09-30 — Worker stuck-loop build diagnostics
+
+- Added diagnostic-only logging in `CvDLLLogger::logUnitStuck` for stuck worker groups with a queued build mission. It records the target plot, owner gold, plot state, supported build actions, plot/civic/domain checks, build/improvement/feature technology gates, affordability, existing progress, and `canBuild` result. This does not change worker decisions.
+- Incremental VC7.1 `TARGET=Assert` build recompiled `CvDLLLogger.cpp` and linked successfully using `/Zd /I..` and `/DEBUG`. The local Assert output and deployed `Assets/CvGameCoreDLL.dll` SHA-256 are `A4E11FB17DBF7FD704A30B2E398A710905387F5379F16F66FD1497A521A6BBFB`.
+- Before deployment, the prior runtime DLL (SHA-256 `3C9E2045809290C99BC1229DD03913A6F0BB898FDBBEE4416DC8EEC2DCA94EBA`) was backed up under `DevKit/Backups/20260930-worker-build-diagnostics-predeploy-01/`. The game was closed. The binary is locally deployed; DLLs are excluded from Git, so the repository records the deployed hash in `FTTWR_BUILD_LANE.json` while tracking the diagnostic source change.
+- Runtime verification is pending: reproduce a worker stuck-loop/assert and inspect `UnitStuck.log`; no in-game behavior is claimed yet.
