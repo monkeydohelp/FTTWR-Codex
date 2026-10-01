@@ -10845,6 +10845,48 @@ bool CvUnitAI::AI_guardBonus(int iMinValue)
 	{
 		return false;
 	} // </advc.107>
+	// Keep a live guard target while moving toward it. Re-scoring after each
+	// one-step move can reverse an assignment between adjacent plots and consume
+	// all remaining movement in a back-and-forth loop.
+	if (AI_getGroup()->AI_getMissionAIType() == MISSIONAI_GUARD_BONUS)
+	{
+		CvPlot* pMissionPlot = AI_getGroup()->AI_getMissionAIPlot();
+		if (pMissionPlot != NULL && pMissionPlot->getOwner() == getOwner() &&
+			isValidDomainForAction(*pMissionPlot) && AI_plotValid(*pMissionPlot) &&
+			!pMissionPlot->isVisibleEnemyUnit(this))
+		{
+			int iValue = AI_guardBonusPlotValue(*pMissionPlot);
+			if (iValue > iMinValue)
+			{
+				int const iPlotTargetMissionAIs = GET_PLAYER(getOwner()).
+						AI_plotTargetMissionAIs(*pMissionPlot,
+						MISSIONAI_GUARD_BONUS, getGroup());
+				// K-Mod: account for other units already assigned to this plot
+				iValue *= 2;
+				iValue /= 2 + iPlotTargetMissionAIs;
+				if (iValue > iMinValue)
+				{
+					if (at(*pMissionPlot))
+					{
+						getGroup()->pushMission(
+								canSeaPatrol(pMissionPlot) ? MISSION_SEAPATROL :
+								(isFortifyable() ? MISSION_FORTIFY : MISSION_SKIP),
+								-1, -1, NO_MOVEMENT_FLAGS, false, false,
+								MISSIONAI_GUARD_BONUS, pMissionPlot);
+						return true;
+					}
+					int iPathTurns;
+					if (generatePath(*pMissionPlot, NO_MOVEMENT_FLAGS, true,
+							&iPathTurns))
+					{
+						pushGroupMoveTo(getPathEndTurnPlot(), NO_MOVEMENT_FLAGS,
+								false, false, MISSIONAI_GUARD_BONUS, pMissionPlot);
+						return true;
+					}
+				}
+			}
+		}
+	}
 	CvPlot const* pBestPlot = NULL;
 	CvPlot const* pBestGuardPlot = NULL;
 	int iBestValue = 0;
@@ -10858,26 +10900,7 @@ bool CvUnitAI::AI_guardBonus(int iMinValue)
 		{
 			continue;
 		}
-		// <advc.028b>
-		int iValue = 0;
-		std::vector<CvPlot*> apGuardPlots;
-		AI_getGuardedPlots(kPlot, apGuardPlots);
-		for (size_t i = 0; i < apGuardPlots.size(); i++)
-		{
-			BonusTypes eBonus = apGuardPlots[i]->getNonObsoleteBonusType(getTeam(), true);
-			if (eBonus == NO_BONUS ||
-				(apGuardPlots[i]->isWater() &&
-				apGuardPlots[i]->defenseModifier(getTeam(), true) <= 0))
-			{
-				continue;
-			}
-			int iTmpVal = // </advc.028b>
-					GET_PLAYER(getOwner()).AI_bonusVal(eBonus, /* K-Mod: */ 0);
-			iTmpVal += std::max(0, 200 * GC.getInfo(eBonus).getAIObjective());
-			if (apGuardPlots[i]->getPlotGroupConnectedBonus(getOwner(), eBonus) == 1)
-				iTmpVal *= 2;
-			iValue += iTmpVal; // advc.028b
-		}
+		int iValue = AI_guardBonusPlotValue(kPlot);
 		if (iValue > iMinValue && !kPlot.isVisibleEnemyUnit(this))
 		{
 			int const iPlotTargetMissionAIs = GET_PLAYER(getOwner()).
@@ -10923,6 +10946,31 @@ bool CvUnitAI::AI_guardBonus(int iMinValue)
 	}
 
 	return false;
+}
+
+int CvUnitAI::AI_guardBonusPlotValue(CvPlot const& kPlot) const
+{
+	// <advc.028b>
+	int iValue = 0;
+	std::vector<CvPlot*> apGuardPlots;
+	AI_getGuardedPlots(kPlot, apGuardPlots);
+	for (size_t i = 0; i < apGuardPlots.size(); i++)
+	{
+		BonusTypes eBonus = apGuardPlots[i]->getNonObsoleteBonusType(getTeam(), true);
+		if (eBonus == NO_BONUS ||
+			(apGuardPlots[i]->isWater() &&
+			apGuardPlots[i]->defenseModifier(getTeam(), true) <= 0))
+		{
+			continue;
+		}
+		int iTmpVal = // </advc.028b>
+				GET_PLAYER(getOwner()).AI_bonusVal(eBonus, /* K-Mod: */ 0);
+		iTmpVal += std::max(0, 200 * GC.getInfo(eBonus).getAIObjective());
+		if (apGuardPlots[i]->getPlotGroupConnectedBonus(getOwner(), eBonus) == 1)
+			iTmpVal *= 2;
+		iValue += iTmpVal;
+	}
+	return iValue;
 }
 
 // advc.028b:

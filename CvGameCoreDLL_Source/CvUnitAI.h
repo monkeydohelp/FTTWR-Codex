@@ -171,6 +171,7 @@ protected:
 	bool AI_guardCoast(bool bPrimaryOnly = false,
 			MovementFlags eFlags = NO_MOVEMENT_FLAGS, int iMaxPath = -1); // </K-Mod>
 	bool AI_guardBonus(int iMinValue = 0);
+	int AI_guardBonusPlotValue(CvPlot const& kPlot) const;
 	// advc.028b:
 	void AI_getGuardedPlots(CvPlot const& kFrom, std::vector<CvPlot*>& kResult) const;
 	bool AI_guardYield(); // advc.300
