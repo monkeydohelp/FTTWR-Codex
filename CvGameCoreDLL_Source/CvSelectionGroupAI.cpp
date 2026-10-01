@@ -156,10 +156,10 @@ bool CvSelectionGroupAI::AI_update()
 		iMaxAttempts -= 4; // Trigger assert early
 	#endif
 		int const iTraceMaxAttempts = iMaxAttempts;
-		bool const bTraceWorkerStep =
+		bool const bTraceUnitStep =
 				iAttempts >= iTraceMaxAttempts - 3;
-		// Capture bounded worker snapshots only when the loop watchdog is near.
-		if (bTraceWorkerStep)
+		// Capture bounded unit snapshots only when the loop watchdog is near.
+		if (bTraceUnitStep)
 			GC.getLogger().logUnitStuckStep(*this, iAttempts,
 					iTraceMaxAttempts, false, false);
 		if (iAttempts == iMaxAttempts)
@@ -195,13 +195,13 @@ bool CvSelectionGroupAI::AI_update()
 				break;
 
 			//resetPath();
-			bool bWorkerOrderTrace = false;
-			if (bTraceWorkerStep)
-				bWorkerOrderTrace = GC.getLogger().beginWorkerOrderTrace(
+			bool bUnitOrderTrace = false;
+			if (bTraceUnitStep)
+				bUnitOrderTrace = GC.getLogger().beginUnitOrderTrace(
 						*this, iAttempts);
 			bool const bShouldAbort = pHeadUnit->AI_update();
-			GC.getLogger().endWorkerOrderTrace(bWorkerOrderTrace);
-			if (bTraceWorkerStep)
+			GC.getLogger().endUnitOrderTrace(bUnitOrderTrace);
+			if (bTraceUnitStep)
 				GC.getLogger().logUnitStuckStep(*this, iAttempts,
 						iTraceMaxAttempts, true, bShouldAbort);
 			if (bShouldAbort)
